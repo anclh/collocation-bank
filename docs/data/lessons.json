@@ -1,0 +1,2462 @@
+{
+  "generated": "2026-10-25T01:30:04Z",
+  "count": 21,
+  "lessons": [
+    {
+      "id": "2026-09-11-impact-effect",
+      "lesson": 1,
+      "date": "2026-09-11",
+      "theme": "Impact / Effect",
+      "title": "Impact / Effect",
+      "review": [],
+      "collocations": [
+        {
+          "phrase": "have a significant impact on",
+          "weak": "affect a lot",
+          "yue": "對……有重大影響",
+          "frame": "X has a significant impact on Y",
+          "model": "Online learning has a significant impact on students' study habits.",
+          "mistake": "impact to → 用 on"
+        },
+        {
+          "phrase": "have a profound impact on",
+          "weak": "deep/strong effect",
+          "yue": "對……有深遠影響",
+          "frame": "X has a profound impact on Y",
+          "model": "Childhood education has a profound impact on a person's future development.",
+          "mistake": "profound 唔適合形容輕微影響"
+        },
+        {
+          "phrase": "have a detrimental / adverse effect on",
+          "weak": "bad for",
+          "yue": "對……有不良影響",
+          "frame": "X has a detrimental effect on Y",
+          "model": "Excessive screen time can have a detrimental effect on teenagers' sleep quality.",
+          "mistake": "避免寫 bad effect on"
+        },
+        {
+          "phrase": "make a significant difference to",
+          "weak": "help a lot",
+          "yue": "對……有明顯分別",
+          "frame": "X can make a significant difference to Y",
+          "model": "Small lifestyle changes can make a significant difference to public health.",
+          "mistake": "difference on → 用 to"
+        },
+        {
+          "phrase": "contribute to",
+          "weak": "help cause",
+          "yue": "促成／導致",
+          "frame": "X contributes to Y",
+          "model": "Poor diet contributes to a wide range of health problems.",
+          "mistake": "呢度唔只係 donate money"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：affect a lot",
+            "type": "rewrite",
+            "answer": "have a significant impact on",
+            "choices": [],
+            "accept": "have a significant impact on"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（impact / imapct）",
+            "type": "choose",
+            "answer": "impact",
+            "choices": [
+              "impact",
+              "imapct"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Small lifestyle changes can ______ public health.",
+            "type": "fill",
+            "answer": "make a significant difference to",
+            "choices": [],
+            "accept": "make a significant difference to"
+          }
+        ]
+      },
+      "passage": "Online learning has a significant impact on students' study habits. Childhood education has a profound impact on a person's future development. Excessive screen time can have a detrimental effect on teenagers' sleep quality. Small lifestyle changes can **make a significant difference to** public health. Poor diet contributes to a wide range of health problems.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **have a significant impact on** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "對……有重大影響",
+          "choices": [
+            "對……有重大影響",
+            "對……有深遠影響",
+            "對……有不良影響",
+            "對……有明顯分別"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **have a detrimental / adverse effect on** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "Excessive screen time can have a detrimental effect on teenagers' sleep quality.",
+          "choices": [],
+          "accept": "have a detrimental / adverse effect on"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Cause and result",
+      "sourceFile": "2026-09-11 - Impact Effect.md"
+    },
+    {
+      "id": "2026-09-12-cause-and-result",
+      "lesson": 2,
+      "date": "2026-09-12",
+      "theme": "Cause and Result",
+      "title": "Cause and Result",
+      "review": [],
+      "collocations": [
+        {
+          "phrase": "lead to",
+          "weak": "cause/make",
+          "yue": "導致",
+          "frame": "X leads to Y / lead to + V-ing",
+          "model": "Heavy traffic often leads to longer commuting times.",
+          "mistake": "lead to rise → lead to rising costs"
+        },
+        {
+          "phrase": "result in",
+          "weak": "cause/bring",
+          "yue": "造成結果",
+          "frame": "X results in Y",
+          "model": "Poor diet can result in serious health problems.",
+          "mistake": "唔好同 result from 混淆"
+        },
+        {
+          "phrase": "stem from",
+          "weak": "come from/because of",
+          "yue": "源自",
+          "frame": "X stems from Y",
+          "model": "Many social tensions stem from economic inequality.",
+          "mistake": "stem from because 係重複"
+        },
+        {
+          "phrase": "give rise to",
+          "weak": "cause/create",
+          "yue": "引發",
+          "frame": "X gives rise to Y",
+          "model": "Rapid urbanisation has given rise to housing shortages.",
+          "mistake": "通常唔寫 I give rise to"
+        },
+        {
+          "phrase": "be attributed to",
+          "weak": "because of",
+          "yue": "被歸因於",
+          "frame": "X is/can be attributed to Y",
+          "model": "The decline in reading can be attributed to excessive screen time.",
+          "mistake": "較自然用被動 be attributed to"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：cause/make",
+            "type": "rewrite",
+            "answer": "lead to",
+            "choices": [],
+            "accept": "lead to"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（result / reuslt）",
+            "type": "choose",
+            "answer": "result",
+            "choices": [
+              "result",
+              "reuslt"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Write the collocation that means「引發」。",
+            "type": "fill",
+            "answer": "give rise to",
+            "choices": [],
+            "accept": "give rise to"
+          }
+        ]
+      },
+      "passage": "Heavy traffic often leads to longer commuting times. Poor diet can **result in** serious health problems. Many social tensions **stem from** economic inequality. Rapid urbanisation has given rise to housing shortages. The decline in reading can **be attributed to** excessive screen time.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **lead to** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "導致",
+          "choices": [
+            "導致",
+            "造成結果",
+            "源自",
+            "引發"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **stem from** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "Many social tensions stem from economic inequality.",
+          "choices": [],
+          "accept": "stem from"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Problems and threats",
+      "sourceFile": "2026-09-12 - Cause and Result.md"
+    },
+    {
+      "id": "2026-09-13-problems-and-threats",
+      "lesson": 3,
+      "date": "2026-09-13",
+      "theme": "Problems and Threats",
+      "title": "Problems and Threats",
+      "review": [],
+      "collocations": [
+        {
+          "phrase": "pose a threat to",
+          "weak": "be dangerous for",
+          "yue": "對……構成威脅",
+          "frame": "pose a (serious) threat to + N",
+          "model": "Rising sea levels pose a serious threat to coastal cities.",
+          "mistake": "threat for → 用 to"
+        },
+        {
+          "phrase": "raise concerns about",
+          "weak": "make people worry",
+          "yue": "引起關注／憂慮",
+          "frame": "raise concerns about + N/V-ing",
+          "model": "The new policy has raised concerns about data privacy.",
+          "mistake": "concerns of → 用 about"
+        },
+        {
+          "phrase": "be faced with",
+          "weak": "have a problem",
+          "yue": "面對",
+          "frame": "be faced with + N",
+          "model": "Many graduates are faced with intense competition in the job market.",
+          "mistake": "faced by → 用 with"
+        },
+        {
+          "phrase": "exacerbate the problem",
+          "weak": "make worse",
+          "yue": "令問題惡化",
+          "frame": "exacerbate the problem/situation",
+          "model": "Cutting education funding may exacerbate the problem of youth unemployment.",
+          "mistake": "exacerbate 唔等於 exasperate"
+        },
+        {
+          "phrase": "be a major concern",
+          "weak": "big worry",
+          "yue": "重大關注點",
+          "frame": "be a major concern for/among",
+          "model": "Housing affordability is a major concern for young adults in Hong Kong.",
+          "mistake": "唔好寫 a major concerning"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：be dangerous for",
+            "type": "rewrite",
+            "answer": "pose a threat to",
+            "choices": [],
+            "accept": "pose a threat to"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（about / aobut）",
+            "type": "choose",
+            "answer": "about",
+            "choices": [
+              "about",
+              "aobut"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Cutting education funding may ______ of youth unemployment.",
+            "type": "fill",
+            "answer": "exacerbate the problem",
+            "choices": [],
+            "accept": "exacerbate the problem"
+          }
+        ]
+      },
+      "passage": "Rising sea levels pose a serious threat to coastal cities. The new policy has raised concerns about data privacy. Many graduates are faced with intense competition in the job market. Cutting education funding may **exacerbate the problem** of youth unemployment. Housing affordability is a major concern for young adults in Hong Kong.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **pose a threat to** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "對……構成威脅",
+          "choices": [
+            "對……構成威脅",
+            "引起關注／憂慮",
+            "面對",
+            "令問題惡化"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **be faced with** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "Many graduates are faced with intense competition in the job market.",
+          "choices": [],
+          "accept": "be faced with"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Solutions and measures",
+      "sourceFile": "2026-09-13 - Problems and Threats.md"
+    },
+    {
+      "id": "2026-09-14-solutions-and-measures",
+      "lesson": 4,
+      "date": "2026-09-14",
+      "theme": "Solutions and Measures",
+      "title": "Solutions and Measures",
+      "review": [],
+      "collocations": [
+        {
+          "phrase": "take measures to",
+          "weak": "do something about",
+          "yue": "採取措施",
+          "frame": "take measures to + V",
+          "model": "Governments should take measures to reduce plastic waste.",
+          "mistake": "measures of reducing → 用 to reduce"
+        },
+        {
+          "phrase": "implement policies",
+          "weak": "put rules into practice",
+          "yue": "落實政策",
+          "frame": "implement policies (aimed at / to + V)",
+          "model": "Many cities have implemented policies aimed at cutting traffic emissions.",
+          "mistake": "implement 唔可以接 people"
+        },
+        {
+          "phrase": "address the issue",
+          "weak": "deal with the problem",
+          "yue": "處理問題",
+          "frame": "address the issue/problem of + N",
+          "model": "Schools need to address the issue of exam stress among students.",
+          "mistake": "呢度 address 唔係街道地址"
+        },
+        {
+          "phrase": "mitigate the effects of",
+          "weak": "make bad effects smaller",
+          "yue": "減輕影響",
+          "frame": "mitigate the effects/impact of + N",
+          "model": "Early intervention can mitigate the effects of childhood poverty.",
+          "mistake": "留意 mitigate 嘅拼法"
+        },
+        {
+          "phrase": "put forward proposals",
+          "weak": "suggest ideas",
+          "yue": "提出方案",
+          "frame": "put forward proposals / a proposal to + V",
+          "model": "Experts have put forward proposals to improve public transport.",
+          "mistake": "put forwards → 唔加 s"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：do something about",
+            "type": "rewrite",
+            "answer": "take measures to",
+            "choices": [],
+            "accept": "take measures to"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（policies / polciies）",
+            "type": "choose",
+            "answer": "policies",
+            "choices": [
+              "policies",
+              "polciies"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Early intervention can ______ childhood poverty.",
+            "type": "fill",
+            "answer": "mitigate the effects of",
+            "choices": [],
+            "accept": "mitigate the effects of"
+          }
+        ]
+      },
+      "passage": "Governments should **take measures to** reduce plastic waste. Many cities have implemented policies aimed at cutting traffic emissions. Schools need to **address the issue** of exam stress among students. Early intervention can **mitigate the effects of** childhood poverty. Experts have **put forward proposals** to improve public transport.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **take measures to** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "採取措施",
+          "choices": [
+            "採取措施",
+            "落實政策",
+            "處理問題",
+            "減輕影響"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **address the issue** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "Schools need to address the issue of exam stress among students.",
+          "choices": [],
+          "accept": "address the issue"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Increase, decrease and quantity",
+      "sourceFile": "2026-09-14 - Solutions and Measures.md"
+    },
+    {
+      "id": "2026-09-15-increase-decrease-quantity",
+      "lesson": 5,
+      "date": "2026-09-15",
+      "theme": "Increase / Decrease / Quantity",
+      "title": "Increase / Decrease / Quantity",
+      "review": [],
+      "collocations": [
+        {
+          "phrase": "a sharp increase in",
+          "weak": "go up a lot",
+          "yue": "大幅上升",
+          "frame": "a sharp increase in + noun",
+          "model": "There has been a sharp increase in remote working since 2020.",
+          "mistake": "increase of people → 用 increase in the number of"
+        },
+        {
+          "phrase": "decline significantly",
+          "weak": "go down a lot",
+          "yue": "明顯下降",
+          "frame": "decline significantly / a significant decline in",
+          "model": "Birth rates have declined significantly in many developed countries.",
+          "mistake": "decline in sales，唔好寫 decline to do"
+        },
+        {
+          "phrase": "a substantial proportion of",
+          "weak": "a lot of",
+          "yue": "相當大比例",
+          "frame": "a substantial proportion of + noun",
+          "model": "A substantial proportion of young people rely on public transport.",
+          "mistake": "proportion from → 用 of"
+        },
+        {
+          "phrase": "experience a surge in",
+          "weak": "suddenly have much more",
+          "yue": "經歷急升",
+          "frame": "experience a surge in + noun",
+          "model": "Online retailers experienced a surge in demand during the holiday season.",
+          "mistake": "較自然寫 surge in demand"
+        },
+        {
+          "phrase": "account for",
+          "weak": "make up",
+          "yue": "佔（比例）",
+          "frame": "account for + percentage",
+          "model": "Renewable energy now accounts for nearly 30% of electricity generation.",
+          "mistake": "呢度係 make up，唔係 explain"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：go up a lot",
+            "type": "rewrite",
+            "answer": "a sharp increase in",
+            "choices": [],
+            "accept": "a sharp increase in"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（significantly / signiifcantly）",
+            "type": "choose",
+            "answer": "significantly",
+            "choices": [
+              "significantly",
+              "signiifcantly"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Write the collocation that means「經歷急升」。",
+            "type": "fill",
+            "answer": "experience a surge in",
+            "choices": [],
+            "accept": "experience a surge in"
+          }
+        ]
+      },
+      "passage": "There has been **a sharp increase in** remote working since 2020. Birth rates have declined significantly in many developed countries. **a substantial proportion of** young people rely on public transport. Online retailers experienced a surge in demand during the holiday season. Renewable energy now accounts for nearly 30% of electricity generation.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **a sharp increase in** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "大幅上升",
+          "choices": [
+            "大幅上升",
+            "明顯下降",
+            "相當大比例",
+            "經歷急升"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **a substantial proportion of** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "A substantial proportion of young people rely on public transport.",
+          "choices": [],
+          "accept": "a substantial proportion of"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Opinion, argument and conclusion",
+      "sourceFile": "2026-09-15 - Increase Decrease Quantity.md"
+    },
+    {
+      "id": "2026-09-16-opinion-argument-conclusion",
+      "lesson": 6,
+      "date": "2026-09-16",
+      "theme": "Opinion / Argument / Conclusion",
+      "title": "Opinion / Argument / Conclusion",
+      "review": [],
+      "collocations": [
+        {
+          "phrase": "hold the view that",
+          "weak": "I think",
+          "yue": "認為",
+          "frame": "hold the view that + clause",
+          "model": "Many educators hold the view that creativity should be assessed alongside exam scores.",
+          "mistake": "hold the view of that → 用 hold the view that"
+        },
+        {
+          "phrase": "it is widely believed that",
+          "weak": "many people think",
+          "yue": "普遍認為",
+          "frame": "It is widely believed that + clause",
+          "model": "It is widely believed that early reading habits shape later academic success.",
+          "mistake": "widely believe → 用 widely believed"
+        },
+        {
+          "phrase": "lend support to",
+          "weak": "support",
+          "yue": "為論點提供支持",
+          "frame": "lend support to + noun",
+          "model": "Recent surveys lend support to the argument that flexible hours raise productivity.",
+          "mistake": "support for → 呢個片語用 to"
+        },
+        {
+          "phrase": "cast doubt on",
+          "weak": "make people doubt",
+          "yue": "令人質疑",
+          "frame": "cast doubt on + noun",
+          "model": "Conflicting data cast doubt on the claim that longer school days always help.",
+          "mistake": "doubt to → 用 on"
+        },
+        {
+          "phrase": "reach the conclusion that",
+          "weak": "so I think",
+          "yue": "得出結論",
+          "frame": "reach the conclusion that + clause",
+          "model": "Overall, I reach the conclusion that balanced assessment benefits both students and teachers.",
+          "mistake": "reach to the conclusion → 唔用 to"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：I think",
+            "type": "rewrite",
+            "answer": "hold the view that",
+            "choices": [],
+            "accept": "hold the view that"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（that / thate）",
+            "type": "choose",
+            "answer": "that",
+            "choices": [
+              "that",
+              "thate"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Conflicting data ______ the claim that longer school days always help.",
+            "type": "fill",
+            "answer": "cast doubt on",
+            "choices": [],
+            "accept": "cast doubt on"
+          }
+        ]
+      },
+      "passage": "Many educators **hold the view that** creativity should be assessed alongside exam scores. **it is widely believed that** early reading habits shape later academic success. Recent surveys **lend support to** the argument that flexible hours raise productivity. Conflicting data **cast doubt on** the claim that longer school days always help. Overall, I **reach the conclusion that** balanced assessment benefits both students and teachers.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **hold the view that** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "認為",
+          "choices": [
+            "認為",
+            "普遍認為",
+            "為論點提供支持",
+            "令人質疑"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **lend support to** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "Recent surveys lend support to the argument that flexible hours raise productivity.",
+          "choices": [],
+          "accept": "lend support to"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Education",
+      "sourceFile": "2026-09-16 - Opinion Argument Conclusion.md"
+    },
+    {
+      "id": "2026-09-17-education",
+      "lesson": 7,
+      "date": "2026-09-17",
+      "theme": "Education",
+      "title": "Education",
+      "review": [],
+      "collocations": [
+        {
+          "phrase": "pursue higher education",
+          "weak": "go to university",
+          "yue": "繼續升學",
+          "frame": "pursue higher education (in + field)",
+          "model": "More young people now pursue higher education to improve their career prospects.",
+          "mistake": "pursue to higher education → 唔用 to"
+        },
+        {
+          "phrase": "equip students with",
+          "weak": "give students skills",
+          "yue": "裝備能力",
+          "frame": "equip students with + noun",
+          "model": "Schools should equip students with practical skills for the workplace.",
+          "mistake": "equip students to skills → 用 with"
+        },
+        {
+          "phrase": "place a strong emphasis on",
+          "weak": "focus a lot on",
+          "yue": "強調／重視",
+          "frame": "place a strong emphasis on + noun/V-ing",
+          "model": "The new curriculum places a strong emphasis on creativity.",
+          "mistake": "emphasis in → 用 on"
+        },
+        {
+          "phrase": "foster critical thinking",
+          "weak": "help students think better",
+          "yue": "培養批判思維",
+          "frame": "foster critical thinking (among/in)",
+          "model": "Group discussion can foster critical thinking among secondary students.",
+          "mistake": "通常唔加 the"
+        },
+        {
+          "phrase": "have access to education",
+          "weak": "can go to school",
+          "yue": "有機會接受教育",
+          "frame": "have/gain access to education",
+          "model": "Children in remote areas often do not have access to education.",
+          "mistake": "an access → access 係不可數"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：go to university",
+            "type": "rewrite",
+            "answer": "pursue higher education",
+            "choices": [],
+            "accept": "pursue higher education"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（with / withe）",
+            "type": "choose",
+            "answer": "with",
+            "choices": [
+              "with",
+              "withe"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Group discussion can ______ among secondary students.",
+            "type": "fill",
+            "answer": "foster critical thinking",
+            "choices": [],
+            "accept": "foster critical thinking"
+          }
+        ]
+      },
+      "passage": "More young people now **pursue higher education** to improve their career prospects. Schools should **equip students with** practical skills for the workplace. The new curriculum places a strong emphasis on creativity. Group discussion can **foster critical thinking** among secondary students. Children in remote areas often do not **have access to education**.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **pursue higher education** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "繼續升學",
+          "choices": [
+            "繼續升學",
+            "裝備能力",
+            "強調／重視",
+            "培養批判思維"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **place a strong emphasis on** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "The new curriculum places a strong emphasis on creativity.",
+          "choices": [],
+          "accept": "place a strong emphasis on"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Environment",
+      "sourceFile": "2026-09-17 - Education.md"
+    },
+    {
+      "id": "2026-09-18-environment",
+      "lesson": 8,
+      "date": "2026-09-18",
+      "theme": "Environment",
+      "title": "Environment",
+      "review": [],
+      "collocations": [
+        {
+          "phrase": "cause irreversible damage to",
+          "weak": "damage nature badly",
+          "yue": "不可逆轉破壞",
+          "frame": "cause irreversible damage to + noun",
+          "model": "Deforestation can cause irreversible damage to local ecosystems.",
+          "mistake": "damage 係不可數，唔寫 damages"
+        },
+        {
+          "phrase": "deplete natural resources",
+          "weak": "use up natural things",
+          "yue": "耗盡自然資源",
+          "frame": "deplete natural resources",
+          "model": "Overconsumption continues to deplete natural resources at an alarming rate.",
+          "mistake": "唔好用 finish"
+        },
+        {
+          "phrase": "reduce carbon emissions",
+          "weak": "cut CO2",
+          "yue": "減少碳排放",
+          "frame": "reduce/cut carbon emissions",
+          "model": "Governments must reduce carbon emissions to limit global warming.",
+          "mistake": "emission 用單數通常唔啱"
+        },
+        {
+          "phrase": "switch to renewable energy sources",
+          "weak": "use green energy",
+          "yue": "轉用可再生能源",
+          "frame": "switch to renewable energy sources",
+          "model": "Cities should switch to renewable energy sources such as solar and wind power.",
+          "mistake": "較好寫 renewable energy sources"
+        },
+        {
+          "phrase": "preserve biodiversity",
+          "weak": "protect animals",
+          "yue": "保護生物多樣性",
+          "frame": "preserve/protect biodiversity",
+          "model": "National parks help preserve biodiversity by providing safe habitats for wildlife.",
+          "mistake": "biodiversity 係不可數，唔寫 biodiversities"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：damage nature badly",
+            "type": "rewrite",
+            "answer": "cause irreversible damage to",
+            "choices": [],
+            "accept": "cause irreversible damage to"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（resources / resuorces）",
+            "type": "choose",
+            "answer": "resources",
+            "choices": [
+              "resources",
+              "resuorces"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Cities should ______ such as solar and wind power.",
+            "type": "fill",
+            "answer": "switch to renewable energy sources",
+            "choices": [],
+            "accept": "switch to renewable energy sources"
+          }
+        ]
+      },
+      "passage": "Deforestation can **cause irreversible damage to** local ecosystems. Overconsumption continues to **deplete natural resources** at an alarming rate. Governments must **reduce carbon emissions** to limit global warming. Cities should **switch to renewable energy sources** such as solar and wind power. National parks help **preserve biodiversity** by providing safe habitats for wildlife.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **cause irreversible damage to** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "不可逆轉破壞",
+          "choices": [
+            "不可逆轉破壞",
+            "耗盡自然資源",
+            "減少碳排放",
+            "轉用可再生能源"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **reduce carbon emissions** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "Governments must reduce carbon emissions to limit global warming.",
+          "choices": [],
+          "accept": "reduce carbon emissions"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Technology",
+      "sourceFile": "2026-09-18 - Environment.md"
+    },
+    {
+      "id": "2026-09-19-technology",
+      "lesson": 9,
+      "date": "2026-09-19",
+      "theme": "Technology",
+      "title": "Technology",
+      "review": [],
+      "collocations": [
+        {
+          "phrase": "rely heavily on technology",
+          "weak": "depend a lot on tech",
+          "yue": "好依賴科技",
+          "frame": "rely heavily on technology",
+          "model": "Many industries now rely heavily on technology to stay competitive.",
+          "mistake": "heavily in → 用 on"
+        },
+        {
+          "phrase": "keep pace with technological advances",
+          "weak": "keep up with new tech",
+          "yue": "跟得上科技進步",
+          "frame": "keep pace with technological advances",
+          "model": "Schools must keep pace with technological advances to prepare students for the future.",
+          "mistake": "pace to → 用 with"
+        },
+        {
+          "phrase": "bridge the digital divide",
+          "weak": "make internet gap smaller",
+          "yue": "縮短數碼鴻溝",
+          "frame": "bridge the digital divide (between…)",
+          "model": "Governments should invest in infrastructure to bridge the digital divide between urban and rural areas.",
+          "mistake": "要用 the"
+        },
+        {
+          "phrase": "raise privacy concerns",
+          "weak": "make people worry about privacy",
+          "yue": "引起私隱憂慮",
+          "frame": "raise privacy concerns",
+          "model": "Facial-recognition cameras in public places raise privacy concerns among citizens.",
+          "mistake": "concerning → 用 concerns"
+        },
+        {
+          "phrase": "transform the way we …",
+          "weak": "change how we",
+          "yue": "徹底改變方式",
+          "frame": "transform the way we work/learn/communicate",
+          "model": "Smartphones have transformed the way we communicate with friends and colleagues.",
+          "mistake": "唔好寫 the way how we"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：depend a lot on tech",
+            "type": "rewrite",
+            "answer": "rely heavily on technology",
+            "choices": [],
+            "accept": "rely heavily on technology"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（advances / advnaces）",
+            "type": "choose",
+            "answer": "advances",
+            "choices": [
+              "advances",
+              "advnaces"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Facial-recognition cameras in public places ______ among citizens.",
+            "type": "fill",
+            "answer": "raise privacy concerns",
+            "choices": [],
+            "accept": "raise privacy concerns"
+          }
+        ]
+      },
+      "passage": "Many industries now **rely heavily on technology** to stay competitive. Schools must **keep pace with technological advances** to prepare students for the future. Governments should invest in infrastructure to **bridge the digital divide** between urban and rural areas. Facial-recognition cameras in public places **raise privacy concerns** among citizens. Smartphones have transformed the way we communicate with friends and colleagues.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **rely heavily on technology** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "好依賴科技",
+          "choices": [
+            "好依賴科技",
+            "跟得上科技進步",
+            "縮短數碼鴻溝",
+            "引起私隱憂慮"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **bridge the digital divide** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "Governments should invest in infrastructure to bridge the digital divide between urban and rural areas.",
+          "choices": [],
+          "accept": "bridge the digital divide"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Health",
+      "sourceFile": "2026-09-19 - Technology.md"
+    },
+    {
+      "id": "2026-09-20-health",
+      "lesson": 10,
+      "date": "2026-09-20",
+      "theme": "Health",
+      "title": "Health",
+      "review": [],
+      "collocations": [
+        {
+          "phrase": "lead a sedentary lifestyle",
+          "weak": "sit a lot",
+          "yue": "少郁動生活",
+          "frame": "lead a sedentary lifestyle",
+          "model": "Many office workers lead a sedentary lifestyle, which can weaken their physical fitness over time.",
+          "mistake": "have a sedentary life 冇咁自然"
+        },
+        {
+          "phrase": "suffer from chronic diseases",
+          "weak": "have long-term illness",
+          "yue": "患慢性病",
+          "frame": "suffer from chronic diseases",
+          "model": "An ageing population means more people suffer from chronic diseases such as diabetes and heart disease.",
+          "mistake": "要用 from"
+        },
+        {
+          "phrase": "have access to healthcare",
+          "weak": "can get medical help",
+          "yue": "獲得醫療服務",
+          "frame": "have/gain access to healthcare",
+          "model": "In rural areas, residents often do not have access to healthcare of the same quality as city dwellers.",
+          "mistake": "healthcare 係不可數，唔寫 healthcares"
+        },
+        {
+          "phrase": "improve public health",
+          "weak": "make people’s health better",
+          "yue": "改善公共衛生",
+          "frame": "improve public health",
+          "model": "Clean water and vaccination programmes help governments improve public health across the country.",
+          "mistake": "唔好寫 improve the public’s healthy"
+        },
+        {
+          "phrase": "enjoy a longer life expectancy",
+          "weak": "live longer on average",
+          "yue": "更長預期壽命",
+          "frame": "enjoy a longer/higher life expectancy",
+          "model": "Thanks to better nutrition and medicine, many countries now enjoy a longer life expectancy than a century ago.",
+          "mistake": "講國家趨勢通常用單數"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：sit a lot",
+            "type": "rewrite",
+            "answer": "lead a sedentary lifestyle",
+            "choices": [],
+            "accept": "lead a sedentary lifestyle"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（diseases / disaeses）",
+            "type": "choose",
+            "answer": "diseases",
+            "choices": [
+              "diseases",
+              "disaeses"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Clean water and vaccination programmes help governments ______ across the country.",
+            "type": "fill",
+            "answer": "improve public health",
+            "choices": [],
+            "accept": "improve public health"
+          }
+        ]
+      },
+      "passage": "Many office workers **lead a sedentary lifestyle**, which can weaken their physical fitness over time. An ageing population means more people **suffer from chronic diseases** such as diabetes and heart disease. In rural areas, residents often do not **have access to healthcare** of the same quality as city dwellers. Clean water and vaccination programmes help governments **improve public health** across the country. Thanks to better nutrition and medicine, many countries now **enjoy a longer life expectancy** than a century ago.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **lead a sedentary lifestyle** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "少郁動生活",
+          "choices": [
+            "少郁動生活",
+            "患慢性病",
+            "獲得醫療服務",
+            "改善公共衛生"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **have access to healthcare** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "In rural areas, residents often do not have access to healthcare of the same quality as city dwellers.",
+          "choices": [],
+          "accept": "have access to healthcare"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Government and society",
+      "sourceFile": "2026-09-20 - Health.md"
+    },
+    {
+      "id": "2026-09-21-government-and-society",
+      "lesson": 11,
+      "date": "2026-09-21",
+      "theme": "Government and Society",
+      "title": "Government and Society",
+      "review": [],
+      "collocations": [
+        {
+          "phrase": "introduce legislation",
+          "weak": "make new laws",
+          "yue": "推出法例",
+          "frame": "introduce legislation to + V / on + N",
+          "model": "The government plans to introduce legislation to curb online hate speech.",
+          "mistake": "legislation 係不可數，唔寫 a legislation"
+        },
+        {
+          "phrase": "enforce the law",
+          "weak": "make people follow the law",
+          "yue": "執法",
+          "frame": "enforce the law / enforce regulations",
+          "model": "Passing a bill is not enough; authorities must also enforce the law.",
+          "mistake": "enforce 唔等於 reinforce"
+        },
+        {
+          "phrase": "allocate public funds",
+          "weak": "give money to",
+          "yue": "撥出公帑",
+          "frame": "allocate public funds to + N / for + V-ing",
+          "model": "The council decided to allocate public funds to affordable housing.",
+          "mistake": "較好用 allocate to/for"
+        },
+        {
+          "phrase": "maintain social stability",
+          "weak": "keep society calm",
+          "yue": "維持社會穩定",
+          "frame": "maintain social stability",
+          "model": "Fair policing helps maintain social stability in diverse cities.",
+          "mistake": "the social stable → 用 social stability"
+        },
+        {
+          "phrase": "tackle social inequality",
+          "weak": "fix the rich-poor problem",
+          "yue": "應對社會不平等",
+          "frame": "tackle social inequality",
+          "model": "Progressive taxation is one way to tackle social inequality.",
+          "mistake": "solve completely 太絕對；用 tackle/address/reduce"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：make new laws",
+            "type": "rewrite",
+            "answer": "introduce legislation",
+            "choices": [],
+            "accept": "introduce legislation"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（enforce / enofrce）",
+            "type": "choose",
+            "answer": "enforce",
+            "choices": [
+              "enforce",
+              "enofrce"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Fair policing helps ______ in diverse cities.",
+            "type": "fill",
+            "answer": "maintain social stability",
+            "choices": [],
+            "accept": "maintain social stability"
+          }
+        ]
+      },
+      "passage": "The government plans to **introduce legislation** to curb online hate speech. Passing a bill is not enough; authorities must also **enforce the law**. The council decided to **allocate public funds** to affordable housing. Fair policing helps **maintain social stability** in diverse cities. Progressive taxation is one way to **tackle social inequality**.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **introduce legislation** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "推出法例",
+          "choices": [
+            "推出法例",
+            "執法",
+            "撥出公帑",
+            "維持社會穩定"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **allocate public funds** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "The council decided to allocate public funds to affordable housing.",
+          "choices": [],
+          "accept": "allocate public funds"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Importance and role",
+      "sourceFile": "2026-09-21 - Government and Society.md"
+    },
+    {
+      "id": "2026-09-22-importance-role",
+      "lesson": 12,
+      "date": "2026-09-22",
+      "theme": "Importance / Role",
+      "title": "Importance / Role",
+      "review": [
+        {
+          "phrase": "introduce legislation",
+          "yue": "提出／引入法例"
+        },
+        {
+          "phrase": "enforce the law",
+          "yue": "執法"
+        },
+        {
+          "phrase": "allocate public funds",
+          "yue": "分配公帑"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "play a vital role in",
+          "weak": "is very important",
+          "yue": "喺某事入面扮演關鍵角色",
+          "frame": "X plays a vital role in + noun / V-ing",
+          "model": "Teachers play a vital role in shaping young people’s values.",
+          "mistake": "唔好寫 play a vital role to do；用 in + noun/V-ing"
+        },
+        {
+          "phrase": "be of great importance to",
+          "weak": "is very important for",
+          "yue": "對……極為重要（正式學術語氣）",
+          "frame": "X is / are of great importance to + noun",
+          "model": "Reliable data is of great importance to policymakers.",
+          "mistake": "唔好寫 of greatly importance；用形容詞 great"
+        },
+        {
+          "phrase": "be essential to",
+          "weak": "is necessary / needed",
+          "yue": "對……必不可少",
+          "frame": "X is essential to + noun / V-ing",
+          "model": "Clear communication is essential to teamwork.",
+          "mistake": "後面多數接名詞或 V-ing"
+        },
+        {
+          "phrase": "be instrumental in",
+          "weak": "helped a lot to",
+          "yue": "對促成某事起重要作用",
+          "frame": "X was / is instrumental in + V-ing / noun",
+          "model": "Community groups were instrumental in raising awareness of the issue.",
+          "mistake": "用 in + V-ing，唔係 instrumental to do"
+        },
+        {
+          "phrase": "occupy a central place in",
+          "weak": "is the most important part of",
+          "yue": "喺……當中佔核心位置",
+          "frame": "X occupies a central place in + noun",
+          "model": "Education occupies a central place in national development plans.",
+          "mistake": "place 多數用單數"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：is very important",
+            "type": "rewrite",
+            "answer": "play a vital role in",
+            "choices": [],
+            "accept": "play a vital role in"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（importance / impotrance）",
+            "type": "choose",
+            "answer": "importance",
+            "choices": [
+              "importance",
+              "impotrance"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Write the collocation that means「對促成某事起重要作用」。",
+            "type": "fill",
+            "answer": "be instrumental in",
+            "choices": [],
+            "accept": "be instrumental in"
+          }
+        ]
+      },
+      "passage": "In a modern society, education **occupies a central place in** personal and national progress. Schools and universities **play a vital role in** preparing young people for work and civic life. Access to quality learning **is of great importance to** families who hope their children will have better opportunities. Digital skills, in particular, **are essential to** competing in today’s job market. Over the past decade, reforms that expanded scholarships and training schemes **were instrumental in** narrowing the gap between rich and poor districts. Without sustained investment in teaching and facilities, these gains may not last.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **play a vital role in** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "喺某事入面扮演關鍵角色",
+          "choices": [
+            "喺某事入面扮演關鍵角色",
+            "對……極為重要（正式學術語氣）",
+            "對……必不可少",
+            "對促成某事起重要作用"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **be essential to** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "Clear communication is essential to teamwork.",
+          "choices": [],
+          "accept": "be essential to"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Impact / Effect（影響／效果）",
+      "sourceFile": "2026-09-22 - Importance Role.md"
+    },
+    {
+      "id": "2026-09-24-impact-effect",
+      "lesson": 13,
+      "date": "2026-09-24",
+      "theme": "Impact / Effect",
+      "title": "Impact / Effect",
+      "review": [
+        {
+          "phrase": "play a vital role in",
+          "yue": "喺某事入面扮演關鍵角色"
+        },
+        {
+          "phrase": "be of great importance to",
+          "yue": "對……極為重要"
+        },
+        {
+          "phrase": "be essential to",
+          "yue": "對……必不可少"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "have far-reaching consequences for",
+          "weak": "have a big effect on many things",
+          "yue": "對……帶來深遠／廣泛後果",
+          "frame": "X has / have far-reaching consequences for + noun",
+          "model": "Air pollution has far-reaching consequences for public health and the economy.",
+          "mistake": "用複數 consequences；前置詞用 for，唔係 to"
+        },
+        {
+          "phrase": "exert a strong influence on",
+          "weak": "strongly affect / have a big effect on",
+          "yue": "對……施加強烈影響",
+          "frame": "X exerts a strong influence on + noun",
+          "model": "Social media exerts a strong influence on young people’s opinions.",
+          "mistake": "動詞係 exert；後面用 on"
+        },
+        {
+          "phrase": "bring about change",
+          "weak": "cause change / make things change",
+          "yue": "促成／導致改變（正式）",
+          "frame": "X brings / brought about + (a) change / noun",
+          "model": "New transport policies brought about a clear change in commuting habits.",
+          "mistake": "完整片語係 bring about；唔好寫 bring a change about of"
+        },
+        {
+          "phrase": "have a knock-on effect on",
+          "weak": "then affect other things too",
+          "yue": "產生連鎖／連帶影響",
+          "frame": "X has / have a knock-on effect on + noun",
+          "model": "Rising fuel prices have a knock-on effect on food costs.",
+          "mistake": "用 knock-on effect；後面 on"
+        },
+        {
+          "phrase": "take its toll on",
+          "weak": "slowly damage / hurt over time",
+          "yue": "逐漸對……造成損害／損耗",
+          "frame": "X takes / took its toll on + noun",
+          "model": "Long working hours take their toll on employees’ mental health.",
+          "mistake": "主語複數時用 take their toll；後面用 on"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：have a big effect on many things",
+            "type": "rewrite",
+            "answer": "have far-reaching consequences for",
+            "choices": [],
+            "accept": "have far-reaching consequences for"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（influence / infulence）",
+            "type": "choose",
+            "answer": "influence",
+            "choices": [
+              "influence",
+              "infulence"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Rising fuel prices ______ food costs.",
+            "type": "fill",
+            "answer": "have a knock-on effect on",
+            "choices": [],
+            "accept": "have a knock-on effect on"
+          }
+        ]
+      },
+      "passage": "In many cities, high living costs **have far-reaching consequences for** ordinary families. Rent and transport alone can **take their toll on** household budgets, leaving little room for savings or education. Job insecurity also **exerts a strong influence on** spending decisions, as people delay major purchases. When one sector slows down, the downturn often **has a knock-on effect on** related industries such as retail and hospitality. Over time, targeted support and fair wages can **bring about** meaningful **change** in living standards, but progress is usually gradual rather than sudden.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **have far-reaching consequences for** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "對……帶來深遠／廣泛後果",
+          "choices": [
+            "對……帶來深遠／廣泛後果",
+            "對……施加強烈影響",
+            "促成／導致改變（正式）",
+            "產生連鎖／連帶影響"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **bring about change** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "New transport policies brought about a clear change in commuting habits.",
+          "choices": [],
+          "accept": "bring about change"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Cause and Result（因果）",
+      "sourceFile": "2026-09-24 - Impact Effect.md"
+    },
+    {
+      "id": "2026-09-28-cause-and-result",
+      "lesson": 14,
+      "date": "2026-09-28",
+      "theme": "Cause and Result",
+      "title": "Cause and Result",
+      "review": [
+        {
+          "phrase": "have far-reaching consequences for",
+          "yue": "對……帶來深遠／廣泛後果"
+        },
+        {
+          "phrase": "exert a strong influence on",
+          "yue": "對……施加強烈影響"
+        },
+        {
+          "phrase": "take its toll on",
+          "yue": "逐漸對……造成損害／損耗"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "arise from",
+          "weak": "come from / happen because of",
+          "yue": "源於／由……引起（正式）",
+          "frame": "X arises / arise from + noun",
+          "model": "Many workplace conflicts arise from poor communication.",
+          "mistake": "主語多數係問題／情況；唔好寫 arise from that people…（後面跟 noun / noun phrase）"
+        },
+        {
+          "phrase": "be the root cause of",
+          "weak": "be the main reason for",
+          "yue": "係……嘅根本原因",
+          "frame": "X is / are the root cause of + noun",
+          "model": "Poverty is often the root cause of poor educational outcomes.",
+          "mistake": "用 the root cause（通常單數）；後面 of，唔係 for"
+        },
+        {
+          "phrase": "culminate in",
+          "weak": "finally cause / end up causing",
+          "yue": "最終發展成為／以……告終",
+          "frame": "X culminates / culminated in + noun",
+          "model": "Years of underinvestment culminated in a serious housing shortage.",
+          "mistake": "後面用 in；通常指一段過程嘅最終結果"
+        },
+        {
+          "phrase": "be largely due to",
+          "weak": "mainly because of",
+          "yue": "主要由於……",
+          "frame": "X is / was largely due to + noun",
+          "model": "The drop in sales was largely due to weaker consumer demand.",
+          "mistake": "due to 後面跟 noun；正式寫作避免 due to people spent less"
+        },
+        {
+          "phrase": "be a direct consequence of",
+          "weak": "be directly caused by",
+          "yue": "係……嘅直接後果",
+          "frame": "X is / are a direct consequence of + noun",
+          "model": "Rising youth unemployment is a direct consequence of slow economic growth.",
+          "mistake": "用 consequence of；direct 強調因果好明顯"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：come from / happen because of",
+            "type": "rewrite",
+            "answer": "arise from",
+            "choices": [],
+            "accept": "arise from"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（cause / cuase）",
+            "type": "choose",
+            "answer": "cause",
+            "choices": [
+              "cause",
+              "cuase"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Write the collocation that means「主要由於……」。",
+            "type": "fill",
+            "answer": "be largely due to",
+            "choices": [],
+            "accept": "be largely due to"
+          }
+        ]
+      },
+      "passage": "In several Asian cities, worsening air quality does not simply **arise from** one factory or one busy road. Experts argue that rapid urban growth is often **the root cause of** higher emissions, as more vehicles and construction projects appear each year. The problem is also **largely due to** weak enforcement of environmental rules, which allows polluters to continue harmful practices. Over time, these pressures can **culminate in** dangerous smog episodes that disrupt schools and workplaces. For many residents, breathing difficulties are **a direct consequence of** prolonged exposure to fine particles, so clearer policies and cleaner transport have become urgent priorities.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **arise from** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "源於／由……引起（正式）",
+          "choices": [
+            "源於／由……引起（正式）",
+            "係……嘅根本原因",
+            "最終發展成為／以……告終",
+            "主要由於……"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **culminate in** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "Years of underinvestment culminated in a serious housing shortage.",
+          "choices": [],
+          "accept": "culminate in"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Problems and Threats（問題與威脅）",
+      "sourceFile": "2026-09-28 - Cause and Result.md"
+    },
+    {
+      "id": "2026-10-01-problems-and-threats",
+      "lesson": 15,
+      "date": "2026-10-01",
+      "theme": "Problems and Threats",
+      "title": "Problems and Threats",
+      "review": [
+        {
+          "phrase": "arise from",
+          "yue": "源於／由……引起"
+        },
+        {
+          "phrase": "be largely due to",
+          "yue": "主要由於……"
+        },
+        {
+          "phrase": "be a direct consequence of",
+          "yue": "係……嘅直接後果"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "be plagued by",
+          "weak": "have a lot of problems with / keep suffering from",
+          "yue": "長期飽受……困擾（問題／麻煩持續出現）",
+          "frame": "X is / are plagued by + noun",
+          "model": "Many coastal cities are plagued by flooding during the rainy season.",
+          "mistake": "後面通常跟問題／負面情況（crime, delays, shortages），唔係正面事物"
+        },
+        {
+          "phrase": "be under threat",
+          "weak": "might be damaged / could be lost",
+          "yue": "正面臨威脅／岌岌可危",
+          "frame": "X is / are under threat (from + noun)",
+          "model": "Traditional crafts are under threat from cheap mass production.",
+          "mistake": "用 under threat（唔係 under threaten）；可加 from 說明來源"
+        },
+        {
+          "phrase": "run the risk of",
+          "weak": "might / there is a chance that",
+          "yue": "冒住……嘅風險",
+          "frame": "run the risk of + -ing / noun",
+          "model": "Governments that ignore youth unemployment run the risk of long-term social unrest.",
+          "mistake": "後面多數跟 -ing 或名詞；唔好寫 run the risk to do"
+        },
+        {
+          "phrase": "be vulnerable to",
+          "weak": "easily hurt by / easily affected by",
+          "yue": "容易受到……傷害／影響（較弱勢、抵禦力低）",
+          "frame": "X is / are vulnerable to + noun",
+          "model": "Low-income families are vulnerable to sudden rises in food prices.",
+          "mistake": "用 vulnerable to（唔係 vulnerable of / for）"
+        },
+        {
+          "phrase": "present a formidable challenge",
+          "weak": "be a very hard problem",
+          "yue": "構成重大／艱巨嘅挑戰",
+          "frame": "X presents / present a formidable challenge (to + noun)",
+          "model": "An ageing population presents a formidable challenge to healthcare systems.",
+          "mistake": "formidable 係「艱巨」；後面可用 to 指出對邊方面有挑戰"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：have a lot of problems with / keep suffering from",
+            "type": "rewrite",
+            "answer": "be plagued by",
+            "choices": [],
+            "accept": "be plagued by"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（threat / threaten）",
+            "type": "choose",
+            "answer": "threat",
+            "choices": [
+              "threat",
+              "threaten"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Write the collocation that means「容易受到……傷害／影響（較弱勢、抵禦力低）」。",
+            "type": "fill",
+            "answer": "be vulnerable to",
+            "choices": [],
+            "accept": "be vulnerable to"
+          }
+        ]
+      },
+      "passage": "Many large cities **are plagued by** severe housing shortages, which push rents higher and force young workers to live far from their jobs. Affordable flats **are under threat** as older neighbourhoods are redeveloped into luxury projects. Families who rent **are vulnerable to** sudden eviction or sharp rent increases, especially when contracts offer little protection. Policymakers who delay action **run the risk of** deeper inequality and longer commuting times. Overall, balancing growth with fair housing access **presents a formidable challenge** for urban planners and local governments.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **be plagued by** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "長期飽受……困擾（問題／麻煩持續出現）",
+          "choices": [
+            "長期飽受……困擾（問題／麻煩持續出現）",
+            "正面臨威脅／岌岌可危",
+            "冒住……嘅風險",
+            "容易受到……傷害／影響（較弱勢、抵禦力低）"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **run the risk of** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "Governments that ignore youth unemployment run the risk of long-term social unrest.",
+          "choices": [],
+          "accept": "run the risk of"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Solutions and Measures（解決方案與措施）",
+      "sourceFile": "2026-10-01 - Problems and Threats.md"
+    },
+    {
+      "id": "2026-10-05-solutions-and-measures",
+      "lesson": 16,
+      "date": "2026-10-05",
+      "theme": "Solutions and Measures",
+      "title": "Solutions and Measures",
+      "review": [
+        {
+          "phrase": "be plagued by",
+          "yue": ""
+        },
+        {
+          "phrase": "run the risk of",
+          "yue": ""
+        },
+        {
+          "phrase": "be vulnerable to",
+          "yue": ""
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "take decisive action",
+          "weak": "do something",
+          "yue": "果斷採取行動，唔再拖。",
+          "frame": "[Govt/Sb] must take decisive action to + V / against + N",
+          "model": "Governments must take decisive action to curb traffic congestion.",
+          "mistake": "make decisive action → take action"
+        },
+        {
+          "phrase": "find a viable solution to",
+          "weak": "a good way",
+          "yue": "搵到一個實際可行嘅解決方法（viable = 行得通）。",
+          "frame": "find a viable solution to + N",
+          "model": "Experts are still trying to find a viable solution to the housing shortage.",
+          "mistake": "a solution of the problem → a solution to the problem"
+        },
+        {
+          "phrase": "alleviate the pressure on",
+          "weak": "make it less bad",
+          "yue": "紓緩、減輕壓力或問題，但唔係完全解決。",
+          "frame": "[Measure] can help (to) alleviate the pressure on + N",
+          "model": "Expanding the railway network would alleviate the pressure on roads.",
+          "mistake": "using alleviate to mean \"solve completely\" → use solve / resolve"
+        },
+        {
+          "phrase": "raise public awareness of",
+          "weak": "tell people more about",
+          "yue": "提高公眾對某事嘅意識。",
+          "frame": "raise public awareness of + N / of the need to + V",
+          "model": "Campaigns can raise public awareness of the benefits of walking.",
+          "mistake": "rise public awareness → raise (needs an object)"
+        },
+        {
+          "phrase": "provide incentives for sb to + V",
+          "weak": "encourage",
+          "yue": "提供誘因或獎勵，令人願意做某事。",
+          "frame": "provide incentives for + sb + to V",
+          "model": "The government could provide incentives for drivers to switch to public transport.",
+          "mistake": "provide incentives for drivers switching → for drivers to switch"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：do something",
+            "type": "rewrite",
+            "answer": "take decisive action",
+            "choices": [],
+            "accept": "take decisive action"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（solution / soltuion）",
+            "type": "choose",
+            "answer": "solution",
+            "choices": [
+              "solution",
+              "soltuion"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Campaigns can ______ the benefits of walking.",
+            "type": "fill",
+            "answer": "raise public awareness of",
+            "choices": [],
+            "accept": "raise public awareness of"
+          }
+        ]
+      },
+      "passage": "Many major cities are *plagued by* traffic congestion, which wastes time and pollutes the air. To **find a viable solution to** this problem, governments need to **take decisive action** rather than simply building more roads. One effective measure is to invest in fast and affordable public transport, which would **alleviate the pressure on** busy streets. In addition, authorities could **provide incentives for** commuters **to** travel outside peak hours, such as cheaper fares in the early morning. Finally, campaigns can **raise public awareness of** the hidden costs of driving, including its impact on health and the environment. Although no single policy can eliminate congestion entirely, a combination of these steps would make urban life considerably more pleasant.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **take decisive action** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "果斷採取行動，唔再拖。",
+          "choices": [
+            "果斷採取行動，唔再拖。",
+            "搵到一個實際可行嘅解決方法（viable = 行得通）。",
+            "紓緩、減輕壓力或問題，但唔係完全解決。",
+            "提高公眾對某事嘅意識。"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **alleviate the pressure on** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "Expanding the railway network would alleviate the pressure on roads.",
+          "choices": [],
+          "accept": "alleviate the pressure on"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Increase / Decrease / Quantity",
+      "sourceFile": "2026-10-05 - Solutions and Measures.md"
+    },
+    {
+      "id": "2026-10-08-increase-decrease-and-quantity",
+      "lesson": 17,
+      "date": "2026-10-08",
+      "theme": "Increase, Decrease and Quantity",
+      "title": "Increase, Decrease and Quantity",
+      "review": [],
+      "collocations": [
+        {
+          "phrase": "a growing number of",
+          "weak": "more and more people",
+          "yue": "越嚟越多嘅…（強調數量持續增加嘅趨勢）",
+          "frame": "A growing number of + plural noun + plural verb",
+          "model": "A growing number of young people are choosing to work remotely.",
+          "mistake": "✗ A growing number of students is… → ✓ are"
+        },
+        {
+          "phrase": "rise steadily",
+          "weak": "go up slowly",
+          "yue": "穩定、持續咁上升",
+          "frame": "sth + rose steadily + from X to Y / over the period",
+          "model": "The number of tourists rose steadily from 2 million in 2010 to 5 million in 2020.",
+          "mistake": "✗ raised steadily（raise 要有受詞）→ ✓ rose steadily"
+        },
+        {
+          "phrase": "a dramatic fall in",
+          "weak": "go down a lot",
+          "yue": "大幅下跌",
+          "frame": "there was a dramatic fall in + noun",
+          "model": "There was a dramatic fall in car sales during the economic crisis.",
+          "mistake": "✗ a dramatic fall of sales → ✓ a dramatic fall in sales"
+        },
+        {
+          "phrase": "reach a peak of",
+          "weak": "get to the highest point",
+          "yue": "去到最高峰",
+          "frame": "sth + reached a peak of + number + in + year",
+          "model": "Unemployment reached a peak of 8% in 2009.",
+          "mistake": "✗ reached to a peak / ✗ reached a peak at 8% → ✓ reached a peak of 8%"
+        },
+        {
+          "phrase": "level off",
+          "weak": "stop changing",
+          "yue": "升完或跌完之後趨於平穩",
+          "frame": "sth + levelled off + at + number",
+          "model": "After years of rapid growth, the city's population levelled off at around 7.5 million.",
+          "mistake": "✗ levelled off to 7.5 million → ✓ levelled off at; ✗ was levelled off（唔用被動）"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：more and more people",
+            "type": "rewrite",
+            "answer": "a growing number of",
+            "choices": [],
+            "accept": "a growing number of"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（steadily / stedaily）",
+            "type": "choose",
+            "answer": "steadily",
+            "choices": [
+              "steadily",
+              "stedaily"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Write the collocation that means「去到最高峰」。",
+            "type": "fill",
+            "answer": "reach a peak of",
+            "choices": [],
+            "accept": "reach a peak of"
+          }
+        ]
+      },
+      "passage": "Cycling to work has become increasingly popular in many cities. In one Asian city, the number of commuters who cycled to work **rose steadily** from about 20,000 in 2010 to 45,000 in 2018, as **a growing number of** residents became concerned about their health and traffic. The figure **reached a peak of** 60,000 in 2021, partly because many people avoided crowded public transport during the pandemic. However, when buses and trains returned to normal, there was **a dramatic fall in** cycling, and the number dropped to 40,000 in 2023. Since then, the figure has **levelled off** at around 40,000. Overall, cycling has grown considerably over the period, but further investment in safe cycle lanes may be needed if the city wants this trend to continue.\n\n(Example figures for practice only, not real data.)",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **a growing number of** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "越嚟越多嘅…（強調數量持續增加嘅趨勢）",
+          "choices": [
+            "越嚟越多嘅…（強調數量持續增加嘅趨勢）",
+            "穩定、持續咁上升",
+            "大幅下跌",
+            "去到最高峰"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **a dramatic fall in** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "There was a dramatic fall in car sales during the economic crisis.",
+          "choices": [],
+          "accept": "a dramatic fall in"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Opinion, Argument and Conclusion",
+      "sourceFile": "2026-10-08 - Increase Decrease and Quantity.md"
+    },
+    {
+      "id": "2026-10-12-opinion-argument-and-conclusion",
+      "lesson": 18,
+      "date": "2026-10-12",
+      "theme": "Opinion, Argument and Conclusion",
+      "title": "Opinion, Argument and Conclusion",
+      "review": [],
+      "collocations": [
+        {
+          "phrase": "take the stance that",
+          "weak": "think that",
+          "yue": "採取某個明確立場（認為…）",
+          "frame": "sb + take(s) the stance that + clause",
+          "model": "Many educators take the stance that exams alone cannot measure true ability.",
+          "mistake": "✗ take a stance of that… → ✓ take the stance that…"
+        },
+        {
+          "phrase": "put forward the argument that",
+          "weak": "say that",
+          "yue": "提出一個論點／論證",
+          "frame": "sb + put forward the argument that + clause",
+          "model": "Critics put forward the argument that social media harms teenagers' concentration.",
+          "mistake": "✗ put forward an argument of… → ✓ put forward the argument that…"
+        },
+        {
+          "phrase": "make a compelling case for",
+          "weak": "give good reasons for",
+          "yue": "為某事提出有力、令人信服嘅理據",
+          "frame": "sb + make(s) a compelling case for + noun / -ing",
+          "model": "The report makes a compelling case for investing in public libraries.",
+          "mistake": "✗ make a compelling case of / to → ✓ make a compelling case for"
+        },
+        {
+          "phrase": "remain unconvinced by",
+          "weak": "still don't believe",
+          "yue": "仍然唔信服（某理據／說法）",
+          "frame": "sb + remain(s) unconvinced by + noun",
+          "model": "Some parents remain unconvinced by claims that homework improves learning.",
+          "mistake": "✗ remain unconvinced of the claim that…（亦可用 of，但 by + evidence/claims 更自然）→ ✓ remain unconvinced by the evidence"
+        },
+        {
+          "phrase": "weigh up the evidence",
+          "weak": "look at the facts carefully",
+          "yue": "權衡／仔細比較各方面證據先至下判斷",
+          "frame": "sb + weigh(s) up the evidence + before / and then…",
+          "model": "Before forming an opinion, students should weigh up the evidence from both sides.",
+          "mistake": "✗ weigh the evidence up carefully（可分開，但學術寫作多用 weigh up the evidence）→ ✓ weigh up the evidence"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：think that",
+            "type": "rewrite",
+            "answer": "take the stance that",
+            "choices": [],
+            "accept": "take the stance that"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（that / thate）",
+            "type": "choose",
+            "answer": "that",
+            "choices": [
+              "that",
+              "thate"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Some parents ______ claims that homework improves learning.",
+            "type": "fill",
+            "answer": "remain unconvinced by",
+            "choices": [],
+            "accept": "remain unconvinced by"
+          }
+        ]
+      },
+      "passage": "Many educators **take the stance that** smartphones distract students and should be banned during lessons. They **put forward the argument that** constant notifications damage concentration and lower academic performance. Research on classroom behaviour can **make a compelling case for** phone-free periods, especially in junior forms. However, some parents **remain unconvinced by** a total ban, noting that phones also support learning apps and emergency contact. Policymakers should **weigh up the evidence** from schools that have tried different rules before deciding. A balanced approach—restricting phones in class while allowing supervised educational use—may satisfy both safety and learning goals.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **take the stance that** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "採取某個明確立場（認為…）",
+          "choices": [
+            "採取某個明確立場（認為…）",
+            "提出一個論點／論證",
+            "為某事提出有力、令人信服嘅理據",
+            "仍然唔信服（某理據／說法）"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **make a compelling case for** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "The report makes a compelling case for investing in public libraries.",
+          "choices": [],
+          "accept": "make a compelling case for"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Education",
+      "sourceFile": "2026-10-12 - Opinion Argument Conclusion.md"
+    },
+    {
+      "id": "2026-10-15-education",
+      "lesson": 19,
+      "date": "2026-10-15",
+      "theme": "Education",
+      "title": "Education",
+      "review": [
+        {
+          "phrase": "take the stance that",
+          "yue": "採取某一立場"
+        },
+        {
+          "phrase": "put forward the argument that",
+          "yue": "提出論點"
+        },
+        {
+          "phrase": "make a compelling case for",
+          "yue": "提出有力理據支持"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "acquire essential skills",
+          "weak": "learn useful stuff",
+          "yue": "掌握關鍵／必需技能",
+          "frame": "acquire essential skills (in / such as …)",
+          "model": "Vocational courses help students acquire essential skills for the workplace.",
+          "mistake": "academic writing 常用 acquire … skills"
+        },
+        {
+          "phrase": "drop out of school",
+          "weak": "leave school early / quit school",
+          "yue": "輟學（中途離校）",
+          "frame": "drop out of school / university / college",
+          "model": "Students who lack support are more likely to drop out of school.",
+          "mistake": "drop out of，唔係 drop out from"
+        },
+        {
+          "phrase": "receive a well-rounded education",
+          "weak": "learn many different subjects",
+          "yue": "接受全面／均衡教育",
+          "frame": "receive a well-rounded education",
+          "model": "Parents want their children to receive a well-rounded education, not only exam drill.",
+          "mistake": "well-rounded（有 hyphen）"
+        },
+        {
+          "phrase": "gain admission to",
+          "weak": "get into (a uni)",
+          "yue": "獲錄取進入（學校／課程）",
+          "frame": "gain admission to + university / programme / course",
+          "model": "Competition to gain admission to top universities remains intense.",
+          "mistake": "正式文多用 gain admission to"
+        },
+        {
+          "phrase": "undertake vocational training",
+          "weak": "do job training / learn a trade",
+          "yue": "接受職業培訓",
+          "frame": "undertake vocational training (in …)",
+          "model": "More young people now undertake vocational training instead of a traditional degree.",
+          "mistake": "undertake + training／study 係學術常用"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：learn useful stuff",
+            "type": "rewrite",
+            "answer": "acquire essential skills",
+            "choices": [],
+            "accept": "acquire essential skills"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（school / scohol）",
+            "type": "choose",
+            "answer": "school",
+            "choices": [
+              "school",
+              "scohol"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Competition to ______ top universities remains intense.",
+            "type": "fill",
+            "answer": "gain admission to",
+            "choices": [],
+            "accept": "gain admission to"
+          }
+        ]
+      },
+      "passage": "Many young people feel pressure to **gain admission to** a famous university, yet academic success alone is not enough. Schools that help students **acquire essential skills** — such as communication, problem-solving and teamwork — prepare them better for work and life. At the same time, not every student thrives in a purely academic track. Those who **undertake vocational training** can build practical expertise and still enjoy strong career prospects. The goal should be that every learner can **receive a well-rounded education**, rather than being pushed into a single path that does not fit them. When support is limited, some students **drop out of school** early, which often narrows their options later. Balanced pathways matter more than prestige alone.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **acquire essential skills** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "掌握關鍵／必需技能",
+          "choices": [
+            "掌握關鍵／必需技能",
+            "輟學（中途離校）",
+            "接受全面／均衡教育",
+            "獲錄取進入（學校／課程）"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **receive a well-rounded education** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "Parents want their children to receive a well-rounded education, not only exam drill.",
+          "choices": [],
+          "accept": "receive a well-rounded education"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Environment（環境）",
+      "sourceFile": "2026-10-15 - Education.md"
+    },
+    {
+      "id": "2026-10-19-environment",
+      "lesson": 20,
+      "date": "2026-10-19",
+      "theme": "Environment",
+      "title": "Environment",
+      "review": [
+        {
+          "phrase": "acquire essential skills",
+          "yue": "學到關鍵技能"
+        },
+        {
+          "phrase": "gain admission to",
+          "yue": "獲錄取入讀"
+        },
+        {
+          "phrase": "undertake vocational training",
+          "yue": "接受職業培訓"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "tackle climate change",
+          "weak": "deal with / try to stop climate change",
+          "yue": "認真處理氣候變化問題",
+          "frame": "governments / countries / cities + tackle climate change",
+          "model": "Nations must work together to tackle climate change.",
+          "mistake": "tackle the climate / tackle climate changing"
+        },
+        {
+          "phrase": "emit greenhouse gases",
+          "weak": "produce harmful gases",
+          "yue": "排放溫室氣體",
+          "frame": "factories / vehicles / industries + emit greenhouse gases",
+          "model": "Coal-fired power plants still emit greenhouse gases in large amounts.",
+          "mistake": ""
+        },
+        {
+          "phrase": "adopt eco-friendly practices",
+          "weak": "do green things",
+          "yue": "採用環保做法／習慣",
+          "frame": "households / businesses / schools + adopt eco-friendly practices",
+          "model": "More companies are starting to adopt eco-friendly practices in their offices.",
+          "mistake": ""
+        },
+        {
+          "phrase": "cut down on energy consumption",
+          "weak": "use less energy",
+          "yue": "減少能源消耗",
+          "frame": "cut down on + energy consumption / waste / plastic use",
+          "model": "Simple habits at home can help people cut down on energy consumption.",
+          "mistake": ""
+        },
+        {
+          "phrase": "protect endangered species",
+          "weak": "save rare animals",
+          "yue": "保護瀕危物種",
+          "frame": "laws / reserves / efforts + protect endangered species",
+          "model": "National parks play a key role in helping to protect endangered species.",
+          "mistake": ""
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：deal with / try to stop climate change",
+            "type": "rewrite",
+            "answer": "tackle climate change",
+            "choices": [],
+            "accept": "tackle climate change"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（gases / gsaes）",
+            "type": "choose",
+            "answer": "gases",
+            "choices": [
+              "gases",
+              "gsaes"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Simple habits at home can help people ______.",
+            "type": "fill",
+            "answer": "cut down on energy consumption",
+            "choices": [],
+            "accept": "cut down on energy consumption"
+          }
+        ]
+      },
+      "passage": "Cities around the world are under pressure to **tackle climate change** before the damage becomes irreversible. Factories and vehicles continue to **emit greenhouse gases**, which trap heat in the atmosphere and threaten fragile habitats. Experts argue that households and businesses must **adopt eco-friendly practices**, from recycling to choosing public transport, if they want meaningful progress. At the same time, governments can encourage people to **cut down on energy consumption** through better building standards and clearer labelling on appliances. These steps also help **protect endangered species** whose homes are shrinking as temperatures rise and coastlines change.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **tackle climate change** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "認真處理氣候變化問題",
+          "choices": [
+            "認真處理氣候變化問題",
+            "排放溫室氣體",
+            "採用環保做法／習慣",
+            "減少能源消耗"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **adopt eco-friendly practices** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "More companies are starting to adopt eco-friendly practices in their offices.",
+          "choices": [],
+          "accept": "adopt eco-friendly practices"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Technology（科技）",
+      "sourceFile": "2026-10-19 - Environment.md"
+    },
+    {
+      "id": "2026-10-22-technology",
+      "lesson": 21,
+      "date": "2026-10-22",
+      "theme": "Technology",
+      "title": "Technology",
+      "review": [
+        {
+          "phrase": "tackle climate change",
+          "yue": "認真處理氣候變化"
+        },
+        {
+          "phrase": "emit greenhouse gases",
+          "yue": "排放溫室氣體"
+        },
+        {
+          "phrase": "adopt eco-friendly practices",
+          "yue": "採用環保做法"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "harness the power of",
+          "weak": "use the power of / make good use of",
+          "yue": "善用／駕馭……嘅力量（常配 AI、technology、data）",
+          "frame": "harness the power of + AI / technology / data / the internet",
+          "model": "Schools are learning to harness the power of AI to personalise lessons.",
+          "mistake": "harness on the power / harness power of（要有 the）"
+        },
+        {
+          "phrase": "become obsolete",
+          "weak": "become old / out of date",
+          "yue": "變得過時／被淘汰",
+          "frame": "skills / machines / software + become obsolete",
+          "model": "Without lifelong learning, some job skills may become obsolete.",
+          "mistake": "become obsolute；形容詞係 obsolete，唔係 obsoleted 當普通過去式亂用"
+        },
+        {
+          "phrase": "enhance productivity",
+          "weak": "make people work better / improve work",
+          "yue": "提高生產力／工作效率",
+          "frame": "tools / training / flexible hours + enhance productivity",
+          "model": "Remote-work software can enhance productivity when teams communicate clearly.",
+          "mistake": "enhance the productivity of work（多餘）；較自然係 enhance productivity"
+        },
+        {
+          "phrase": "automate routine tasks",
+          "weak": "let computers do boring jobs",
+          "yue": "將例行／重複性工作自動化",
+          "frame": "software / robots / systems + automate routine tasks",
+          "model": "Chatbots can automate routine tasks such as answering FAQs.",
+          "mistake": "automatic routine tasks（要用動詞 automate）"
+        },
+        {
+          "phrase": "gain a competitive edge",
+          "weak": "get an advantage over others",
+          "yue": "取得競爭優勢",
+          "frame": "companies / countries / start-ups + gain a competitive edge (by / through…)",
+          "model": "Investing in green tech can help firms gain a competitive edge.",
+          "mistake": "gain competitive edge（要有 a）；get a competitive edge 口語可以，論文多用 gain"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "改寫得更學術：用今日搭配取代弱寫法。\n弱：use the power of / make good use of",
+            "type": "rewrite",
+            "answer": "Companies should harness the power of AI / technology.",
+            "choices": [],
+            "accept": "harness the power of"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Which form is correct for this lesson's collocation?\n（obsolete / obsolute）",
+            "type": "choose",
+            "answer": "obsolete",
+            "choices": [
+              "obsolete",
+              "obsolute"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "填空：Chatbots can ______ such as answering FAQs.",
+            "type": "fill",
+            "answer": "automate routine tasks",
+            "choices": [],
+            "accept": "automate routine tasks"
+          }
+        ]
+      },
+      "passage": "When firms begin to **harness the power of** artificial intelligence in everyday operations, older workflows that once felt reliable can soon **become obsolete**. That shift is not only about replacing software; managers adopt AI tools specifically to **enhance productivity**, so staff spend less time on paperwork and more on judgement-heavy work. In practice, programmes that **automate routine tasks** such as scheduling, data entry, and basic customer replies create spare capacity across the organisation. Companies that move early often **gain a competitive edge** over slower rivals, yet that same advantage raises the bar for workers, who must keep learning if they are to stay useful in an AI-shaped workplace.",
+      "tasks": [
+        {
+          "q": "今日第一個搭配 **harness the power of** 嘅意思係邊個最近？",
+          "type": "choose",
+          "answer": "artificial intelligence / AI",
+          "choices": [
+            "善用／駕馭……嘅力量（常配 AI、technology、data）",
+            "變得過時／被淘汰",
+            "提高生產力／工作效率",
+            "將例行／重複性工作自動化"
+          ]
+        },
+        {
+          "q": "用自己一句英文，寫出含 **enhance productivity** 嘅句子（或用粵語解釋文中用法）。",
+          "type": "rewrite",
+          "answer": "（例）frees staff from repetitive work / speeds up decisions / cuts costs",
+          "choices": [],
+          "accept": "enhance productivity"
+        },
+        {
+          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
+          "type": "tf",
+          "answer": "False",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Health（健康）",
+      "sourceFile": "2026-10-22 - Technology.md"
+    }
+  ]
+}
