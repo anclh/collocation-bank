@@ -1,10 +1,11 @@
 # Collocation Bank
 
-Mobile-first static trainer for Anson’s IELTS collocation lessons (Mon / Thu).
+Mobile-first **Quizlet-style flashcard** trainer for Anson’s IELTS collocation lessons (Mon / Thu).
 
-Live pattern (same as [jre-vocab-bank](https://anclh.github.io/jre-vocab-bank/)): **GitHub Pages from `/docs`**, vanilla HTML/CSS/JS, no backend.
+Live: **https://anclh.github.io/collocation-bank/**  
+Same pattern as [jre-vocab-bank](https://anclh.github.io/jre-vocab-bank/): **GitHub Pages from `/docs`**, vanilla HTML/CSS/JS, no backend.
 
-Intended URL after Pages is enabled: `https://anclh.github.io/collocation-bank/`
+Cards only — no full-lesson page. Vault markdown remains the authoring source of truth.
 
 ## Source of truth
 
@@ -21,9 +22,8 @@ collocation-bank/
   content/lessons/     # vault markdown copies
   data/lessons.json    # build output
   docs/                # GitHub Pages root
-    index.html         # hub (Flashcards + lesson list)
-    study.html         # Quizlet-style flashcards (?id=… or ?scope=all)
-    lesson.html        # full lesson (?id=…)
+    index.html         # hub (Study all + deck list → Cards)
+    study.html         # Quizlet flashcards (?id=… or ?scope=all)
     app.js
     styles.css
     data/lessons.json
@@ -40,35 +40,30 @@ Reads `content/lessons/*.md` → writes `data/lessons.json` and copies to `docs/
 
 ## Local preview
 
-Serve the Pages root (needed so `fetch('data/lessons.json')` works):
-
 ```bash
 cd docs
 python3 -m http.server 8765
 ```
 
-Open <http://127.0.0.1:8765/> — hub has **Flashcards · Study all**, plus per-lesson **Cards** (`study.html?id=…`) and **Lesson** (`lesson.html?id=…`).
+Open <http://127.0.0.1:8765/> — hub has **Flashcards · Study all**, and each deck opens **Cards** (`study.html?id=…`).
 
 ## GitHub Pages
 
-1. Push this repo to `anclh/collocation-bank` (or your fork).
-2. Settings → Pages → Build and deployment:
-   - Source: **Deploy from a branch**
-   - Branch: `main` → folder **`/docs`**
-3. Wait for the Pages deploy, then open `https://anclh.github.io/collocation-bank/`.
+1. Push to `anclh/collocation-bank`.
+2. Settings → Pages → Deploy from branch `main` → folder **`/docs`**.
+3. Open `https://anclh.github.io/collocation-bank/`.
 
-All asset links are **relative** (`styles.css`, `app.js`, `data/lessons.json`, `study.html?id=…`, `lesson.html?id=…`), so the site works both at the repo Pages subdirectory and on localhost.
+All asset links are **relative**.
 
 ## Progress
 
-Done / last-opened / still-learning stars are stored in the browser under `localStorage` key `collocation-bank-progress`. Clearing site data resets it.
+Done / last-opened / still-learning are stored under `localStorage` key `collocation-bank-progress`. Finishing a per-lesson study session marks that deck **Done**.
 
-## v1 scope
+## Scope
 
-- Hub with Quizlet-style **Flashcards** (study all or per lesson) + full **Lesson** mode
-- Study mode: big flip cards, Know / Still learning queue, shuffle, swipe, end screen
-- Full lesson: flip review, accordion collocations, mini drill (Check / Show / Reset), cohesive passage + light tasks, Mark done
-- Warm cream Interactive look + `prefers-color-scheme` dark mode
-- iPhone-friendly: `viewport-fit=cover`, safe-area padding, 16px inputs, large taps
+- Hub: Study all + deck list → Cards only
+- Study: big flip cards, Know / Still learning, shuffle, swipe, end screen (Restart · again · Back to hub)
+- Warm cream look + `prefers-color-scheme` dark mode
+- iPhone-friendly: `viewport-fit=cover`, safe-area, large taps
 
-Not in v1: full spaced-repetition algorithm, streaks, Drive sync, service worker / offline PWA (optional later on the same static files).
+Not included: full lesson UI (drill / passage / accordion), native app, backend, full SRS / PWA (optional later on the same static files).

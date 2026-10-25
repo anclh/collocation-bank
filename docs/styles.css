@@ -1094,3 +1094,17 @@ body[data-page="study"] {
     min-height: 420px;
   }
 }
+
+/* Cards-only hub: whole row title area is a link */
+a.lesson-row-link {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  gap: inherit;
+  flex: 1;
+  min-width: 0;
+}
+a.lesson-row-link:hover .lesson-title {
+  text-decoration: underline;
+}
