@@ -21,8 +21,9 @@ collocation-bank/
   content/lessons/     # vault markdown copies
   data/lessons.json    # build output
   docs/                # GitHub Pages root
-    index.html         # hub
-    lesson.html        # one lesson (?id=…)
+    index.html         # hub (Flashcards + lesson list)
+    study.html         # Quizlet-style flashcards (?id=… or ?scope=all)
+    lesson.html        # full lesson (?id=…)
     app.js
     styles.css
     data/lessons.json
@@ -46,7 +47,7 @@ cd docs
 python3 -m http.server 8765
 ```
 
-Open <http://127.0.0.1:8765/> — hub lists all lessons; each opens `lesson.html?id=…`.
+Open <http://127.0.0.1:8765/> — hub has **Flashcards · Study all**, plus per-lesson **Cards** (`study.html?id=…`) and **Lesson** (`lesson.html?id=…`).
 
 ## GitHub Pages
 
@@ -56,16 +57,18 @@ Open <http://127.0.0.1:8765/> — hub lists all lessons; each opens `lesson.html
    - Branch: `main` → folder **`/docs`**
 3. Wait for the Pages deploy, then open `https://anclh.github.io/collocation-bank/`.
 
-All asset links are **relative** (`styles.css`, `app.js`, `data/lessons.json`, `lesson.html?id=…`), so the site works both at the repo Pages subdirectory and on localhost.
+All asset links are **relative** (`styles.css`, `app.js`, `data/lessons.json`, `study.html?id=…`, `lesson.html?id=…`), so the site works both at the repo Pages subdirectory and on localhost.
 
 ## Progress
 
-Done / last-opened state is stored in the browser under `localStorage` key `collocation-bank-progress`. Clearing site data resets it.
+Done / last-opened / still-learning stars are stored in the browser under `localStorage` key `collocation-bank-progress`. Clearing site data resets it.
 
 ## v1 scope
 
-- Lesson browser + per-lesson flip review, accordion collocations, mini drill (Check / Show / Reset), cohesive passage + light tasks, Mark done
+- Hub with Quizlet-style **Flashcards** (study all or per lesson) + full **Lesson** mode
+- Study mode: big flip cards, Know / Still learning queue, shuffle, swipe, end screen
+- Full lesson: flip review, accordion collocations, mini drill (Check / Show / Reset), cohesive passage + light tasks, Mark done
 - Warm cream Interactive look + `prefers-color-scheme` dark mode
 - iPhone-friendly: `viewport-fit=cover`, safe-area padding, 16px inputs, large taps
 
-Not in v1: spaced repetition, streaks, Drive sync, service worker / offline PWA (optional later on the same static files).
+Not in v1: full spaced-repetition algorithm, streaks, Drive sync, service worker / offline PWA (optional later on the same static files).
