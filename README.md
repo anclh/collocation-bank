@@ -63,7 +63,7 @@ Done / last-opened / still-learning are stored under `localStorage` key `colloca
 
 - Hub: Study all + deck list → Cards only
 - Study: big flip cards, Know / Still learning, shuffle, swipe, end screen (Restart · again · Back to hub)
-- Warm cream look + `prefers-color-scheme` dark mode
+- Quizlet-like UI: blue `#4255FF`, amber Still learning, soft gray/blue bg + `prefers-color-scheme` dark mode
 - iPhone-friendly: `viewport-fit=cover`, safe-area, large taps
 
 Not included: full lesson UI (drill / passage / accordion), native app, backend, full SRS / PWA (optional later on the same static files).

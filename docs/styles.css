@@ -1,20 +1,22 @@
 :root {
-  --bg: #f7f3eb;
-  --bg-card: #fffdf8;
-  --bg-soft: #efe8da;
-  --ink: #2a241c;
-  --muted: #6b5f50;
-  --accent: #2f6b4f;
-  --accent-soft: #d8ebe0;
-  --accent-dark: #1f4a36;
-  --warn: #9a4a1c;
-  --warn-soft: #f3e0d0;
-  --ok: #1f6b3a;
-  --ok-bg: #e5f5ea;
-  --bad: #9b2c2c;
-  --bad-bg: #fde8e8;
-  --border: #e2d6c4;
-  --shadow: 0 10px 30px rgba(42, 36, 28, 0.08);
+  /* Quizlet-like palette */
+  --bg: #f6f7fb;
+  --bg-card: #ffffff;
+  --bg-soft: #eef0f9;
+  --ink: #1a1d28;
+  --muted: #5c6178;
+  --accent: #4255ff;
+  --accent-soft: #e8ebff;
+  --accent-dark: #2e3fd9;
+  --warn: #ffcd1f;
+  --warn-ink: #1a1d28;
+  --warn-soft: #fff6cc;
+  --ok: #18a058;
+  --ok-bg: #e5f8ef;
+  --bad: #d14747;
+  --bad-bg: #fdeaea;
+  --border: #e3e6ef;
+  --shadow: 0 8px 24px rgba(66, 85, 255, 0.10), 0 2px 6px rgba(26, 29, 40, 0.06);
   --radius: 16px;
   --font: "Segoe UI", "PingFang HK", "Noto Sans TC", "Helvetica Neue", Arial, sans-serif;
   --safe-top: env(safe-area-inset-top, 0px);
@@ -25,22 +27,23 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #1a1714;
-    --bg-card: #24201b;
-    --bg-soft: #2f2a24;
-    --ink: #f3ece2;
-    --muted: #b8ab99;
-    --accent: #6fbf94;
-    --accent-soft: #24382e;
-    --accent-dark: #9fd9b7;
-    --warn: #e0a070;
-    --warn-soft: #3a2a1f;
-    --ok: #7ddea0;
-    --ok-bg: #1e3326;
-    --bad: #f0a0a0;
-    --bad-bg: #3a2222;
-    --border: #3a332b;
-    --shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    --bg: #0f1220;
+    --bg-card: #1a1f33;
+    --bg-soft: #232942;
+    --ink: #eef0f8;
+    --muted: #9aa3c0;
+    --accent: #6b7cff;
+    --accent-soft: #252b52;
+    --accent-dark: #9aa6ff;
+    --warn: #ffcd1f;
+    --warn-ink: #1a1d28;
+    --warn-soft: #3d3420;
+    --ok: #3dd68c;
+    --ok-bg: #163528;
+    --bad: #ff8e8e;
+    --bad-bg: #3a2228;
+    --border: #2c3350;
+    --shadow: 0 10px 30px rgba(0, 0, 0, 0.45);
   }
 }
 
@@ -59,8 +62,8 @@ body {
   margin: 0;
   font-family: var(--font);
   background:
-    radial-gradient(1200px 600px at 10% -10%, #e8d9b8 0%, transparent 55%),
-    radial-gradient(900px 500px at 100% 0%, #cfe4d7 0%, transparent 50%),
+    radial-gradient(1200px 600px at 10% -10%, rgba(66, 85, 255, 0.08) 0%, transparent 55%),
+    radial-gradient(900px 500px at 100% 0%, rgba(255, 205, 31, 0.10) 0%, transparent 50%),
     var(--bg);
   color: var(--ink);
   line-height: 1.55;
@@ -76,8 +79,8 @@ body {
 @media (prefers-color-scheme: dark) {
   body {
     background:
-      radial-gradient(1200px 600px at 10% -10%, rgba(111, 191, 148, 0.12) 0%, transparent 55%),
-      radial-gradient(900px 500px at 100% 0%, rgba(224, 160, 112, 0.08) 0%, transparent 50%),
+      radial-gradient(1200px 600px at 10% -10%, rgba(66, 85, 255, 0.18) 0%, transparent 55%),
+      radial-gradient(900px 500px at 100% 0%, rgba(255, 205, 31, 0.08) 0%, transparent 50%),
       var(--bg);
   }
 }
@@ -96,7 +99,7 @@ a:hover {
 }
 
 header.hero {
-  background: linear-gradient(145deg, var(--accent-soft), var(--bg-card));
+  background: linear-gradient(145deg, #eef1ff, var(--bg-card));
   border: 1px solid var(--border);
   border-radius: calc(var(--radius) + 4px);
   padding: 1.5rem 1.4rem 1.35rem;
@@ -787,12 +790,17 @@ button.btn {
 
 .btn-warn {
   background: var(--warn);
-  color: #fff;
+  color: var(--warn-ink);
+  border: 1px solid color-mix(in srgb, var(--warn) 70%, #c9a000);
+}
+
+.btn-warn:hover {
+  filter: brightness(0.97);
 }
 
 @media (prefers-color-scheme: dark) {
   .btn-warn {
-    color: #1a120c;
+    color: var(--warn-ink);
   }
 }
 
@@ -904,7 +912,7 @@ body[data-page="study"] {
 }
 
 .qz-front {
-  background: linear-gradient(160deg, var(--bg-card), var(--accent-soft));
+  background: linear-gradient(160deg, #ffffff, #eef1ff);
 }
 
 .qz-back {
@@ -1107,4 +1115,15 @@ a.lesson-row-link {
 }
 a.lesson-row-link:hover .lesson-title {
   text-decoration: underline;
+}
+
+
+/* Quizlet dark: flashcard faces stay readable */
+@media (prefers-color-scheme: dark) {
+  .qz-face.qz-front {
+    background: linear-gradient(160deg, var(--bg-card), var(--accent-soft));
+  }
+  header.hero {
+    background: linear-gradient(145deg, var(--accent-soft), var(--bg-card));
+  }
 }
