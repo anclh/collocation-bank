@@ -47,6 +47,23 @@ Date: 2026-09-13
 - Model: Housing affordability is a major concern for young adults in Hong Kong.
 - Mistake: 唔好寫 a major concerning
 
+## Reading passage
+
+Fast fashion **poses a threat to** rivers and soil because cheap dyes and short product cycles create mountains of waste. Campaigners **raise concerns about** microplastics from synthetic clothes entering the food chain, especially in dense cities. Manufacturers **are faced with** rising pressure from regulators and younger consumers who want cleaner supply chains. Ignoring these warnings can **exacerbate the problem**, as discarded garments pile up in landfills and overseas dumps. For many governments, textile pollution has become **a major concern** that links environmental damage with worker welfare, so clearer labelling and longer product life cycles are now on the policy agenda.
+
+**Passage tasks**
+1. Fast fashion 點樣 pose a threat to 環境？
+2. 用自己說話解釋點解 ignore warnings 會 exacerbate the problem（1 句）
+3. True / False：Passage 話污染淨係關乎環境、同工人福利無關。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **cheap dyes / short cycles / waste**（microplastics 亦相關）
+2.（例）more landfill waste and overseas dumping
+3. **False**（links environmental damage with worker welfare）
+
 ## Next theme
 
 Solutions and measures
+

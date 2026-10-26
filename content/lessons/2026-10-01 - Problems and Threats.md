@@ -53,12 +53,26 @@ Date: 2026-10-01
 - Model: An ageing population **presents a formidable challenge** to healthcare systems.
 - Mistake: *formidable* 係「艱巨」；後面可用 *to* 指出對邊方面有挑戰
 
+
 ## Reading passage
 
 **Prompt:** Why some cities struggle with housing shortages.
 
-Many large cities **are plagued by** severe housing shortages, which push rents higher and force young workers to live far from their jobs. Affordable flats **are under threat** as older neighbourhoods are redeveloped into luxury projects. Families who rent **are vulnerable to** sudden eviction or sharp rent increases, especially when contracts offer little protection. Policymakers who delay action **run the risk of** deeper inequality and longer commuting times. Overall, balancing growth with fair housing access **presents a formidable challenge** for urban planners and local governments.
+Many large cities **are plagued by** severe housing shortages, which push rents higher and force young workers to live far from their jobs. Affordable flats **are under threat** as older neighbourhoods are redeveloped into luxury projects that long-term residents cannot afford. Families who rent **are vulnerable to** sudden eviction or sharp rent increases, especially when contracts offer little protection. Policymakers who delay action **run the risk of** deeper inequality, longer commuting times, and weaker social trust. Overall, balancing growth with fair housing access **presents a formidable challenge** for urban planners and local governments, who must weigh developer interests against community stability.
+
+**Passage tasks**
+1. 文中話 affordable flats 點解 are under threat？
+2. 用自己說話講 delay action 會 run the risk of 咩（1 句）
+3. True / False：Passage 話 housing 問題對社會信任冇影響。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **redeveloped into luxury projects**
+2.（例）deeper inequality / longer commutes / weaker trust
+3. **False**（mentions weaker social trust）
 
 ## Next theme
 
 Solutions and Measures（解決方案與措施）
+

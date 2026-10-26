@@ -47,6 +47,23 @@ Date: 2026-09-16
 - Model: Overall, I reach the conclusion that balanced assessment benefits both students and teachers.
 - Mistake: reach to the conclusion → 唔用 to
 
+## Reading passage
+
+Many parents **hold the view that** homework loads have become excessive in secondary schools. **It is widely believed that** long evening worksheets leave little time for sport, family talk, or rest. Classroom studies that track stress and sleep can **lend support to** calls for shorter, better-designed tasks. Critics, however, **cast doubt on** claims that less homework automatically raises achievement, noting that practice still matters in subjects such as mathematics. After reviewing local survey data and international comparisons, several principals **reach the conclusion that** quality and feedback matter more than sheer quantity, so schools should redesign assignments rather than abolish them overnight.
+
+**Passage tasks**
+1. 文中邊啲證據可以 lend support to 減少功課嘅訴求？
+2. 用自己說話解釋 critics 點解 cast doubt on「少功課＝一定更好」（1 句）
+3. True / False：Principals 嘅 conclusion 係即刻全面取消功課。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **classroom studies on stress and sleep**
+2.（例）practice still matters / less homework does not auto-raise scores
+3. **False**（redesign, not abolish overnight）
+
 ## Next theme
 
 Education
+

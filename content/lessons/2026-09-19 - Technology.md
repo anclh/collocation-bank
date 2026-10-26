@@ -47,6 +47,23 @@ Date: 2026-09-19
 - Model: Smartphones have transformed the way we communicate with friends and colleagues.
 - Mistake: 唔好寫 the way how we
 
+## Reading passage
+
+Modern workplaces **rely heavily on technology** for meetings, records, and customer service, so outages quickly disrupt entire teams. Employees must **keep pace with technological advances**, updating skills as software and AI tools change each year. At the same time, policymakers try to **bridge the digital divide** between well-connected cities and villages with weak broadband. New tracking apps **raise privacy concerns** when personal data is stored without clear consent. Used wisely, the same innovations can **transform the way we** learn, shop, and access public services, but only if clear rules protect users while still encouraging useful experimentation in schools and workplaces.
+
+**Passage tasks**
+1. 文中點解話要 keep pace with technological advances？
+2. 用自己說話解釋 digital divide 係指咩（1 句）
+3. True / False：Passage 話科技轉變必然無隱私問題。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **software and AI tools change each year** / skills need updating
+2.（例）gap between well-connected cities and poorly connected villages
+3. **False**（raise privacy concerns）
+
 ## Next theme
 
 Health
+

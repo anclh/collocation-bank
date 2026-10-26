@@ -47,6 +47,23 @@ Date: 2026-09-18
 - Model: National parks help preserve biodiversity by providing safe habitats for wildlife.
 - Mistake: biodiversity 係不可數，唔寫 biodiversities
 
+## Reading passage
+
+Unregulated mining can **cause irreversible damage to** forests and river systems that communities depend on for food and water. Continuous extraction also tends to **deplete natural resources** faster than ecosystems can recover, leaving scarred landscapes behind. Governments under public pressure have promised to **reduce carbon emissions** from heavy industry while helping factories **switch to renewable energy sources** such as wind and solar. Conservationists add that protecting wetlands and old-growth woodland is essential if societies want to **preserve biodiversity** for future generations. Without coordinated action across ministries and businesses, short-term profits will keep outweighing long-term environmental security for communities downstream.
+
+**Passage tasks**
+1. Mining 點樣 harm 環境（用文中 collocation）？
+2. 用自己說話講政府想 factories 點做嚟減排（1 句）
+3. True / False：Passage 話單靠短期利潤已經足夠保護生態。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **cause irreversible damage / deplete natural resources**
+2.（例）switch to renewable energy / reduce carbon emissions
+3. **False**（short-term profits outweigh security without action）
+
 ## Next theme
 
 Technology
+

@@ -47,6 +47,23 @@ Date: 2026-09-11
 - Model: Poor diet contributes to a wide range of health problems.
 - Mistake: 呢度唔只係 donate money
 
+## Reading passage
+
+Digital learning tools now **have a significant impact on** how teenagers revise for exams, yet not every change is helpful. Heavy late-night scrolling can **have a detrimental effect on** sleep and concentration, so schools that push more screen time without guidance risk harming the very students they hope to help. By contrast, well-designed reading programmes in primary years can **have a profound impact on** vocabulary growth and long-term confidence. Small habits such as daily reading and limited notifications can **make a significant difference to** academic results without expensive equipment. Ultimately, balanced use of technology can **contribute to** better learning outcomes when parents and teachers set clear boundaries.
+
+**Passage tasks**
+1. 文中邊種做法會對睡眠有 detrimental effect？
+2. 用自己說話解釋點解 small habits 可以 make a significant difference（1 句）
+3. True / False：Passage 話所有螢幕時間都有 beneficial impact。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **heavy late-night scrolling**
+2.（例）daily reading / limited notifications improve results without costly tools
+3. **False**（有 detrimental effect；要平衡）
+
 ## Next theme
 
 Cause and result
+

@@ -53,12 +53,26 @@ Date: 2026-09-24
 - Model: Long working hours **take their toll on** employees’ mental health.
 - Mistake: 主語複數時用 *take their toll*；後面用 *on*
 
+
 ## Reading passage
 
 **Prompt:** How economic pressure affects ordinary families.
 
-In many cities, high living costs **have far-reaching consequences for** ordinary families. Rent and transport alone can **take their toll on** household budgets, leaving little room for savings or education. Job insecurity also **exerts a strong influence on** spending decisions, as people delay major purchases. When one sector slows down, the downturn often **has a knock-on effect on** related industries such as retail and hospitality. Over time, targeted support and fair wages can **bring about** meaningful **change** in living standards, but progress is usually gradual rather than sudden.
+In many cities, high living costs **have far-reaching consequences for** ordinary families who already stretch every pay cheque. Rent and transport alone can **take their toll on** household budgets, leaving little room for savings, healthcare, or further study. Job insecurity also **exerts a strong influence on** spending decisions, as people delay major purchases and avoid career risks. When one sector slows down, the downturn often **has a knock-on effect on** related industries such as retail and hospitality, so local shops feel the pressure within weeks. Over time, targeted support and fair wages can **bring about change** in living standards, but progress is usually gradual rather than sudden, and communities need steady policy follow-through.
+
+**Passage tasks**
+1. High living costs 點樣 take their toll on households？
+2. 用自己說話解釋 knock-on effect 嘅意思（用文中例子，1 句）
+3. True / False：Passage 話 living standards 可以一夜之間大幅改善。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **little room for savings / healthcare / study**（rent and transport）
+2.（例）one sector slows → retail and hospitality also suffer
+3. **False**（progress usually gradual）
 
 ## Next theme
 
 Cause and Result（因果）
+

@@ -47,6 +47,23 @@ Date: 2026-09-21
 - Model: Progressive taxation is one way to tackle social inequality.
 - Mistake: solve completely 太絕對；用 tackle/address/reduce
 
+## Reading passage
+
+After a rise in online fraud, ministers plan to **introduce legislation** that forces platforms to verify high-risk sellers more carefully. Passing a bill is only the first step; agencies must also **enforce the law** consistently so loopholes are not ignored. Budgets will **allocate public funds** to digital police units and public education campaigns. Officials argue that visible action helps **maintain social stability** when citizens fear losing savings to scams. Longer term, fairer tax and training policies are needed to **tackle social inequality**, because communities with fewer opportunities are often the most exposed to both crime and misinformation.
+
+**Passage tasks**
+1. 新法例主要想平台做咩？
+2. 用自己說話解釋點解 enforce the law 同 introduce legislation 一樣重要（1 句）
+3. True / False：Passage 話 allocate public funds 淨係用喺廣告、唔使執法單位。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **verify high-risk sellers more carefully**
+2.（例）laws fail if loopholes are ignored / need consistent enforcement
+3. **False**（funds for digital police units and education）
+
 ## Next theme
 
 Importance and role
+

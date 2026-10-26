@@ -54,5 +54,19 @@ Cycling to work has become increasingly popular in many cities. In one Asian cit
 
 (Example figures for practice only, not real data.)
 
+
+**Passage tasks**
+1. Cycling 數字幾年 **reached a peak**？大概幾多？
+2. 用自己說話解釋疫情後點解有 dramatic fall（1 句）
+3. True / False：Passage 話 2023 之後數字繼續急跌、未有 level off。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **2021**；約 **60,000**
+2.（例）buses/trains returned → fewer people avoided crowded transport
+3. **False**（levelled off around 40,000）
+
 ## Next theme
 Opinion, Argument and Conclusion
+

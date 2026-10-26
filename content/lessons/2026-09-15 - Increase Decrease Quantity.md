@@ -47,6 +47,23 @@ Date: 2026-09-15
 - Model: Renewable energy now accounts for nearly 30% of electricity generation.
 - Mistake: 呢度係 make up，唔係 explain
 
+## Reading passage
+
+After the pandemic reopening, several Asian cities recorded **a sharp increase in** weekend tourist arrivals, filling hotels that had stood half-empty for months. At the same time, visits to smaller museums began to **decline significantly** as travellers clustered around a few famous landmarks. Tourism officials note that **a substantial proportion of** spending still comes from domestic visitors rather than overseas guests. Some districts **experience a surge in** short-stay bookings whenever a major concert or sports final is held. Overall, lodging and food services now **account for** a larger share of local tax revenue than before 2020, so planners must balance growth with crowd control and neighbourhood noise.
+
+**Passage tasks**
+1. 邊類場所嘅參觀數字 decline significantly？
+2. 用自己說話講咩時候會 experience a surge in bookings（1 句）
+3. True / False：Passage 話大部分消費嚟自海外旅客。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **smaller museums**
+2.（例）during major concerts or sports finals
+3. **False**（substantial proportion from domestic visitors）
+
 ## Next theme
 
 Opinion, argument and conclusion
+

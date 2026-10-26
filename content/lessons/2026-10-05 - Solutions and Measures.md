@@ -47,3 +47,17 @@ next_theme: Increase / Decrease / Quantity
 Prompt: Traffic congestion is a growing problem in many cities. What measures can be taken to tackle it?
 
 Many major cities are *plagued by* traffic congestion, which wastes time and pollutes the air. To **find a viable solution to** this problem, governments need to **take decisive action** rather than simply building more roads. One effective measure is to invest in fast and affordable public transport, which would **alleviate the pressure on** busy streets. In addition, authorities could **provide incentives for** commuters **to** travel outside peak hours, such as cheaper fares in the early morning. Finally, campaigns can **raise public awareness of** the hidden costs of driving, including its impact on health and the environment. Although no single policy can eliminate congestion entirely, a combination of these steps would make urban life considerably more pleasant.
+
+
+**Passage tasks**
+1. 文中邊啲做法可以 alleviate the pressure on busy streets？
+2. 用自己說話解釋點解要 take decisive action 而唔係淨係起多啲路（1 句）
+3. True / False：Passage 話單一政策就可以完全消除塞車。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **fast/affordable public transport**（亦有 off-peak incentives）
+2.（例）building more roads alone is not enough / need broader measures
+3. **False**（no single policy can eliminate congestion）
+

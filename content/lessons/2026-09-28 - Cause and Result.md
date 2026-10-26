@@ -59,6 +59,20 @@ Date: 2026-09-28
 
 In several Asian cities, worsening air quality does not simply **arise from** one factory or one busy road. Experts argue that rapid urban growth is often **the root cause of** higher emissions, as more vehicles and construction projects appear each year. The problem is also **largely due to** weak enforcement of environmental rules, which allows polluters to continue harmful practices. Over time, these pressures can **culminate in** dangerous smog episodes that disrupt schools and workplaces. For many residents, breathing difficulties are **a direct consequence of** prolonged exposure to fine particles, so clearer policies and cleaner transport have become urgent priorities.
 
+
+**Passage tasks**
+1. 文中話 air quality 問題除咗城市擴張，仲 largely due to 咩？
+2. 用自己說話解釋 culminate in 喺文中指咩結果（1 句）
+3. True / False：Passage 話呼吸問題同微粒無關。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **weak enforcement of environmental rules**
+2.（例）dangerous smog episodes disrupting schools and workplaces
+3. **False**（direct consequence of fine particles）
+
 ## Next theme
 
 Problems and Threats（問題與威脅）
+

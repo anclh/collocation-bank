@@ -53,12 +53,24 @@ Date: 2026-09-22
 - Model: Education **occupies a central place in** national development plans.
 - Mistake: *place* 多數用單數
 
+
 ## Reading passage
 
-**Prompt:** Why education matters in a modern society.
+In a modern society, education **occupies a central place in** personal and national progress. Schools and universities **play a vital role in** preparing young people for work and civic life, from basic literacy to teamwork under pressure. Access to quality learning **is of great importance to** families who hope their children will have better opportunities than the previous generation. Digital skills, in particular, **are essential to** competing in today’s job market, where routine roles shrink and adaptable workers advance. Over the past decade, reforms that expanded scholarships and training schemes **were instrumental in** narrowing the gap between rich and poor districts. Without sustained investment in teaching and facilities, these gains may not last, and inequality in opportunity could widen again.
 
-In a modern society, education **occupies a central place in** personal and national progress. Schools and universities **play a vital role in** preparing young people for work and civic life. Access to quality learning **is of great importance to** families who hope their children will have better opportunities. Digital skills, in particular, **are essential to** competing in today’s job market. Over the past decade, reforms that expanded scholarships and training schemes **were instrumental in** narrowing the gap between rich and poor districts. Without sustained investment in teaching and facilities, these gains may not last.
+**Passage tasks**
+1. 文中邊啲改革 were instrumental in narrowing the gap？
+2. 用自己說話解釋點解 digital skills are essential（1 句）
+3. True / False：Passage 話只要一次過撥款，教育成果就會永遠維持。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **expanded scholarships and training schemes**
+2.（例）routine jobs shrink / adaptable workers advance
+3. **False**（needs sustained investment）
 
 ## Next theme
 
 Impact / Effect（影響／效果）
+

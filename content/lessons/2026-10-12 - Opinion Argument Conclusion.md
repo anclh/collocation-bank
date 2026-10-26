@@ -50,7 +50,21 @@ review: [a growing number of, rise steadily, a dramatic fall in]
 
 Prompt: Some people think schools should ban smartphones. Discuss.
 
-Many educators **take the stance that** smartphones distract students and should be banned during lessons. They **put forward the argument that** constant notifications damage concentration and lower academic performance. Research on classroom behaviour can **make a compelling case for** phone-free periods, especially in junior forms. However, some parents **remain unconvinced by** a total ban, noting that phones also support learning apps and emergency contact. Policymakers should **weigh up the evidence** from schools that have tried different rules before deciding. A balanced approach—restricting phones in class while allowing supervised educational use—may satisfy both safety and learning goals.
+Many educators **take the stance that** smartphones distract students and should be banned during lessons. They **put forward the argument that** constant notifications damage concentration and lower academic performance. Research on classroom behaviour can **make a compelling case for** phone-free periods, especially in junior forms. However, some parents **remain unconvinced by** a total ban, noting that phones also support learning apps and emergency contact. Policymakers should **weigh up the evidence** from schools that have tried different rules before deciding. A balanced approach—restricting phones in class while allowing supervised educational use—may satisfy both safety and learning goals without pretending the evidence is settled.
+
+
+**Passage tasks**
+1. Educators **put forward the argument that** 手機點害學生？
+2. 用自己說話解釋點解有家長 remain unconvinced by 全面禁止（1 句）
+3. True / False：Passage 結論係立刻全面永久禁手機、唔使 weigh up evidence。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **notifications damage concentration / lower performance**
+2.（例）phones support learning apps and emergency contact
+3. **False**（weigh up evidence; balanced approach）
 
 ## Next theme
 Education
+

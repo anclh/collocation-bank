@@ -50,8 +50,22 @@ source: Collocation Tutor
 
 ## Reading passage
 
-Cities around the world are under pressure to **tackle climate change** before the damage becomes irreversible. Factories and vehicles continue to **emit greenhouse gases**, which trap heat in the atmosphere and threaten fragile habitats. Experts argue that households and businesses must **adopt eco-friendly practices**, from recycling to choosing public transport, if they want meaningful progress. At the same time, governments can encourage people to **cut down on energy consumption** through better building standards and clearer labelling on appliances. These steps also help **protect endangered species** whose homes are shrinking as temperatures rise and coastlines change.
+Cities around the world are under pressure to **tackle climate change** before the damage becomes irreversible. Factories and vehicles continue to **emit greenhouse gases**, which trap heat in the atmosphere and threaten fragile habitats. Experts argue that households and businesses must **adopt eco-friendly practices**, from recycling to choosing public transport, if they want meaningful progress. At the same time, governments can encourage people to **cut down on energy consumption** through better building standards and clearer labelling on appliances. These steps also help **protect endangered species** whose homes are shrinking as temperatures rise and coastlines change, linking everyday habits to wider ecological survival.
+
+
+**Passage tasks**
+1. 邊啲來源繼續 emit greenhouse gases？
+2. 用自己說話講政府可以點幫人 cut down on energy consumption（1 句）
+3. True / False：Passage 話保護瀕危物種同氣候行動無關。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **factories and vehicles**
+2.（例）better building standards / clearer appliance labelling
+3. **False**（steps also help protect endangered species）
 
 ## Next theme
 
 Technology（科技）
+

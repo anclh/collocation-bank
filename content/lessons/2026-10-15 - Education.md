@@ -56,6 +56,20 @@ source: Collocation Tutor
 
 Many young people feel pressure to **gain admission to** a famous university, yet academic success alone is not enough. Schools that help students **acquire essential skills** — such as communication, problem-solving and teamwork — prepare them better for work and life. At the same time, not every student thrives in a purely academic track. Those who **undertake vocational training** can build practical expertise and still enjoy strong career prospects. The goal should be that every learner can **receive a well-rounded education**, rather than being pushed into a single path that does not fit them. When support is limited, some students **drop out of school** early, which often narrows their options later. Balanced pathways matter more than prestige alone.
 
+
+**Passage tasks**
+1. 除咗學術路，文中仲提到邊條路徑（collocation）？
+2. 用自己說話解釋點解要 receive a well-rounded education（1 句）
+3. True / False：Passage 話 drop out of school 唔會收窄將來選擇。
+
+## ANSWER KEY
+
+### Passage tasks
+1. **undertake vocational training**
+2.（例）not everyone thrives on a purely academic track / skills for work and life
+3. **False**（dropping out often narrows options）
+
 ## Next theme
 
 Environment（環境）
+
