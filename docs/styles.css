@@ -770,6 +770,7 @@ button.btn {
 
 .lesson-row-actions {
   display: flex;
+  flex-wrap: wrap;
   gap: 0.45rem;
   padding: 0 0.85rem 0.85rem;
 }
@@ -1125,5 +1126,157 @@ a.lesson-row-link:hover .lesson-title {
   }
   header.hero {
     background: linear-gradient(145deg, var(--accent-soft), var(--bg-card));
+  }
+}
+
+
+/* ===== Passage view (cards-primary companion) ===== */
+.passage-shell {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.passage-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1.25rem 1.2rem 1.35rem;
+  margin: 1rem 0 1.15rem;
+}
+
+.passage-kicker {
+  margin: 0 0 0.35rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+  letter-spacing: 0.01em;
+}
+
+.passage-heading {
+  margin: 0 0 0.85rem;
+  font-size: 1.15rem;
+  color: var(--accent-dark);
+}
+
+.passage-body {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.passage-body mark {
+  background: color-mix(in srgb, var(--accent) 22%, transparent);
+  color: inherit;
+  font-weight: 700;
+  padding: 0.05em 0.18em;
+  border-radius: 4px;
+}
+
+.passage-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 1.1rem;
+  padding-top: 0.95rem;
+  border-top: 1px dashed var(--border);
+}
+
+.passage-chip {
+  display: inline-flex;
+  align-items: center;
+  background: var(--accent-soft);
+  color: var(--accent-dark);
+  border: 1px solid color-mix(in srgb, var(--accent) 25%, var(--border));
+  border-radius: 999px;
+  padding: 0.28rem 0.7rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.passage-tasks-sec {
+  margin: 0.25rem 0 1rem;
+}
+
+.passage-tasks-sec h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1.05rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.passage-task {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 0.7rem 0.9rem;
+  margin: 0.5rem 0;
+}
+
+.passage-task summary {
+  cursor: pointer;
+  list-style: none;
+  display: flex;
+  gap: 0.55rem;
+  align-items: flex-start;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.passage-task summary::-webkit-details-marker {
+  display: none;
+}
+
+.passage-task-num {
+  flex: 0 0 auto;
+  width: 1.55rem;
+  height: 1.55rem;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.82rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0.05rem;
+}
+
+.passage-task-ans {
+  margin-top: 0.7rem;
+  padding-top: 0.7rem;
+  border-top: 1px solid var(--border);
+  color: var(--ink);
+  font-weight: 500;
+}
+
+.passage-task-ans .label {
+  display: inline-block;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent-dark);
+  background: var(--accent-soft);
+  border-radius: 999px;
+  padding: 0.15rem 0.5rem;
+  margin-bottom: 0.4rem;
+}
+
+.passage-task-ans mark {
+  background: color-mix(in srgb, var(--warn) 55%, transparent);
+  font-weight: 700;
+  padding: 0.05em 0.15em;
+  border-radius: 3px;
+}
+
+.passage-footer {
+  margin-top: 0.5rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  .passage-body mark {
+    background: color-mix(in srgb, var(--accent) 40%, transparent);
+  }
+  .passage-task-num {
+    color: #fff;
   }
 }

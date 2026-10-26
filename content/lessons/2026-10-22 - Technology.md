@@ -56,6 +56,11 @@ source: Collocation Tutor
 
 When firms begin to **harness the power of** artificial intelligence in everyday operations, older workflows that once felt reliable can soon **become obsolete**. That shift is not only about replacing software; managers adopt AI tools specifically to **enhance productivity**, so staff spend less time on paperwork and more on judgement-heavy work. In practice, programmes that **automate routine tasks** such as scheduling, data entry, and basic customer replies create spare capacity across the organisation. Companies that move early often **gain a competitive edge** over slower rivals, yet that same advantage raises the bar for workers, who must keep learning if they are to stay useful in an AI-shaped workplace.
 
+**Passage tasks**
+1. 文中話邊啲工作正 harness the power of AI？
+2. 用自己說話解釋點解 automate routine tasks 可以 enhance productivity（1 句）
+3. True / False：Passage 話所有舊工具都已經 become obsolete，冇例外。
+
 ## ANSWER KEY
 
 ### Mini drill

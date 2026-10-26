@@ -41,6 +41,17 @@
       .replace(/"/g, "&quot;");
   }
 
+
+  function formatPassageHtml(passage) {
+    // Escape, then restore **collocation** as <mark>
+    const esc = escapeHtml(passage || "");
+    return esc.replace(/\*\*(.+?)\*\*/g, "<mark>$1</mark>");
+  }
+
+  function hasPassage(L) {
+    return Boolean(L && String(L.passage || "").trim());
+  }
+
   function norm(s) {
     return String(s || "")
       .toLowerCase()
@@ -103,7 +114,7 @@
       </header>
       <section id="lessons">
         <h2><span class="num">🃏</span> Decks</h2>
-        <p class="hint">撳一堂即開 <strong>Cards</strong> 練習。進度存喺呢部電話（localStorage）。</p>
+        <p class="hint">撳一堂開 <strong>Cards</strong>；有 passage 嘅堂可以睇 <strong>Passage</strong>。進度存喺呢部電話（localStorage）。</p>
         <ul class="lesson-list" id="lesson-list"></ul>
       </section>
     `;
@@ -116,12 +127,16 @@
       const isLast = state.progress.lastId === L.id;
       li.className = "lesson-row" + (isDone ? " is-done" : "") + (isLast ? " is-last" : "");
       const href = `study.html?id=${encodeURIComponent(L.id)}`;
+      const passageHref = `study.html?id=${encodeURIComponent(L.id)}&view=passage`;
+      const passageBtn = hasPassage(L)
+        ? `<a class="btn btn-ghost btn-sm" href="${passageHref}">Passage</a>`
+        : "";
       li.innerHTML = `
         <a class="lesson-row-main lesson-row-link" href="${href}">
           <span class="lesson-num">${L.lesson}</span>
           <span class="lesson-body">
             <p class="lesson-title">${escapeHtml(L.title || L.theme)}</p>
-            <p class="lesson-meta">${escapeHtml(L.date)} · ${escapeHtml(L.theme)} · ${L.collocations.length} cards</p>
+            <p class="lesson-meta">${escapeHtml(L.date)} · ${escapeHtml(L.theme)} · ${L.collocations.length} cards${hasPassage(L) ? " · passage" : ""}</p>
           </span>
           <span class="lesson-flags">
             ${isDone ? '<span class="flag done">Done</span>' : ""}
@@ -130,6 +145,7 @@
         </a>
         <div class="lesson-row-actions">
           <a class="btn btn-primary btn-sm" href="${href}">Cards</a>
+          ${passageBtn}
         </div>
       `;
       frag.appendChild(li);
@@ -372,6 +388,11 @@
           <div class="qz-end-actions">
             <button type="button" class="btn btn-primary" id="btn-restart-end">Restart</button>
             <a class="btn btn-ghost" href="${againHref}">${againLabel}</a>
+            ${
+              study.lessonId && study.lesson && hasPassage(study.lesson)
+                ? `<a class="btn btn-ghost" href="study.html?id=${encodeURIComponent(study.lessonId)}&view=passage">📖 Read passage</a>`
+                : ""
+            }
             <a class="btn btn-ghost" href="index.html">Back to hub</a>
           </div>
         </div>
@@ -500,10 +521,86 @@
     if (_studyKeyHandler) document.addEventListener("keydown", _studyKeyHandler);
   }
 
+
+  function renderPassage(L) {
+    const root = $("#app");
+    if (!root || !L) return;
+    markOpened(L.id);
+    document.title = `Passage · Lesson ${L.lesson} · Collocation Trainer`;
+
+    const phrases = (L.collocations || []).map((c) => c.phrase).filter(Boolean);
+    const chips = phrases
+      .map((p) => `<span class="passage-chip">${escapeHtml(p)}</span>`)
+      .join("");
+
+    const tasks = Array.isArray(L.tasks) ? L.tasks : [];
+    const tasksHtml = tasks.length
+      ? tasks
+          .map((t, i) => {
+            const ans = t.answer ? formatPassageHtml(String(t.answer)) : "（未有答案）";
+            return `
+            <details class="passage-task">
+              <summary><span class="passage-task-num">${i + 1}</span> ${formatPassageHtml(t.q || "")}</summary>
+              <div class="passage-task-ans"><span class="label">Answer</span><div>${ans}</div></div>
+            </details>`;
+          })
+          .join("")
+      : `<p class="hint">呢堂暫時未有 passage tasks。</p>`;
+
+    const cardsHref = `study.html?id=${encodeURIComponent(L.id)}`;
+    root.innerHTML = `
+      <div class="study-shell passage-shell">
+        <header class="study-top">
+          <a class="study-back" href="index.html">← Hub</a>
+          <div class="study-title">L${L.lesson} · Passage</div>
+          <div class="study-count">📖</div>
+        </header>
+        <div class="passage-card">
+          <p class="passage-kicker">${escapeHtml(L.date)} · ${escapeHtml(L.theme)}</p>
+          <h2 class="passage-heading">Reading passage</h2>
+          <p class="passage-body">${formatPassageHtml(L.passage)}</p>
+          ${chips ? `<div class="passage-chips" aria-label="Today's collocations">${chips}</div>` : ""}
+        </div>
+        <section class="passage-tasks-sec">
+          <h3><span class="num">✏️</span> Passage tasks</h3>
+          <p class="hint">撳開睇答案（練完先睇）。</p>
+          ${tasksHtml}
+        </section>
+        <div class="footer-actions passage-footer">
+          <a class="btn btn-primary" href="${cardsHref}">🃏 Study cards</a>
+          <a class="btn btn-ghost" href="index.html">Back to hub</a>
+        </div>
+      </div>
+    `;
+  }
+
   function startStudyFromUrl() {
     const params = new URLSearchParams(location.search);
     const scope = params.get("scope");
+    const view = (params.get("view") || "").toLowerCase();
     const id = params.get("id") || getLessonIdFromUrl();
+
+    if (view === "passage") {
+      const L = id ? findLesson(id) : null;
+      if (!L) {
+        $("#app").innerHTML = `
+          <div class="error">搵唔到呢堂（id=${escapeHtml(id || "")}）。
+          <p><a href="index.html">返回 hub</a></p></div>`;
+        return;
+      }
+      if (!hasPassage(L)) {
+        $("#app").innerHTML = `
+          <div class="error">呢堂未有 reading passage。
+          <p><a href="study.html?id=${encodeURIComponent(L.id)}">去 Cards</a> · <a href="index.html">Hub</a></p></div>`;
+        return;
+      }
+      study.scope = "lesson";
+      study.lessonId = L.id;
+      study.lesson = L;
+      study.title = `L${L.lesson} · Passage`;
+      renderPassage(L);
+      return;
+    }
 
     if (scope === "all") {
       study.scope = "all";

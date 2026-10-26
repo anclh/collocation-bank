@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T02:40:54Z",
+  "generated": "2026-10-26T04:26:26Z",
   "count": 22,
   "lessons": [
     {
@@ -81,30 +81,22 @@
           }
         ]
       },
-      "passage": "Digital learning tools now **have a significant impact on** how teenagers revise for exams, yet not every change is helpful. Heavy late-night scrolling can **have a detrimental effect on** sleep and concentration, so schools that push more screen time without guidance risk harming the very students they hope to help. By contrast, well-designed reading programmes in primary years can **have a profound impact on** vocabulary growth and long-term confidence. Small habits such as daily reading and limited notifications can **make a significant difference to** academic results without expensive equipment. Ultimately, balanced use of technology can **contribute to** better learning outcomes when parents and teachers set clear boundaries.\n\n**Passage tasks**\n1. 文中邊種做法會對睡眠有 detrimental effect？\n2. 用自己說話解釋點解 small habits 可以 make a significant difference（1 句）\n3. True / False：Passage 話所有螢幕時間都有 beneficial impact。",
+      "passage": "Digital learning tools now **have a significant impact on** how teenagers revise for exams, yet not every change is helpful. Heavy late-night scrolling can **have a detrimental effect on** sleep and concentration, so schools that push more screen time without guidance risk harming the very students they hope to help. By contrast, well-designed reading programmes in primary years can **have a profound impact on** vocabulary growth and long-term confidence. Small habits such as daily reading and limited notifications can **make a significant difference to** academic results without expensive equipment. Ultimately, balanced use of technology can **contribute to** better learning outcomes when parents and teachers set clear boundaries.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **have a significant impact on** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "文中邊種做法會對睡眠有 detrimental effect？",
           "answer": "heavy late-night scrolling",
-          "choices": [
-            "對……有重大影響",
-            "對……有深遠影響",
-            "對……有不良影響",
-            "對……有明顯分別"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **have a detrimental / adverse effect on** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋點解 small habits 可以 make a significant difference（1 句）",
           "answer": "（例）daily reading / limited notifications improve results without costly tools",
-          "choices": [],
-          "accept": "have a detrimental / adverse effect on"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話所有螢幕時間都有 beneficial impact。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -193,30 +185,22 @@
           }
         ]
       },
-      "passage": "Urban flooding rarely has a single explanation. In many coastal cities, blocked drains and concrete surfaces **lead to** rapid run-off after heavy rain, while warmer seas **give rise to** more intense storms than a decade ago. These patterns often **stem from** long-term planning choices that favoured roads over green space. When several factors combine, the crisis can **result in** school closures, damaged shops, and costly repairs for ordinary families. Scientists warn that part of the damage should **be attributed to** delayed maintenance rather than weather alone, so upgrading drainage, restoring wetlands, and publishing clearer flood maps have become urgent priorities for local governments.\n\n**Passage tasks**\n1. 文中話邊啲規劃選擇係問題嘅根源（stem from）？\n2. 用自己說話講 flooding 可以 result in 咩（1 句）\n3. True / False：Passage 將全部責任歸咎於天氣。",
+      "passage": "Urban flooding rarely has a single explanation. In many coastal cities, blocked drains and concrete surfaces **lead to** rapid run-off after heavy rain, while warmer seas **give rise to** more intense storms than a decade ago. These patterns often **stem from** long-term planning choices that favoured roads over green space. When several factors combine, the crisis can **result in** school closures, damaged shops, and costly repairs for ordinary families. Scientists warn that part of the damage should **be attributed to** delayed maintenance rather than weather alone, so upgrading drainage, restoring wetlands, and publishing clearer flood maps have become urgent priorities for local governments.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **lead to** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "文中話邊啲規劃選擇係問題嘅根源（stem from）？",
           "answer": "favouring roads over green space / long-term planning choices",
-          "choices": [
-            "導致",
-            "造成結果",
-            "源自",
-            "引發"
-          ]
+          "type": "choose"
         },
         {
-          "q": "用自己一句英文，寫出含 **stem from** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話講 flooding 可以 result in 咩（1 句）",
           "answer": "（例）school closures, damaged shops, costly repairs",
-          "choices": [],
-          "accept": "stem from"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 將全部責任歸咎於天氣。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -305,30 +289,22 @@
           }
         ]
       },
-      "passage": "Fast fashion **poses a threat to** rivers and soil because cheap dyes and short product cycles create mountains of waste. Campaigners **raise concerns about** microplastics from synthetic clothes entering the food chain, especially in dense cities. Manufacturers **are faced with** rising pressure from regulators and younger consumers who want cleaner supply chains. Ignoring these warnings can **exacerbate the problem**, as discarded garments pile up in landfills and overseas dumps. For many governments, textile pollution has become **a major concern** that links environmental damage with worker welfare, so clearer labelling and longer product life cycles are now on the policy agenda.\n\n**Passage tasks**\n1. Fast fashion 點樣 pose a threat to 環境？\n2. 用自己說話解釋點解 ignore warnings 會 exacerbate the problem（1 句）\n3. True / False：Passage 話污染淨係關乎環境、同工人福利無關。",
+      "passage": "Fast fashion **poses a threat to** rivers and soil because cheap dyes and short product cycles create mountains of waste. Campaigners **raise concerns about** microplastics from synthetic clothes entering the food chain, especially in dense cities. Manufacturers **are faced with** rising pressure from regulators and younger consumers who want cleaner supply chains. Ignoring these warnings can **exacerbate the problem**, as discarded garments pile up in landfills and overseas dumps. For many governments, textile pollution has become **a major concern** that links environmental damage with worker welfare, so clearer labelling and longer product life cycles are now on the policy agenda.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **pose a threat to** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "Fast fashion 點樣 pose a threat to 環境？",
           "answer": "cheap dyes / short cycles / waste（microplastics 亦相關）",
-          "choices": [
-            "對……構成威脅",
-            "引起關注／憂慮",
-            "面對",
-            "令問題惡化"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **be faced with** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋點解 ignore warnings 會 exacerbate the problem（1 句）",
           "answer": "（例）more landfill waste and overseas dumping",
-          "choices": [],
-          "accept": "be faced with"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話污染淨係關乎環境、同工人福利無關。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -417,30 +393,22 @@
           }
         ]
       },
-      "passage": "Cities struggling with roadside air pollution need more than slogans. Authorities should **take measures to** cut vehicle emissions, from congestion charges to cleaner bus fleets. Ambitious mayors also **implement policies** that expand bike lanes and discourage unnecessary car trips into the centre. To **address the issue** properly, data on peak-hour traffic and hospital admissions must guide spending rather than political shortcuts. Tree planting and better building standards can **mitigate the effects of** heat and fumes already felt by residents. Civic groups **put forward proposals** for low-emission zones, arguing that gradual change is fairer than sudden bans that hit low-income drivers hardest.\n\n**Passage tasks**\n1. 文中舉咗邊啲 measures / policies 例子？\n2. 用自己說話解釋點解要用數據去 address the issue（1 句）\n3. True / False：Passage 主張即時全面禁車、唔使漸進。",
+      "passage": "Cities struggling with roadside air pollution need more than slogans. Authorities should **take measures to** cut vehicle emissions, from congestion charges to cleaner bus fleets. Ambitious mayors also **implement policies** that expand bike lanes and discourage unnecessary car trips into the centre. To **address the issue** properly, data on peak-hour traffic and hospital admissions must guide spending rather than political shortcuts. Tree planting and better building standards can **mitigate the effects of** heat and fumes already felt by residents. Civic groups **put forward proposals** for low-emission zones, arguing that gradual change is fairer than sudden bans that hit low-income drivers hardest.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **take measures to** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "文中舉咗邊啲 measures / policies 例子？",
           "answer": "congestion charges, cleaner buses, bike lanes, low-emission zones 等",
-          "choices": [
-            "採取措施",
-            "落實政策",
-            "處理問題",
-            "減輕影響"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **address the issue** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋點解要用數據去 address the issue（1 句）",
           "answer": "（例）spending should follow evidence, not political shortcuts",
-          "choices": [],
-          "accept": "address the issue"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 主張即時全面禁車、唔使漸進。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -529,30 +497,22 @@
           }
         ]
       },
-      "passage": "After the pandemic reopening, several Asian cities recorded **a sharp increase in** weekend tourist arrivals, filling hotels that had stood half-empty for months. At the same time, visits to smaller museums began to **decline significantly** as travellers clustered around a few famous landmarks. Tourism officials note that **a substantial proportion of** spending still comes from domestic visitors rather than overseas guests. Some districts **experience a surge in** short-stay bookings whenever a major concert or sports final is held. Overall, lodging and food services now **account for** a larger share of local tax revenue than before 2020, so planners must balance growth with crowd control and neighbourhood noise.\n\n**Passage tasks**\n1. 邊類場所嘅參觀數字 decline significantly？\n2. 用自己說話講咩時候會 experience a surge in bookings（1 句）\n3. True / False：Passage 話大部分消費嚟自海外旅客。",
+      "passage": "After the pandemic reopening, several Asian cities recorded **a sharp increase in** weekend tourist arrivals, filling hotels that had stood half-empty for months. At the same time, visits to smaller museums began to **decline significantly** as travellers clustered around a few famous landmarks. Tourism officials note that **a substantial proportion of** spending still comes from domestic visitors rather than overseas guests. Some districts **experience a surge in** short-stay bookings whenever a major concert or sports final is held. Overall, lodging and food services now **account for** a larger share of local tax revenue than before 2020, so planners must balance growth with crowd control and neighbourhood noise.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **a sharp increase in** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "邊類場所嘅參觀數字 decline significantly？",
           "answer": "smaller museums",
-          "choices": [
-            "大幅上升",
-            "明顯下降",
-            "相當大比例",
-            "經歷急升"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **a substantial proportion of** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話講咩時候會 experience a surge in bookings（1 句）",
           "answer": "（例）during major concerts or sports finals",
-          "choices": [],
-          "accept": "a substantial proportion of"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話大部分消費嚟自海外旅客。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -641,30 +601,22 @@
           }
         ]
       },
-      "passage": "Many parents **hold the view that** homework loads have become excessive in secondary schools. **It is widely believed that** long evening worksheets leave little time for sport, family talk, or rest. Classroom studies that track stress and sleep can **lend support to** calls for shorter, better-designed tasks. Critics, however, **cast doubt on** claims that less homework automatically raises achievement, noting that practice still matters in subjects such as mathematics. After reviewing local survey data and international comparisons, several principals **reach the conclusion that** quality and feedback matter more than sheer quantity, so schools should redesign assignments rather than abolish them overnight.\n\n**Passage tasks**\n1. 文中邊啲證據可以 lend support to 減少功課嘅訴求？\n2. 用自己說話解釋 critics 點解 cast doubt on「少功課＝一定更好」（1 句）\n3. True / False：Principals 嘅 conclusion 係即刻全面取消功課。",
+      "passage": "Many parents **hold the view that** homework loads have become excessive in secondary schools. **It is widely believed that** long evening worksheets leave little time for sport, family talk, or rest. Classroom studies that track stress and sleep can **lend support to** calls for shorter, better-designed tasks. Critics, however, **cast doubt on** claims that less homework automatically raises achievement, noting that practice still matters in subjects such as mathematics. After reviewing local survey data and international comparisons, several principals **reach the conclusion that** quality and feedback matter more than sheer quantity, so schools should redesign assignments rather than abolish them overnight.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **hold the view that** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "文中邊啲證據可以 lend support to 減少功課嘅訴求？",
           "answer": "classroom studies on stress and sleep",
-          "choices": [
-            "認為",
-            "普遍認為",
-            "為論點提供支持",
-            "令人質疑"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **lend support to** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋 critics 點解 cast doubt on「少功課＝一定更好」（1 句）",
           "answer": "（例）practice still matters / less homework does not auto-raise scores",
-          "choices": [],
-          "accept": "lend support to"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Principals 嘅 conclusion 係即刻全面取消功課。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -753,30 +705,22 @@
           }
         ]
       },
-      "passage": "Across East Asia, more school-leavers hope to **pursue higher education**, yet places at top universities remain limited. Successful programmes try to **equip students with** research skills, teamwork, and clear writing rather than memorisation alone. Progressive schools also **place a strong emphasis on** discussion and project work so learners can **foster critical thinking** before they sit public exams. Still, outcomes depend on whether rural teenagers **have access to education** of comparable quality, including reliable broadband and trained teachers. When that gap narrows, universities receive better-prepared applicants and employers gain graduates who can adapt when industries change. Closing the gap therefore supports both fairness and economic resilience.\n\n**Passage tasks**\n1. 文中話成功課程想 equip students with 咩？\n2. 用自己說話解釋點解 access to education 喺農村重要（1 句）\n3. True / False：Passage 話 top university 學位已經足夠所有人。",
+      "passage": "Across East Asia, more school-leavers hope to **pursue higher education**, yet places at top universities remain limited. Successful programmes try to **equip students with** research skills, teamwork, and clear writing rather than memorisation alone. Progressive schools also **place a strong emphasis on** discussion and project work so learners can **foster critical thinking** before they sit public exams. Still, outcomes depend on whether rural teenagers **have access to education** of comparable quality, including reliable broadband and trained teachers. When that gap narrows, universities receive better-prepared applicants and employers gain graduates who can adapt when industries change. Closing the gap therefore supports both fairness and economic resilience.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **pursue higher education** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "文中話成功課程想 equip students with 咩？",
           "answer": "research skills, teamwork, clear writing",
-          "choices": [
-            "繼續升學",
-            "裝備能力",
-            "強調／重視",
-            "培養批判思維"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **place a strong emphasis on** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋點解 access to education 喺農村重要（1 句）",
           "answer": "（例）comparable quality / broadband / teachers narrow the gap",
-          "choices": [],
-          "accept": "place a strong emphasis on"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話 top university 學位已經足夠所有人。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -865,30 +809,22 @@
           }
         ]
       },
-      "passage": "Unregulated mining can **cause irreversible damage to** forests and river systems that communities depend on for food and water. Continuous extraction also tends to **deplete natural resources** faster than ecosystems can recover, leaving scarred landscapes behind. Governments under public pressure have promised to **reduce carbon emissions** from heavy industry while helping factories **switch to renewable energy sources** such as wind and solar. Conservationists add that protecting wetlands and old-growth woodland is essential if societies want to **preserve biodiversity** for future generations. Without coordinated action across ministries and businesses, short-term profits will keep outweighing long-term environmental security for communities downstream.\n\n**Passage tasks**\n1. Mining 點樣 harm 環境（用文中 collocation）？\n2. 用自己說話講政府想 factories 點做嚟減排（1 句）\n3. True / False：Passage 話單靠短期利潤已經足夠保護生態。",
+      "passage": "Unregulated mining can **cause irreversible damage to** forests and river systems that communities depend on for food and water. Continuous extraction also tends to **deplete natural resources** faster than ecosystems can recover, leaving scarred landscapes behind. Governments under public pressure have promised to **reduce carbon emissions** from heavy industry while helping factories **switch to renewable energy sources** such as wind and solar. Conservationists add that protecting wetlands and old-growth woodland is essential if societies want to **preserve biodiversity** for future generations. Without coordinated action across ministries and businesses, short-term profits will keep outweighing long-term environmental security for communities downstream.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **cause irreversible damage to** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "Mining 點樣 harm 環境（用文中 collocation）？",
           "answer": "cause irreversible damage / deplete natural resources",
-          "choices": [
-            "不可逆轉破壞",
-            "耗盡自然資源",
-            "減少碳排放",
-            "轉用可再生能源"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **reduce carbon emissions** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話講政府想 factories 點做嚟減排（1 句）",
           "answer": "（例）switch to renewable energy / reduce carbon emissions",
-          "choices": [],
-          "accept": "reduce carbon emissions"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話單靠短期利潤已經足夠保護生態。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -977,30 +913,22 @@
           }
         ]
       },
-      "passage": "Modern workplaces **rely heavily on technology** for meetings, records, and customer service, so outages quickly disrupt entire teams. Employees must **keep pace with technological advances**, updating skills as software and AI tools change each year. At the same time, policymakers try to **bridge the digital divide** between well-connected cities and villages with weak broadband. New tracking apps **raise privacy concerns** when personal data is stored without clear consent. Used wisely, the same innovations can **transform the way we** learn, shop, and access public services, but only if clear rules protect users while still encouraging useful experimentation in schools and workplaces.\n\n**Passage tasks**\n1. 文中點解話要 keep pace with technological advances？\n2. 用自己說話解釋 digital divide 係指咩（1 句）\n3. True / False：Passage 話科技轉變必然無隱私問題。",
+      "passage": "Modern workplaces **rely heavily on technology** for meetings, records, and customer service, so outages quickly disrupt entire teams. Employees must **keep pace with technological advances**, updating skills as software and AI tools change each year. At the same time, policymakers try to **bridge the digital divide** between well-connected cities and villages with weak broadband. New tracking apps **raise privacy concerns** when personal data is stored without clear consent. Used wisely, the same innovations can **transform the way we** learn, shop, and access public services, but only if clear rules protect users while still encouraging useful experimentation in schools and workplaces.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **rely heavily on technology** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "文中點解話要 keep pace with technological advances？",
           "answer": "software and AI tools change each year / skills need updating",
-          "choices": [
-            "好依賴科技",
-            "跟得上科技進步",
-            "縮短數碼鴻溝",
-            "引起私隱憂慮"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **bridge the digital divide** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋 digital divide 係指咩（1 句）",
           "answer": "（例）gap between well-connected cities and poorly connected villages",
-          "choices": [],
-          "accept": "bridge the digital divide"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話科技轉變必然無隱私問題。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -1089,30 +1017,22 @@
           }
         ]
       },
-      "passage": "Office workers who **lead a sedentary lifestyle** often sit for more than eight hours a day, with little walking between meetings. Over time, many begin to **suffer from chronic diseases** such as type 2 diabetes and heart conditions linked to inactivity. Whether people recover early depends partly on whether they **have access to healthcare** that offers screening and advice, not only emergency treatment. City programmes that promote parks, cycling, and workplace stretching aim to **improve public health** at population level. If these habits take root, more residents may **enjoy a longer life expectancy** without spending their later years in frequent hospital care.\n\n**Passage tasks**\n1. Sedentary lifestyle 同邊啲 chronic diseases 有關？\n2. 用自己說話解釋 access to healthcare 點樣幫到早期介入（1 句）\n3. True / False：Passage 話 improve public health 只靠醫院急救就夠。",
+      "passage": "Office workers who **lead a sedentary lifestyle** often sit for more than eight hours a day, with little walking between meetings. Over time, many begin to **suffer from chronic diseases** such as type 2 diabetes and heart conditions linked to inactivity. Whether people recover early depends partly on whether they **have access to healthcare** that offers screening and advice, not only emergency treatment. City programmes that promote parks, cycling, and workplace stretching aim to **improve public health** at population level. If these habits take root, more residents may **enjoy a longer life expectancy** without spending their later years in frequent hospital care.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **lead a sedentary lifestyle** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "Sedentary lifestyle 同邊啲 chronic diseases 有關？",
           "answer": "type 2 diabetes and heart conditions",
-          "choices": [
-            "少郁動生活",
-            "患慢性病",
-            "獲得醫療服務",
-            "改善公共衛生"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **have access to healthcare** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋 access to healthcare 點樣幫到早期介入（1 句）",
           "answer": "（例）screening and advice, not only emergencies",
-          "choices": [],
-          "accept": "have access to healthcare"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話 improve public health 只靠醫院急救就夠。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -1201,30 +1121,22 @@
           }
         ]
       },
-      "passage": "After a rise in online fraud, ministers plan to **introduce legislation** that forces platforms to verify high-risk sellers more carefully. Passing a bill is only the first step; agencies must also **enforce the law** consistently so loopholes are not ignored. Budgets will **allocate public funds** to digital police units and public education campaigns. Officials argue that visible action helps **maintain social stability** when citizens fear losing savings to scams. Longer term, fairer tax and training policies are needed to **tackle social inequality**, because communities with fewer opportunities are often the most exposed to both crime and misinformation.\n\n**Passage tasks**\n1. 新法例主要想平台做咩？\n2. 用自己說話解釋點解 enforce the law 同 introduce legislation 一樣重要（1 句）\n3. True / False：Passage 話 allocate public funds 淨係用喺廣告、唔使執法單位。",
+      "passage": "After a rise in online fraud, ministers plan to **introduce legislation** that forces platforms to verify high-risk sellers more carefully. Passing a bill is only the first step; agencies must also **enforce the law** consistently so loopholes are not ignored. Budgets will **allocate public funds** to digital police units and public education campaigns. Officials argue that visible action helps **maintain social stability** when citizens fear losing savings to scams. Longer term, fairer tax and training policies are needed to **tackle social inequality**, because communities with fewer opportunities are often the most exposed to both crime and misinformation.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **introduce legislation** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "新法例主要想平台做咩？",
           "answer": "verify high-risk sellers more carefully",
-          "choices": [
-            "推出法例",
-            "執法",
-            "撥出公帑",
-            "維持社會穩定"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **allocate public funds** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋點解 enforce the law 同 introduce legislation 一樣重要（1 句）",
           "answer": "（例）laws fail if loopholes are ignored / need consistent enforcement",
-          "choices": [],
-          "accept": "allocate public funds"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話 allocate public funds 淨係用喺廣告、唔使執法單位。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -1326,30 +1238,22 @@
           }
         ]
       },
-      "passage": "In a modern society, education **occupies a central place in** personal and national progress. Schools and universities **play a vital role in** preparing young people for work and civic life, from basic literacy to teamwork under pressure. Access to quality learning **is of great importance to** families who hope their children will have better opportunities than the previous generation. Digital skills, in particular, **are essential to** competing in today’s job market, where routine roles shrink and adaptable workers advance. Over the past decade, reforms that expanded scholarships and training schemes **were instrumental in** narrowing the gap between rich and poor districts. Without sustained investment in teaching and facilities, these gains may not last, and inequality in opportunity could widen again.\n\n**Passage tasks**\n1. 文中邊啲改革 were instrumental in narrowing the gap？\n2. 用自己說話解釋點解 digital skills are essential（1 句）\n3. True / False：Passage 話只要一次過撥款，教育成果就會永遠維持。",
+      "passage": "In a modern society, education **occupies a central place in** personal and national progress. Schools and universities **play a vital role in** preparing young people for work and civic life, from basic literacy to teamwork under pressure. Access to quality learning **is of great importance to** families who hope their children will have better opportunities than the previous generation. Digital skills, in particular, **are essential to** competing in today’s job market, where routine roles shrink and adaptable workers advance. Over the past decade, reforms that expanded scholarships and training schemes **were instrumental in** narrowing the gap between rich and poor districts. Without sustained investment in teaching and facilities, these gains may not last, and inequality in opportunity could widen again.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **play a vital role in** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "文中邊啲改革 were instrumental in narrowing the gap？",
           "answer": "expanded scholarships and training schemes",
-          "choices": [
-            "喺某事入面扮演關鍵角色",
-            "對……極為重要（正式學術語氣）",
-            "對……必不可少",
-            "對促成某事起重要作用"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **be essential to** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋點解 digital skills are essential（1 句）",
           "answer": "（例）routine jobs shrink / adaptable workers advance",
-          "choices": [],
-          "accept": "be essential to"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話只要一次過撥款，教育成果就會永遠維持。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -1451,30 +1355,22 @@
           }
         ]
       },
-      "passage": "In many cities, high living costs **have far-reaching consequences for** ordinary families who already stretch every pay cheque. Rent and transport alone can **take their toll on** household budgets, leaving little room for savings, healthcare, or further study. Job insecurity also **exerts a strong influence on** spending decisions, as people delay major purchases and avoid career risks. When one sector slows down, the downturn often **has a knock-on effect on** related industries such as retail and hospitality, so local shops feel the pressure within weeks. Over time, targeted support and fair wages can **bring about change** in living standards, but progress is usually gradual rather than sudden, and communities need steady policy follow-through.\n\n**Passage tasks**\n1. High living costs 點樣 take their toll on households？\n2. 用自己說話解釋 knock-on effect 嘅意思（用文中例子，1 句）\n3. True / False：Passage 話 living standards 可以一夜之間大幅改善。",
+      "passage": "In many cities, high living costs **have far-reaching consequences for** ordinary families who already stretch every pay cheque. Rent and transport alone can **take their toll on** household budgets, leaving little room for savings, healthcare, or further study. Job insecurity also **exerts a strong influence on** spending decisions, as people delay major purchases and avoid career risks. When one sector slows down, the downturn often **has a knock-on effect on** related industries such as retail and hospitality, so local shops feel the pressure within weeks. Over time, targeted support and fair wages can **bring about change** in living standards, but progress is usually gradual rather than sudden, and communities need steady policy follow-through.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **have far-reaching consequences for** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "High living costs 點樣 take their toll on households？",
           "answer": "little room for savings / healthcare / study（rent and transport）",
-          "choices": [
-            "對……帶來深遠／廣泛後果",
-            "對……施加強烈影響",
-            "促成／導致改變（正式）",
-            "產生連鎖／連帶影響"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **bring about change** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋 knock-on effect 嘅意思（用文中例子，1 句）",
           "answer": "（例）one sector slows → retail and hospitality also suffer",
-          "choices": [],
-          "accept": "bring about change"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話 living standards 可以一夜之間大幅改善。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -1576,30 +1472,22 @@
           }
         ]
       },
-      "passage": "In several Asian cities, worsening air quality does not simply **arise from** one factory or one busy road. Experts argue that rapid urban growth is often **the root cause of** higher emissions, as more vehicles and construction projects appear each year. The problem is also **largely due to** weak enforcement of environmental rules, which allows polluters to continue harmful practices. Over time, these pressures can **culminate in** dangerous smog episodes that disrupt schools and workplaces. For many residents, breathing difficulties are **a direct consequence of** prolonged exposure to fine particles, so clearer policies and cleaner transport have become urgent priorities.\n\n\n**Passage tasks**\n1. 文中話 air quality 問題除咗城市擴張，仲 largely due to 咩？\n2. 用自己說話解釋 culminate in 喺文中指咩結果（1 句）\n3. True / False：Passage 話呼吸問題同微粒無關。",
+      "passage": "In several Asian cities, worsening air quality does not simply **arise from** one factory or one busy road. Experts argue that rapid urban growth is often **the root cause of** higher emissions, as more vehicles and construction projects appear each year. The problem is also **largely due to** weak enforcement of environmental rules, which allows polluters to continue harmful practices. Over time, these pressures can **culminate in** dangerous smog episodes that disrupt schools and workplaces. For many residents, breathing difficulties are **a direct consequence of** prolonged exposure to fine particles, so clearer policies and cleaner transport have become urgent priorities.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **arise from** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "文中話 air quality 問題除咗城市擴張，仲 largely due to 咩？",
           "answer": "weak enforcement of environmental rules",
-          "choices": [
-            "源於／由……引起（正式）",
-            "係……嘅根本原因",
-            "最終發展成為／以……告終",
-            "主要由於……"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **culminate in** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋 culminate in 喺文中指咩結果（1 句）",
           "answer": "（例）dangerous smog episodes disrupting schools and workplaces",
-          "choices": [],
-          "accept": "culminate in"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話呼吸問題同微粒無關。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -1701,30 +1589,22 @@
           }
         ]
       },
-      "passage": "Many large cities **are plagued by** severe housing shortages, which push rents higher and force young workers to live far from their jobs. Affordable flats **are under threat** as older neighbourhoods are redeveloped into luxury projects that long-term residents cannot afford. Families who rent **are vulnerable to** sudden eviction or sharp rent increases, especially when contracts offer little protection. Policymakers who delay action **run the risk of** deeper inequality, longer commuting times, and weaker social trust. Overall, balancing growth with fair housing access **presents a formidable challenge** for urban planners and local governments, who must weigh developer interests against community stability.\n\n**Passage tasks**\n1. 文中話 affordable flats 點解 are under threat？\n2. 用自己說話講 delay action 會 run the risk of 咩（1 句）\n3. True / False：Passage 話 housing 問題對社會信任冇影響。",
+      "passage": "Many large cities **are plagued by** severe housing shortages, which push rents higher and force young workers to live far from their jobs. Affordable flats **are under threat** as older neighbourhoods are redeveloped into luxury projects that long-term residents cannot afford. Families who rent **are vulnerable to** sudden eviction or sharp rent increases, especially when contracts offer little protection. Policymakers who delay action **run the risk of** deeper inequality, longer commuting times, and weaker social trust. Overall, balancing growth with fair housing access **presents a formidable challenge** for urban planners and local governments, who must weigh developer interests against community stability.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **be plagued by** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "文中話 affordable flats 點解 are under threat？",
           "answer": "redeveloped into luxury projects",
-          "choices": [
-            "長期飽受……困擾（問題／麻煩持續出現）",
-            "正面臨威脅／岌岌可危",
-            "冒住……嘅風險",
-            "容易受到……傷害／影響（較弱勢、抵禦力低）"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **run the risk of** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話講 delay action 會 run the risk of 咩（1 句）",
           "answer": "（例）deeper inequality / longer commutes / weaker trust",
-          "choices": [],
-          "accept": "run the risk of"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話 housing 問題對社會信任冇影響。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -1826,30 +1706,22 @@
           }
         ]
       },
-      "passage": "Many major cities are *plagued by* traffic congestion, which wastes time and pollutes the air. To **find a viable solution to** this problem, governments need to **take decisive action** rather than simply building more roads. One effective measure is to invest in fast and affordable public transport, which would **alleviate the pressure on** busy streets. In addition, authorities could **provide incentives for** commuters **to** travel outside peak hours, such as cheaper fares in the early morning. Finally, campaigns can **raise public awareness of** the hidden costs of driving, including its impact on health and the environment. Although no single policy can eliminate congestion entirely, a combination of these steps would make urban life considerably more pleasant.\n\n\n**Passage tasks**\n1. 文中邊啲做法可以 alleviate the pressure on busy streets？\n2. 用自己說話解釋點解要 take decisive action 而唔係淨係起多啲路（1 句）\n3. True / False：Passage 話單一政策就可以完全消除塞車。",
+      "passage": "Many major cities are *plagued by* traffic congestion, which wastes time and pollutes the air. To **find a viable solution to** this problem, governments need to **take decisive action** rather than simply building more roads. One effective measure is to invest in fast and affordable public transport, which would **alleviate the pressure on** busy streets. In addition, authorities could **provide incentives for** commuters **to** travel outside peak hours, such as cheaper fares in the early morning. Finally, campaigns can **raise public awareness of** the hidden costs of driving, including its impact on health and the environment. Although no single policy can eliminate congestion entirely, a combination of these steps would make urban life considerably more pleasant.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **take decisive action** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "文中邊啲做法可以 alleviate the pressure on busy streets？",
           "answer": "fast/affordable public transport（亦有 off-peak incentives）",
-          "choices": [
-            "果斷採取行動，唔再拖。",
-            "搵到一個實際可行嘅解決方法（viable = 行得通）。",
-            "紓緩、減輕壓力或問題，但唔係完全解決。",
-            "提高公眾對某事嘅意識。"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **alleviate the pressure on** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋點解要 take decisive action 而唔係淨係起多啲路（1 句）",
           "answer": "（例）building more roads alone is not enough / need broader measures",
-          "choices": [],
-          "accept": "alleviate the pressure on"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話單一政策就可以完全消除塞車。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -1938,30 +1810,22 @@
           }
         ]
       },
-      "passage": "Cycling to work has become increasingly popular in many cities. In one Asian city, the number of commuters who cycled to work **rose steadily** from about 20,000 in 2010 to 45,000 in 2018, as **a growing number of** residents became concerned about their health and traffic. The figure **reached a peak of** 60,000 in 2021, partly because many people avoided crowded public transport during the pandemic. However, when buses and trains returned to normal, there was **a dramatic fall in** cycling, and the number dropped to 40,000 in 2023. Since then, the figure has **levelled off** at around 40,000. Overall, cycling has grown considerably over the period, but further investment in safe cycle lanes may be needed if the city wants this trend to continue.\n\n(Example figures for practice only, not real data.)\n\n\n**Passage tasks**\n1. Cycling 數字幾年 **reached a peak**？大概幾多？\n2. 用自己說話解釋疫情後點解有 dramatic fall（1 句）\n3. True / False：Passage 話 2023 之後數字繼續急跌、未有 level off。",
+      "passage": "Cycling to work has become increasingly popular in many cities. In one Asian city, the number of commuters who cycled to work **rose steadily** from about 20,000 in 2010 to 45,000 in 2018, as **a growing number of** residents became concerned about their health and traffic. The figure **reached a peak of** 60,000 in 2021, partly because many people avoided crowded public transport during the pandemic. However, when buses and trains returned to normal, there was **a dramatic fall in** cycling, and the number dropped to 40,000 in 2023. Since then, the figure has **levelled off** at around 40,000. Overall, cycling has grown considerably over the period, but further investment in safe cycle lanes may be needed if the city wants this trend to continue.\n\n(Example figures for practice only, not real data.)",
       "tasks": [
         {
-          "q": "今日第一個搭配 **a growing number of** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "Cycling 數字幾年 **reached a peak**？大概幾多？",
           "answer": "2021；約 60,000",
-          "choices": [
-            "越嚟越多嘅…（強調數量持續增加嘅趨勢）",
-            "穩定、持續咁上升",
-            "大幅下跌",
-            "去到最高峰"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **a dramatic fall in** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋疫情後點解有 dramatic fall（1 句）",
           "answer": "（例）buses/trains returned → fewer people avoided crowded transport",
-          "choices": [],
-          "accept": "a dramatic fall in"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話 2023 之後數字繼續急跌、未有 level off。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -2050,30 +1914,22 @@
           }
         ]
       },
-      "passage": "Many educators **take the stance that** smartphones distract students and should be banned during lessons. They **put forward the argument that** constant notifications damage concentration and lower academic performance. Research on classroom behaviour can **make a compelling case for** phone-free periods, especially in junior forms. However, some parents **remain unconvinced by** a total ban, noting that phones also support learning apps and emergency contact. Policymakers should **weigh up the evidence** from schools that have tried different rules before deciding. A balanced approach—restricting phones in class while allowing supervised educational use—may satisfy both safety and learning goals without pretending the evidence is settled.\n\n\n**Passage tasks**\n1. Educators **put forward the argument that** 手機點害學生？\n2. 用自己說話解釋點解有家長 remain unconvinced by 全面禁止（1 句）\n3. True / False：Passage 結論係立刻全面永久禁手機、唔使 weigh up evidence。",
+      "passage": "Many educators **take the stance that** smartphones distract students and should be banned during lessons. They **put forward the argument that** constant notifications damage concentration and lower academic performance. Research on classroom behaviour can **make a compelling case for** phone-free periods, especially in junior forms. However, some parents **remain unconvinced by** a total ban, noting that phones also support learning apps and emergency contact. Policymakers should **weigh up the evidence** from schools that have tried different rules before deciding. A balanced approach—restricting phones in class while allowing supervised educational use—may satisfy both safety and learning goals without pretending the evidence is settled.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **take the stance that** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "Educators **put forward the argument that** 手機點害學生？",
           "answer": "notifications damage concentration / lower performance",
-          "choices": [
-            "採取某個明確立場（認為…）",
-            "提出一個論點／論證",
-            "為某事提出有力、令人信服嘅理據",
-            "仍然唔信服（某理據／說法）"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **make a compelling case for** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋點解有家長 remain unconvinced by 全面禁止（1 句）",
           "answer": "（例）phones support learning apps and emergency contact",
-          "choices": [],
-          "accept": "make a compelling case for"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 結論係立刻全面永久禁手機、唔使 weigh up evidence。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -2175,30 +2031,22 @@
           }
         ]
       },
-      "passage": "Many young people feel pressure to **gain admission to** a famous university, yet academic success alone is not enough. Schools that help students **acquire essential skills** — such as communication, problem-solving and teamwork — prepare them better for work and life. At the same time, not every student thrives in a purely academic track. Those who **undertake vocational training** can build practical expertise and still enjoy strong career prospects. The goal should be that every learner can **receive a well-rounded education**, rather than being pushed into a single path that does not fit them. When support is limited, some students **drop out of school** early, which often narrows their options later. Balanced pathways matter more than prestige alone.\n\n\n**Passage tasks**\n1. 除咗學術路，文中仲提到邊條路徑（collocation）？\n2. 用自己說話解釋點解要 receive a well-rounded education（1 句）\n3. True / False：Passage 話 drop out of school 唔會收窄將來選擇。",
+      "passage": "Many young people feel pressure to **gain admission to** a famous university, yet academic success alone is not enough. Schools that help students **acquire essential skills** — such as communication, problem-solving and teamwork — prepare them better for work and life. At the same time, not every student thrives in a purely academic track. Those who **undertake vocational training** can build practical expertise and still enjoy strong career prospects. The goal should be that every learner can **receive a well-rounded education**, rather than being pushed into a single path that does not fit them. When support is limited, some students **drop out of school** early, which often narrows their options later. Balanced pathways matter more than prestige alone.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **acquire essential skills** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "除咗學術路，文中仲提到邊條路徑（collocation）？",
           "answer": "undertake vocational training",
-          "choices": [
-            "掌握關鍵／必需技能",
-            "輟學（中途離校）",
-            "接受全面／均衡教育",
-            "獲錄取進入（學校／課程）"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **receive a well-rounded education** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋點解要 receive a well-rounded education（1 句）",
           "answer": "（例）not everyone thrives on a purely academic track / skills for work and life",
-          "choices": [],
-          "accept": "receive a well-rounded education"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話 drop out of school 唔會收窄將來選擇。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -2300,30 +2148,22 @@
           }
         ]
       },
-      "passage": "Cities around the world are under pressure to **tackle climate change** before the damage becomes irreversible. Factories and vehicles continue to **emit greenhouse gases**, which trap heat in the atmosphere and threaten fragile habitats. Experts argue that households and businesses must **adopt eco-friendly practices**, from recycling to choosing public transport, if they want meaningful progress. At the same time, governments can encourage people to **cut down on energy consumption** through better building standards and clearer labelling on appliances. These steps also help **protect endangered species** whose homes are shrinking as temperatures rise and coastlines change, linking everyday habits to wider ecological survival.\n\n\n**Passage tasks**\n1. 邊啲來源繼續 emit greenhouse gases？\n2. 用自己說話講政府可以點幫人 cut down on energy consumption（1 句）\n3. True / False：Passage 話保護瀕危物種同氣候行動無關。",
+      "passage": "Cities around the world are under pressure to **tackle climate change** before the damage becomes irreversible. Factories and vehicles continue to **emit greenhouse gases**, which trap heat in the atmosphere and threaten fragile habitats. Experts argue that households and businesses must **adopt eco-friendly practices**, from recycling to choosing public transport, if they want meaningful progress. At the same time, governments can encourage people to **cut down on energy consumption** through better building standards and clearer labelling on appliances. These steps also help **protect endangered species** whose homes are shrinking as temperatures rise and coastlines change, linking everyday habits to wider ecological survival.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **tackle climate change** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "邊啲來源繼續 emit greenhouse gases？",
           "answer": "factories and vehicles",
-          "choices": [
-            "認真處理氣候變化問題",
-            "排放溫室氣體",
-            "採用環保做法／習慣",
-            "減少能源消耗"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **adopt eco-friendly practices** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話講政府可以點幫人 cut down on energy consumption（1 句）",
           "answer": "（例）better building standards / clearer appliance labelling",
-          "choices": [],
-          "accept": "adopt eco-friendly practices"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話保護瀕危物種同氣候行動無關。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -2428,27 +2268,19 @@
       "passage": "When firms begin to **harness the power of** artificial intelligence in everyday operations, older workflows that once felt reliable can soon **become obsolete**. That shift is not only about replacing software; managers adopt AI tools specifically to **enhance productivity**, so staff spend less time on paperwork and more on judgement-heavy work. In practice, programmes that **automate routine tasks** such as scheduling, data entry, and basic customer replies create spare capacity across the organisation. Companies that move early often **gain a competitive edge** over slower rivals, yet that same advantage raises the bar for workers, who must keep learning if they are to stay useful in an AI-shaped workplace.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **harness the power of** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "文中話邊啲工作正 harness the power of AI？",
           "answer": "artificial intelligence / AI",
-          "choices": [
-            "善用／駕馭……嘅力量（常配 AI、technology、data）",
-            "變得過時／被淘汰",
-            "提高生產力／工作效率",
-            "將例行／重複性工作自動化"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **enhance productivity** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋點解 automate routine tasks 可以 enhance productivity（1 句）",
           "answer": "（例）frees staff from repetitive work / speeds up decisions / cuts costs",
-          "choices": [],
-          "accept": "enhance productivity"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話所有舊工具都已經 become obsolete，冇例外。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"
@@ -2553,27 +2385,19 @@
       "passage": "Many city workers skip breakfast and rely on takeaways, so they struggle to **maintain a balanced diet** across a busy week. Over time, irregular meals and long hours at a desk leave them **prone to** fatigue and minor infections. When symptoms linger, doctors advise staff to **seek medical attention** early rather than wait until they can barely work. During flu season, employers also try to **curb the spread of** viruses by encouraging sick leave and better ventilation. Beyond physical care, progressive companies **promote mental well-being** through flexible hours and counselling, recognising that stress and poor sleep feed into the same cycle of ill health. Together, these steps turn a reactive sick-leave culture into a more preventive one.",
       "tasks": [
         {
-          "q": "今日第一個搭配 **maintain a balanced diet** 嘅意思係邊個最近？",
-          "type": "choose",
+          "q": "文中話邊啲做法可以 curb the spread of viruses？",
           "answer": "sick leave and better ventilation（masks 文中冇直接寫，唔好亂加）",
-          "choices": [
-            "保持均衡飲食",
-            "容易（患上／出現……）",
-            "求醫／尋求醫療協助",
-            "遏止……嘅傳播（疾病、病毒）"
-          ]
+          "type": "open"
         },
         {
-          "q": "用自己一句英文，寫出含 **seek medical attention** 嘅句子（或用粵語解釋文中用法）。",
-          "type": "rewrite",
+          "q": "用自己說話解釋點解要 early seek medical attention（1 句）",
           "answer": "（例）early treatment stops symptoms getting worse / 早啲睇醫生可以避免惡化",
-          "choices": [],
-          "accept": "seek medical attention"
+          "type": "open"
         },
         {
-          "q": "True / False：呢段 passage 只出現咗一個今日搭配。",
-          "type": "tf",
+          "q": "True / False：Passage 話 promote mental well-being 同身體病痛無關。",
           "answer": "False",
+          "type": "tf",
           "choices": [
             "True",
             "False"

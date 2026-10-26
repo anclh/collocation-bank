@@ -252,23 +252,77 @@ def parse_collocations(body: str) -> list[dict]:
 
 
 def parse_passage(body: str) -> str:
+    """Return passage prose only (no Passage tasks block)."""
+    passage, _ = parse_passage_and_tasks(body)
+    return passage
+
+
+def parse_passage_and_tasks(body: str) -> tuple[str, list[dict]]:
+    """Split Reading passage section into prose + task prompts."""
     sec = section_after(body, ["Reading passage"])
     if not sec:
         m = re.search(r"^##\s+Reading passage[^\n]*\n(.*?)(?=^##\s|\Z)", body, re.M | re.S | re.I)
         sec = m.group(1).strip() if m else ""
     if not sec:
-        return ""
+        return "", []
+
     # drop Prompt: lines
-    lines = []
+    cleaned_lines = []
     for line in sec.splitlines():
         if re.match(r"^\*\*Prompt:\*\*", line.strip(), re.I):
             continue
         if re.match(r"^Prompt\s*:", line.strip(), re.I):
             continue
-        lines.append(line)
-    text = "\n".join(lines).strip()
-    # keep **marks** for collocations
-    return text
+        cleaned_lines.append(line)
+    sec = "\n".join(cleaned_lines).strip()
+
+    tasks: list[dict] = []
+    passage = sec
+    # Split on **Passage tasks** / Passage tasks heading
+    split_m = re.split(
+        r"(?im)^(?:\*\*)?Passage tasks?(?:\*\*)?\s*$",
+        sec,
+        maxsplit=1,
+    )
+    if len(split_m) == 2:
+        passage = split_m[0].strip()
+        task_sec = split_m[1].strip()
+        for line in task_sec.splitlines():
+            line = line.strip()
+            mm = re.match(r"^(\d+)\.\s*(.+)$", line)
+            if mm:
+                tasks.append({"q": mm.group(2).strip(), "answer": "", "type": "open"})
+    else:
+        # numbered tasks after blank line following paragraph — keep prose until first task line
+        # only if we see a clear tasks cluster
+        lines = sec.splitlines()
+        task_start = None
+        for i, line in enumerate(lines):
+            if re.match(r"^1\.\s+", line.strip()) and i > 0:
+                # look ahead for 2. and 3.
+                rest = "\n".join(lines[i:])
+                if re.search(r"(?m)^2\.\s+", rest) and re.search(r"(?m)^3\.\s+", rest):
+                    task_start = i
+                    break
+        if task_start is not None:
+            passage = "\n".join(lines[:task_start]).strip()
+            for line in lines[task_start:]:
+                line = line.strip()
+                mm = re.match(r"^(\d+)\.\s*(.+)$", line)
+                if mm:
+                    tasks.append({"q": mm.group(2).strip(), "answer": "", "type": "open"})
+
+    # classify light types
+    for t in tasks:
+        q = t["q"]
+        if re.search(r"True\s*/\s*False", q, re.I):
+            t["type"] = "tf"
+        elif "選" in q or re.search(r"\([^/]+/[^)]+\)", q):
+            t["type"] = "choose"
+        else:
+            t["type"] = "open"
+
+    return passage.strip(), tasks
 
 
 def parse_next_theme(body: str) -> str:
@@ -298,9 +352,13 @@ def parse_answer_key(body: str) -> dict:
         mm = re.search(rf"(?m)^-\s*{letter}\s*:\s*(.+)$", sec)
         if mm:
             out["drill"][letter] = strip_md(mm.group(1))
-    # Passage numbered
+    # Prefer ### Passage tasks subsection
+    task_sec = sec
+    tm = re.search(r"(?im)^###\s+Passage tasks?\s*\n(.*?)(?=^###\s|\Z)", sec, re.M | re.S)
+    if tm:
+        task_sec = tm.group(1)
     for n in (1, 2, 3):
-        mm = re.search(rf"(?m)^\s*{n}\.\s*(.+)$", sec)
+        mm = re.search(rf"(?m)^\s*{n}\.\s*(.+)$", task_sec)
         if mm:
             out["tasks"][str(n)] = strip_md(mm.group(1))
     return out
@@ -477,54 +535,36 @@ def synthesize_passage(cols: list[dict]) -> str:
 
 
 def synthesize_tasks(cols: list[dict], passage: str, answer_key: dict) -> list[dict]:
+    """Fallback only when markdown has no Passage tasks prompts."""
     ak = answer_key.get("tasks", {})
     tasks = []
     if not cols:
         return tasks
 
     c0 = cols[0]
-    # Task 1: which phrase / meaning
-    q1 = f"今日第一個搭配 **{c0['phrase']}** 嘅意思係邊個最近？"
-    choices = []
-    # use yue as correct; distractors from other cols
-    correct = c0.get("yue") or c0["phrase"]
-    choices.append(correct)
-    for c in cols[1:]:
-        if c.get("yue") and c["yue"] not in choices:
-            choices.append(c["yue"])
-        if len(choices) >= 4:
-            break
-    while len(choices) < 3:
-        choices.append(f"（干擾）{cols[len(choices) % len(cols)]['phrase']}")
+    q1 = f"今日第一個搭配 **{c0['phrase']}** 喺 passage 入面點用？"
     tasks.append(
         {
             "q": q1,
-            "type": "choose",
-            "answer": ak.get("1") or correct,
-            "choices": choices[:4],
+            "type": "open",
+            "answer": ak.get("1") or (c0.get("model") or c0["phrase"]),
+            "choices": [],
         }
     )
 
-    # Task 2: open — use phrase in a sentence
     c_mid = cols[min(2, len(cols) - 1)]
     tasks.append(
         {
-            "q": f"用自己一句英文，寫出含 **{c_mid['phrase']}** 嘅句子（或用粵語解釋文中用法）。",
-            "type": "rewrite",
+            "q": f"用自己一句解釋文中 **{c_mid['phrase']}** 嘅用法。",
+            "type": "open",
             "answer": ak.get("2") or c_mid.get("model") or c_mid["phrase"],
             "choices": [],
             "accept": c_mid["phrase"],
         }
     )
 
-    # Task 3: T/F about passage or collocation
-    if passage:
-        # claim something false-ish: "passage only mentions one collocation"
-        q = "True / False：呢段 passage 只出現咗一個今日搭配。"
-        ans = "False"
-    else:
-        q = f"True / False：弱寫法「{c0.get('weak') or 'a weak phrase'}」已經夠學術，唔使學 **{c0['phrase']}**。"
-        ans = "False"
+    q = "True / False：呢段 passage 只出現咗一個今日搭配。"
+    ans = "False"
     if ak.get("3"):
         a3 = ak["3"]
         if re.search(r"false", a3, re.I):
@@ -540,6 +580,27 @@ def synthesize_tasks(cols: list[dict], passage: str, answer_key: dict) -> list[d
         }
     )
     return tasks
+
+
+def merge_passage_tasks(parsed: list[dict], answer_key: dict, cols: list[dict], passage: str) -> list[dict]:
+    """Prefer markdown Passage tasks; attach answers from ANSWER KEY."""
+    ak = answer_key.get("tasks", {})
+    if parsed:
+        out = []
+        for i, t in enumerate(parsed, start=1):
+            item = dict(t)
+            if not item.get("answer") and str(i) in ak:
+                item["answer"] = ak[str(i)]
+            if item.get("type") == "tf":
+                a = item.get("answer") or ""
+                if re.match(r"(?i)^\s*\*?\*?false\b", a):
+                    item["answer"] = "False"
+                elif re.match(r"(?i)^\s*\*?\*?true\b", a):
+                    item["answer"] = "True"
+                item["choices"] = ["True", "False"]
+            out.append(item)
+        return out
+    return synthesize_tasks(cols, passage, answer_key)
 
 
 def title_from_theme(theme: str) -> str:
@@ -590,7 +651,7 @@ def build_lesson(path: Path, lesson_num: int) -> dict:
                 phrase = bit.strip()
                 if phrase:
                     review.append({"phrase": phrase, "yue": ""})
-    passage = parse_passage(body)
+    passage, passage_task_prompts = parse_passage_and_tasks(body)
     next_theme = parse_next_theme(body) or strip_md(str(meta.get("next_theme") or ""))
     answer_key = parse_answer_key(body)
 
@@ -608,8 +669,7 @@ def build_lesson(path: Path, lesson_num: int) -> dict:
         passage = synthesize_passage(cols)
         warn(f"{path.name}: no Reading passage — synthesized from model sentences")
 
-    # Passage tasks: only synthesize (few lessons have explicit task prompts in md)
-    tasks = synthesize_tasks(cols, passage, answer_key)
+    tasks = merge_passage_tasks(passage_task_prompts, answer_key, cols, passage)
 
     # Enrich review with model from matching previous — we only have yue in review list
     # Optionally attach model from nothing; leave as-is. Flip cards can show yue on front, phrase on back if no model.
