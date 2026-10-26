@@ -49,19 +49,20 @@ Date: 2026-09-16
 
 ## Reading passage
 
-Many parents **hold the view that** homework loads have become excessive in secondary schools. **It is widely believed that** long evening worksheets leave little time for sport, family talk, or rest. Classroom studies that track stress and sleep can **lend support to** calls for shorter, better-designed tasks. Critics, however, **cast doubt on** claims that less homework automatically raises achievement, noting that practice still matters in subjects such as mathematics. After reviewing local survey data and international comparisons, several principals **reach the conclusion that** quality and feedback matter more than sheer quantity, so schools should redesign assignments rather than abolish them overnight.
+
+Many carers **hold the view that** community care vouchers offer more dignity than immediate residential placement for frail elders who still have family support. **It is widely believed that** expanding voucher take-up can ease pressure on residential waiting lists, and early evaluation reports **lend support to** that reading where day-care slots are available. Critics nonetheless **cast doubt on** whether the current fiscal envelope can keep pace if demand rises sharply among dual-income households. After weighing service gaps and caregiver strain, district welfare teams often **reach the conclusion that** a mixed model—vouchers plus targeted residential places—remains preferable on balance to a single-track approach.
 
 **Passage tasks**
-1. 文中邊啲證據可以 lend support to 減少功課嘅訴求？
-2. 用自己說話解釋 critics 點解 cast doubt on「少功課＝一定更好」（1 句）
-3. True / False：Principals 嘅 conclusion 係即刻全面取消功課。
+1. 文中邊啲報告 lend support to expanding voucher take-up？
+2. 用自己一句解釋 critic 點解 cast doubt on the fiscal envelope（1 句）
+3. True / False：Passage 最終 favour 單一 residential-only 方案。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **classroom studies on stress and sleep**
-2.（例）practice still matters / less homework does not auto-raise scores
-3. **False**（redesign, not abolish overnight）
+1. **early evaluation reports**（where day-care slots are available）
+2. （例）demand from dual-income households may grow faster than the budget can support
+3. **False**（mixed model … preferable on balance）
 
 ## Next theme
 

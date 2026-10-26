@@ -50,20 +50,20 @@ source: Collocation Tutor
 
 ## Reading passage
 
-Cities around the world are under pressure to **tackle climate change** before the damage becomes irreversible. Factories and vehicles continue to **emit greenhouse gases**, which trap heat in the atmosphere and threaten fragile habitats. Experts argue that households and businesses must **adopt eco-friendly practices**, from recycling to choosing public transport, if they want meaningful progress. At the same time, governments can encourage people to **cut down on energy consumption** through better building standards and clearer labelling on appliances. These steps also help **protect endangered species** whose homes are shrinking as temperatures rise and coastlines change, linking everyday habits to wider ecological survival.
 
+Hong Kong’s climate plans require households and firms to help **tackle climate change** rather than treat it as a distant overseas debate. Power generation and transport still **emit greenhouse gases** at scale, so the city is phasing in cleaner electricity and tighter vehicle standards. Estates that **adopt eco-friendly practices**—from food-waste separation to smarter lighting—show how daily habits can **cut down on energy consumption** inside the fiscal envelope of ordinary management fees. Wetland and marine protected areas also help **protect endangered species** such as horseshoe crabs and birds that rely on the Deep Bay ecosystem. On balance, infrastructure such as I·PARK must work alongside behaviour change if net-zero pathways are to remain credible.
 
 **Passage tasks**
-1. 邊啲來源繼續 emit greenhouse gases？
-2. 用自己說話講政府可以點幫人 cut down on energy consumption（1 句）
-3. True / False：Passage 話保護瀕危物種同氣候行動無關。
+1. 文中 estates 可以採用邊啲 eco-friendly practices？
+2. 用自己一句解釋點解要同時做 I·PARK 同 behaviour change（1 句）
+3. True / False：Passage 話氣候問題只係 overseas debate，同香港無關。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **factories and vehicles**
-2.（例）better building standards / clearer appliance labelling
-3. **False**（steps also help protect endangered species）
+1. **food-waste separation** and **smarter lighting**
+2. （例）treatment capacity alone is not enough without everyday habit change
+3. **False**（requires households and firms in Hong Kong to help）
 
 ## Next theme
 

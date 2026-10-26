@@ -48,24 +48,20 @@ review: [take decisive action, find a viable solution to, alleviate the pressure
 
 ## Reading passage
 
-Prompt: Describe how the number of people cycling to work in a city changed between 2010 and 2025.
 
-Cycling to work has become increasingly popular in many cities. In one Asian city, the number of commuters who cycled to work **rose steadily** from about 20,000 in 2010 to 45,000 in 2018, as **a growing number of** residents became concerned about their health and traffic. The figure **reached a peak of** 60,000 in 2021, partly because many people avoided crowded public transport during the pandemic. However, when buses and trains returned to normal, there was **a dramatic fall in** cycling, and the number dropped to 40,000 in 2023. Since then, the figure has **levelled off** at around 40,000. Overall, cycling has grown considerably over the period, but further investment in safe cycle lanes may be needed if the city wants this trend to continue.
-
-(Example figures for practice only, not real data.)
-
+**A growing number of** public rental blocks now take part in food-waste collection pilots linked to Green@Community and downstream treatment. Participation rates **rose steadily** after estate-level education drives, then appeared to **level off** once early adopters were already enrolled. During the pandemic years the city saw **a dramatic fall in** commercial food waste from restaurants, before volumes recovered with dine-in demand. Monthly diversion briefly **reached a peak** after major awareness campaigns, illustrating how take-up can spike and then soften without ongoing outreach. On balance, scaling smart bins remains worthwhile, yet recurrent expenditure and contamination rates still warrant careful review.
 
 **Passage tasks**
-1. Cycling 數字幾年 **reached a peak**？大概幾多？
-2. 用自己說話解釋疫情後點解有 dramatic fall（1 句）
-3. True / False：Passage 話 2023 之後數字繼續急跌、未有 level off。
+1. 文中 participation rates 喺早期教育後有咩變化，之後又點？
+2. 用自己一句解釋疫情期間 commercial food waste 點解有 dramatic fall（1 句）
+3. True / False：Passage 話 diversion 峰值之後就永遠唔會回落。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **2021**；約 **60,000**
-2.（例）buses/trains returned → fewer people avoided crowded transport
-3. **False**（levelled off around 40,000）
+1. **rose steadily**, then appeared to **level off**
+2. （例）restaurant dine-in demand dropped, so commercial food waste fell sharply
+3. **False**（can spike and then soften without ongoing outreach）
 
 ## Next theme
 Opinion, Argument and Conclusion

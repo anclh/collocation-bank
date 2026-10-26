@@ -49,19 +49,20 @@ Date: 2026-09-14
 
 ## Reading passage
 
-Cities struggling with roadside air pollution need more than slogans. Authorities should **take measures to** cut vehicle emissions, from congestion charges to cleaner bus fleets. Ambitious mayors also **implement policies** that expand bike lanes and discourage unnecessary car trips into the centre. To **address the issue** properly, data on peak-hour traffic and hospital admissions must guide spending rather than political shortcuts. Tree planting and better building standards can **mitigate the effects of** heat and fumes already felt by residents. Civic groups **put forward proposals** for low-emission zones, arguing that gradual change is fairer than sudden bans that hit low-income drivers hardest.
+
+To ease pressure on the public rental waiting list, the Housing Bureau continues to **take measures to** expand transitional and Light Public Housing supply. Officials **implement policies** that prioritise eligible households with longer waits, while district partners help verify applications under phased rollout. These steps seek to **address the issue** of families stuck in inadequate private rentals without claiming that every applicant can be housed at once. Temporary units can **mitigate the effects of** prolonged waiting, yet residual risk remains for those just outside the eligibility net. Stakeholders have also **put forward proposals** for faster modular construction and clearer take-up reporting, subject to the available fiscal envelope.
 
 **Passage tasks**
-1. 文中舉咗邊啲 measures / policies 例子？
-2. 用自己說話解釋點解要用數據去 address the issue（1 句）
-3. True / False：Passage 主張即時全面禁車、唔使漸進。
+1. 文中優先照顧邊類 eligible households？
+2. 用自己一句解釋 temporary units 點樣 mitigate the effects of prolonged waiting（1 句）
+3. True / False：Passage 話每個申請人都可以即刻上樓。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **congestion charges, cleaner buses, bike lanes, low-emission zones** 等
-2.（例）spending should follow evidence, not political shortcuts
-3. **False**（gradual change fairer than sudden bans）
+1. those with **longer waits**
+2. （例）they offer interim relief while permanent PRH supply catches up
+3. **False**（without claiming that every applicant can be housed at once）
 
 ## Next theme
 

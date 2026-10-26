@@ -49,19 +49,20 @@ Date: 2026-09-12
 
 ## Reading passage
 
-Urban flooding rarely has a single explanation. In many coastal cities, blocked drains and concrete surfaces **lead to** rapid run-off after heavy rain, while warmer seas **give rise to** more intense storms than a decade ago. These patterns often **stem from** long-term planning choices that favoured roads over green space. When several factors combine, the crisis can **result in** school closures, damaged shops, and costly repairs for ordinary families. Scientists warn that part of the damage should **be attributed to** delayed maintenance rather than weather alone, so upgrading drainage, restoring wetlands, and publishing clearer flood maps have become urgent priorities for local governments.
+
+Long public-rental-housing waiting lists in Hong Kong rarely **stem from** a single administrative delay. Tight land supply and strong demand for small flats **lead to** intense competition for scarce units, which can **result in** families remaining in subdivided premises for years. Rapid growth in applications for Light Public Housing has also **given rise to** pressure on processing capacity, even where authorities invite applications in phases. On balance, prolonged waits should not be **attributed to** individual tenants alone; they reflect a structural mismatch between household formation and the pace at which new supply can be completed. Bridging that gap remains a central task within the current housing fiscal envelope.
 
 **Passage tasks**
-1. 文中話邊啲規劃選擇係問題嘅根源（stem from）？
-2. 用自己說話講 flooding 可以 result in 咩（1 句）
-3. True / False：Passage 將全部責任歸咎於天氣。
+1. 文中話 prolonged waits 不應只 attributed to 邊啲人？
+2. 用自己一句解釋 Light Public Housing applications 點樣 give rise to pressure（1 句）
+3. True / False：Passage 話 waiting lists 只係因為單一行政延誤。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **favouring roads over green space** / long-term planning choices
-2.（例）school closures, damaged shops, costly repairs
-3. **False**（亦 attributed to delayed maintenance）
+1. **individual tenants**（alone）
+2. （例）applications grew quickly, so processing capacity came under pressure
+3. **False**（開首話 rarely stem from a single administrative delay）
 
 ## Next theme
 

@@ -54,20 +54,20 @@ source: Collocation Tutor
 
 ## Reading passage
 
-Many young people feel pressure to **gain admission to** a famous university, yet academic success alone is not enough. Schools that help students **acquire essential skills** — such as communication, problem-solving and teamwork — prepare them better for work and life. At the same time, not every student thrives in a purely academic track. Those who **undertake vocational training** can build practical expertise and still enjoy strong career prospects. The goal should be that every learner can **receive a well-rounded education**, rather than being pushed into a single path that does not fit them. When support is limited, some students **drop out of school** early, which often narrows their options later. Balanced pathways matter more than prestige alone.
 
+Not every Hong Kong school-leaver will **gain admission to** a highly selective university programme, so pathways that help students **acquire essential skills** for work matter as much as prestige degrees. Learners who struggle academically may **drop out of school** if support is thin, raising long-term costs for both families and social services. A system that lets teenagers **receive a well-rounded education**—including civic, physical, and arts elements—still leaves room for those who prefer to **undertake vocational training** in aviation, healthcare support, or green skills linked to the Greater Bay Area. On balance, broadening routes can reduce mismatch between youth aspirations and labour demand without dismissing academic excellence.
 
 **Passage tasks**
-1. 除咗學術路，文中仲提到邊條路徑（collocation）？
-2. 用自己說話解釋點解要 receive a well-rounded education（1 句）
-3. True / False：Passage 話 drop out of school 唔會收窄將來選擇。
+1. 文中除咗大學，仲提到邊種訓練路徑？
+2. 用自己一句解釋 support 唔夠點解可能令學生 drop out（1 句）
+3. True / False：Passage 話只有 prestige degrees 先算 well-rounded education。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **undertake vocational training**
-2.（例）not everyone thrives on a purely academic track / skills for work and life
-3. **False**（dropping out often narrows options）
+1. **vocational training**（aviation, healthcare support, or green skills）
+2. （例）thin support leaves struggling learners more likely to leave school early
+3. **False**（well-rounded includes civic/physical/arts; vocational routes also valued）
 
 ## Next theme
 

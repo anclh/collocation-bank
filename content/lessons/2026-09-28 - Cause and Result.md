@@ -55,22 +55,20 @@ Date: 2026-09-28
 
 ## Reading passage
 
-**Prompt:** Why city air quality has worsened in recent years.
 
-In several Asian cities, worsening air quality does not simply **arise from** one factory or one busy road. Experts argue that rapid urban growth is often **the root cause of** higher emissions, as more vehicles and construction projects appear each year. The problem is also **largely due to** weak enforcement of environmental rules, which allows polluters to continue harmful practices. Over time, these pressures can **culminate in** dangerous smog episodes that disrupt schools and workplaces. For many residents, breathing difficulties are **a direct consequence of** prolonged exposure to fine particles, so clearer policies and cleaner transport have become urgent priorities.
-
+Roadside pollution spikes in Hong Kong’s older urban corridors often **arise from** a mix of freight traffic, canyon-like street design, and weather that traps exhaust. Idling and ageing diesel fleets are frequently **the root cause of** local exceedances even when regional background levels look moderate. Prolonged exposure can **culminate in** higher clinic visits for respiratory complaints among children and elders. Recent improvement in some monitoring stations is **largely due to** tighter vehicle standards and franchised-bus replacement programmes. Extra hospital burden during haze episodes is **a direct consequence of** days when both local emissions and regional factors align—hence the case for phased low-emission zones subject to stakeholder consultation.
 
 **Passage tasks**
-1. 文中話 air quality 問題除咗城市擴張，仲 largely due to 咩？
-2. 用自己說話解釋 culminate in 喺文中指咩結果（1 句）
-3. True / False：Passage 話呼吸問題同微粒無關。
+1. 文中邊啲因素經常係 local exceedances 嘅 root cause？
+2. 用自己一句解釋近期部分監測站改善 largely due to 咩（1 句）
+3. True / False：Passage 話 roadside pollution 只係因為區域因素，同本地車隊無關。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **weak enforcement of environmental rules**
-2.（例）dangerous smog episodes disrupting schools and workplaces
-3. **False**（direct consequence of fine particles）
+1. **Idling** and **ageing diesel fleets**
+2. （例）tighter vehicle standards and franchised-bus replacement programmes
+3. **False**（arise from freight traffic / street design / local fleets as well）
 
 ## Next theme
 

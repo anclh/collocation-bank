@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T04:26:26Z",
+  "generated": "2026-10-26T14:06:59Z",
   "count": 22,
   "lessons": [
     {
@@ -81,20 +81,20 @@
           }
         ]
       },
-      "passage": "Digital learning tools now **have a significant impact on** how teenagers revise for exams, yet not every change is helpful. Heavy late-night scrolling can **have a detrimental effect on** sleep and concentration, so schools that push more screen time without guidance risk harming the very students they hope to help. By contrast, well-designed reading programmes in primary years can **have a profound impact on** vocabulary growth and long-term confidence. Small habits such as daily reading and limited notifications can **make a significant difference to** academic results without expensive equipment. Ultimately, balanced use of technology can **contribute to** better learning outcomes when parents and teachers set clear boundaries.",
+      "passage": "The phased rollout of District Health Centres and wider eHealth take-up now **have a significant impact on** how ordinary households first seek care in Hong Kong. For older residents managing several long-term conditions, earlier community triage can **have a profound impact on** whether a minor complaint escalates into an Accident and Emergency visit. At the same time, poorly designed digital tools may **have a detrimental effect on** take-up among people with limited smartphone skills, widening rather than narrowing the service gap. On balance, clearer booking paths and means-tested fee relief can **make a significant difference to** attendance at family-medicine slots. Together, these steps **contribute to** a more preventive primary-care model, though the fiscal envelope and staffing remain subject to careful review.",
       "tasks": [
         {
-          "q": "文中邊種做法會對睡眠有 detrimental effect？",
-          "answer": "heavy late-night scrolling",
+          "q": "文中邊啲措施可以 make a significant difference to attendance？",
+          "answer": "clearer booking paths and means-tested fee relief",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋點解 small habits 可以 make a significant difference（1 句）",
-          "answer": "（例）daily reading / limited notifications improve results without costly tools",
+          "q": "用自己一句解釋點解 digital tools 可能有 detrimental effect（1 句）",
+          "answer": "（例）older / less digitally skilled users may struggle, so take-up falls and the service gap widens",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話所有螢幕時間都有 beneficial impact。",
+          "q": "True / False：Passage 話 eHealth 一定可以完全取代 Accident and Emergency。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -185,20 +185,20 @@
           }
         ]
       },
-      "passage": "Urban flooding rarely has a single explanation. In many coastal cities, blocked drains and concrete surfaces **lead to** rapid run-off after heavy rain, while warmer seas **give rise to** more intense storms than a decade ago. These patterns often **stem from** long-term planning choices that favoured roads over green space. When several factors combine, the crisis can **result in** school closures, damaged shops, and costly repairs for ordinary families. Scientists warn that part of the damage should **be attributed to** delayed maintenance rather than weather alone, so upgrading drainage, restoring wetlands, and publishing clearer flood maps have become urgent priorities for local governments.",
+      "passage": "Long public-rental-housing waiting lists in Hong Kong rarely **stem from** a single administrative delay. Tight land supply and strong demand for small flats **lead to** intense competition for scarce units, which can **result in** families remaining in subdivided premises for years. Rapid growth in applications for Light Public Housing has also **given rise to** pressure on processing capacity, even where authorities invite applications in phases. On balance, prolonged waits should not be **attributed to** individual tenants alone; they reflect a structural mismatch between household formation and the pace at which new supply can be completed. Bridging that gap remains a central task within the current housing fiscal envelope.",
       "tasks": [
         {
-          "q": "文中話邊啲規劃選擇係問題嘅根源（stem from）？",
-          "answer": "favouring roads over green space / long-term planning choices",
-          "type": "choose"
-        },
-        {
-          "q": "用自己說話講 flooding 可以 result in 咩（1 句）",
-          "answer": "（例）school closures, damaged shops, costly repairs",
+          "q": "文中話 prolonged waits 不應只 attributed to 邊啲人？",
+          "answer": "individual tenants（alone）",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 將全部責任歸咎於天氣。",
+          "q": "用自己一句解釋 Light Public Housing applications 點樣 give rise to pressure（1 句）",
+          "answer": "（例）applications grew quickly, so processing capacity came under pressure",
+          "type": "open"
+        },
+        {
+          "q": "True / False：Passage 話 waiting lists 只係因為單一行政延誤。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -289,20 +289,20 @@
           }
         ]
       },
-      "passage": "Fast fashion **poses a threat to** rivers and soil because cheap dyes and short product cycles create mountains of waste. Campaigners **raise concerns about** microplastics from synthetic clothes entering the food chain, especially in dense cities. Manufacturers **are faced with** rising pressure from regulators and younger consumers who want cleaner supply chains. Ignoring these warnings can **exacerbate the problem**, as discarded garments pile up in landfills and overseas dumps. For many governments, textile pollution has become **a major concern** that links environmental damage with worker welfare, so clearer labelling and longer product life cycles are now on the policy agenda.",
+      "passage": "Hong Kong’s shrinking landfill capacity continues to **pose a threat to** long-term waste management if diversion rates remain modest. Environmental groups **raise concerns about** food waste from public rental estates and commercial kitchens, arguing that slow uptake of smart bins may **exacerbate the problem**. Housing estates and district councils are **faced with** competing priorities: hygiene, noise from collection, and the recurrent expenditure of expanding Green@Community points. Meeting higher recycling targets is therefore **a major concern** for the Environment and Ecology Bureau, which is phasing in food-waste collection and I·PARK-related treatment capacity. On balance, infrastructure alone will not close the service gap without steadier household participation.",
       "tasks": [
         {
-          "q": "Fast fashion 點樣 pose a threat to 環境？",
-          "answer": "cheap dyes / short cycles / waste（microplastics 亦相關）",
+          "q": "文中邊啲來源嘅 food waste raise concerns？",
+          "answer": "public rental estates and commercial kitchens",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋點解 ignore warnings 會 exacerbate the problem（1 句）",
-          "answer": "（例）more landfill waste and overseas dumping",
+          "q": "用自己一句解釋點解 estates 係 faced with competing priorities（1 句）",
+          "answer": "（例）they must balance hygiene, collection noise, and the cost of more Green@Community points",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話污染淨係關乎環境、同工人福利無關。",
+          "q": "True / False：Passage 話只靠基建就可以完全解決 landfill 壓力。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -393,20 +393,20 @@
           }
         ]
       },
-      "passage": "Cities struggling with roadside air pollution need more than slogans. Authorities should **take measures to** cut vehicle emissions, from congestion charges to cleaner bus fleets. Ambitious mayors also **implement policies** that expand bike lanes and discourage unnecessary car trips into the centre. To **address the issue** properly, data on peak-hour traffic and hospital admissions must guide spending rather than political shortcuts. Tree planting and better building standards can **mitigate the effects of** heat and fumes already felt by residents. Civic groups **put forward proposals** for low-emission zones, arguing that gradual change is fairer than sudden bans that hit low-income drivers hardest.",
+      "passage": "To ease pressure on the public rental waiting list, the Housing Bureau continues to **take measures to** expand transitional and Light Public Housing supply. Officials **implement policies** that prioritise eligible households with longer waits, while district partners help verify applications under phased rollout. These steps seek to **address the issue** of families stuck in inadequate private rentals without claiming that every applicant can be housed at once. Temporary units can **mitigate the effects of** prolonged waiting, yet residual risk remains for those just outside the eligibility net. Stakeholders have also **put forward proposals** for faster modular construction and clearer take-up reporting, subject to the available fiscal envelope.",
       "tasks": [
         {
-          "q": "文中舉咗邊啲 measures / policies 例子？",
-          "answer": "congestion charges, cleaner buses, bike lanes, low-emission zones 等",
+          "q": "文中優先照顧邊類 eligible households？",
+          "answer": "those with longer waits",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋點解要用數據去 address the issue（1 句）",
-          "answer": "（例）spending should follow evidence, not political shortcuts",
+          "q": "用自己一句解釋 temporary units 點樣 mitigate the effects of prolonged waiting（1 句）",
+          "answer": "（例）they offer interim relief while permanent PRH supply catches up",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 主張即時全面禁車、唔使漸進。",
+          "q": "True / False：Passage 話每個申請人都可以即刻上樓。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -497,20 +497,20 @@
           }
         ]
       },
-      "passage": "After the pandemic reopening, several Asian cities recorded **a sharp increase in** weekend tourist arrivals, filling hotels that had stood half-empty for months. At the same time, visits to smaller museums began to **decline significantly** as travellers clustered around a few famous landmarks. Tourism officials note that **a substantial proportion of** spending still comes from domestic visitors rather than overseas guests. Some districts **experience a surge in** short-stay bookings whenever a major concert or sports final is held. Overall, lodging and food services now **account for** a larger share of local tax revenue than before 2020, so planners must balance growth with crowd control and neighbourhood noise.",
+      "passage": "After full reopening of the boundary, Hong Kong recorded **a sharp increase in** short-haul visitor arrivals, filling hotels and cross-boundary transport on peak weekends. Same-day trips from the Greater Bay Area now **account for** a rising share of footfall in core retail districts, while some longer-haul markets still **decline significantly** compared with pre-pandemic peaks. Tourism operators also **experience a surge in** midweek bookings whenever large exhibitions coincide with public holidays. On balance, **a substantial proportion of** the rebound remains concentrated in a few districts, so knock-on effects on quieter neighbourhoods are uneven. Authorities therefore favour diversifying attractions rather than relying on headline arrival totals alone.",
       "tasks": [
         {
-          "q": "邊類場所嘅參觀數字 decline significantly？",
-          "answer": "smaller museums",
+          "q": "文中邊類 trips account for a rising share of footfall？",
+          "answer": "Same-day trips from the Greater Bay Area",
           "type": "open"
         },
         {
-          "q": "用自己說話講咩時候會 experience a surge in bookings（1 句）",
-          "answer": "（例）during major concerts or sports finals",
+          "q": "用自己一句解釋點解 rebound 仍然 uneven（1 句）",
+          "answer": "（例）a large share of the rebound is concentrated in a few districts",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話大部分消費嚟自海外旅客。",
+          "q": "True / False：Passage 話所有客源市場都已經超越疫情前高峰。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -601,20 +601,20 @@
           }
         ]
       },
-      "passage": "Many parents **hold the view that** homework loads have become excessive in secondary schools. **It is widely believed that** long evening worksheets leave little time for sport, family talk, or rest. Classroom studies that track stress and sleep can **lend support to** calls for shorter, better-designed tasks. Critics, however, **cast doubt on** claims that less homework automatically raises achievement, noting that practice still matters in subjects such as mathematics. After reviewing local survey data and international comparisons, several principals **reach the conclusion that** quality and feedback matter more than sheer quantity, so schools should redesign assignments rather than abolish them overnight.",
+      "passage": "Many carers **hold the view that** community care vouchers offer more dignity than immediate residential placement for frail elders who still have family support. **It is widely believed that** expanding voucher take-up can ease pressure on residential waiting lists, and early evaluation reports **lend support to** that reading where day-care slots are available. Critics nonetheless **cast doubt on** whether the current fiscal envelope can keep pace if demand rises sharply among dual-income households. After weighing service gaps and caregiver strain, district welfare teams often **reach the conclusion that** a mixed model—vouchers plus targeted residential places—remains preferable on balance to a single-track approach.",
       "tasks": [
         {
-          "q": "文中邊啲證據可以 lend support to 減少功課嘅訴求？",
-          "answer": "classroom studies on stress and sleep",
+          "q": "文中邊啲報告 lend support to expanding voucher take-up？",
+          "answer": "early evaluation reports（where day-care slots are available）",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋 critics 點解 cast doubt on「少功課＝一定更好」（1 句）",
-          "answer": "（例）practice still matters / less homework does not auto-raise scores",
+          "q": "用自己一句解釋 critic 點解 cast doubt on the fiscal envelope（1 句）",
+          "answer": "（例）demand from dual-income households may grow faster than the budget can support",
           "type": "open"
         },
         {
-          "q": "True / False：Principals 嘅 conclusion 係即刻全面取消功課。",
+          "q": "True / False：Passage 最終 favour 單一 residential-only 方案。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -705,20 +705,20 @@
           }
         ]
       },
-      "passage": "Across East Asia, more school-leavers hope to **pursue higher education**, yet places at top universities remain limited. Successful programmes try to **equip students with** research skills, teamwork, and clear writing rather than memorisation alone. Progressive schools also **place a strong emphasis on** discussion and project work so learners can **foster critical thinking** before they sit public exams. Still, outcomes depend on whether rural teenagers **have access to education** of comparable quality, including reliable broadband and trained teachers. When that gap narrows, universities receive better-prepared applicants and employers gain graduates who can adapt when industries change. Closing the gap therefore supports both fairness and economic resilience.",
+      "passage": "Hong Kong school-leavers who hope to **pursue higher education** increasingly look beyond a single local pathway, including carefully chosen Greater Bay Area programmes. Curriculum reforms **place a strong emphasis on** STEM and applied learning so that schools can **equip students with** skills aligned to innovation and technology roles. Classroom tasks that **foster critical thinking** matter as much as examination scores if graduates are to adapt when industries shift. At the same time, policymakers stress that every district should **have access to education** pathways that include vocational routes, not only elite degree places. On balance, widening choice may ease mismatch between talent supply and labour demand, subject to quality assurance across the border.",
       "tasks": [
         {
-          "q": "文中話成功課程想 equip students with 咩？",
-          "answer": "research skills, teamwork, clear writing",
+          "q": "文中 curriculum reforms place a strong emphasis on 邊啲範疇？",
+          "answer": "STEM and applied learning",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋點解 access to education 喺農村重要（1 句）",
-          "answer": "（例）comparable quality / broadband / teachers narrow the gap",
+          "q": "用自己一句解釋點解都要有 vocational pathways（1 句）",
+          "answer": "（例）not every student thrives on elite degrees; vocational routes also meet labour demand",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話 top university 學位已經足夠所有人。",
+          "q": "True / False：Passage 話只有 elite degree places 先算 have access to education。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -809,20 +809,20 @@
           }
         ]
       },
-      "passage": "Unregulated mining can **cause irreversible damage to** forests and river systems that communities depend on for food and water. Continuous extraction also tends to **deplete natural resources** faster than ecosystems can recover, leaving scarred landscapes behind. Governments under public pressure have promised to **reduce carbon emissions** from heavy industry while helping factories **switch to renewable energy sources** such as wind and solar. Conservationists add that protecting wetlands and old-growth woodland is essential if societies want to **preserve biodiversity** for future generations. Without coordinated action across ministries and businesses, short-term profits will keep outweighing long-term environmental security for communities downstream.",
+      "passage": "Leaving municipal waste streams unmanaged can **cause irreversible damage to** coastal waters and country-park habitats that Hong Kong residents rely on for leisure and biodiversity. Over-extraction of materials and weak recycling loops continue to **deplete natural resources** upstream of the city’s consumption. The Government’s green-transition agenda therefore seeks to **reduce carbon emissions** while raising the share of cleaner electricity over the coming decade. Estates that **switch to renewable energy sources** for shared facilities, together with scaled Green@Community and I·PARK treatment capacity, illustrate a phased approach. Marine parks and wetland protection remain necessary if the city is to **preserve biodiversity** alongside growth in the Northern Metropolis.",
       "tasks": [
         {
-          "q": "Mining 點樣 harm 環境（用文中 collocation）？",
-          "answer": "cause irreversible damage / deplete natural resources",
+          "q": "文中邊啲自然環境可能受到 irreversible damage？",
+          "answer": "coastal waters and country-park habitats",
           "type": "open"
         },
         {
-          "q": "用自己說話講政府想 factories 點做嚟減排（1 句）",
-          "answer": "（例）switch to renewable energy / reduce carbon emissions",
+          "q": "用自己一句解釋 Green@Community／I·PARK 喺 passage 扮演咩角色（1 句）",
+          "answer": "（例）they are part of a phased approach to treat waste and support the green transition",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話單靠短期利潤已經足夠保護生態。",
+          "q": "True / False：Passage 話經濟發展同 preserve biodiversity 完全冇衝突空間。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -913,20 +913,20 @@
           }
         ]
       },
-      "passage": "Modern workplaces **rely heavily on technology** for meetings, records, and customer service, so outages quickly disrupt entire teams. Employees must **keep pace with technological advances**, updating skills as software and AI tools change each year. At the same time, policymakers try to **bridge the digital divide** between well-connected cities and villages with weak broadband. New tracking apps **raise privacy concerns** when personal data is stored without clear consent. Used wisely, the same innovations can **transform the way we** learn, shop, and access public services, but only if clear rules protect users while still encouraging useful experimentation in schools and workplaces.",
+      "passage": "Public services in Hong Kong now **rely heavily on technology** for licensing, booking, and benefit applications, so outages quickly disrupt daily life. Bureaux must **keep pace with technological advances** if digital government channels are to remain usable as private-sector apps raise expectations. Targeted support for elders and low-income households is meant to **bridge the digital divide**, yet new data-sharing pilots still **raise privacy concerns** among civil-society groups. On balance, thoughtful design can **transform the way we** access hospital appointments and community services without excluding those offline. Stakeholder consultation and clear opt-outs therefore sit alongside the push for higher take-up.",
       "tasks": [
         {
-          "q": "文中點解話要 keep pace with technological advances？",
-          "answer": "software and AI tools change each year / skills need updating",
+          "q": "文中點樣嘗試 bridge the digital divide？",
+          "answer": "Targeted support for elders and low-income households",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋 digital divide 係指咩（1 句）",
-          "answer": "（例）gap between well-connected cities and poorly connected villages",
+          "q": "用自己一句解釋點解 data-sharing pilots raise privacy concerns（1 句）",
+          "answer": "（例）civil-society groups worry about how personal data may be shared in new pilots",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話科技轉變必然無隱私問題。",
+          "q": "True / False：Passage 話數碼化可以完全唔理 offline users。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -1017,20 +1017,20 @@
           }
         ]
       },
-      "passage": "Office workers who **lead a sedentary lifestyle** often sit for more than eight hours a day, with little walking between meetings. Over time, many begin to **suffer from chronic diseases** such as type 2 diabetes and heart conditions linked to inactivity. Whether people recover early depends partly on whether they **have access to healthcare** that offers screening and advice, not only emergency treatment. City programmes that promote parks, cycling, and workplace stretching aim to **improve public health** at population level. If these habits take root, more residents may **enjoy a longer life expectancy** without spending their later years in frequent hospital care.",
+      "passage": "Office workers who **lead a sedentary lifestyle** between long MTR rides and desk shifts are more likely over time to **suffer from chronic diseases** such as hypertension. District Health Centres aim to ensure more residents **have access to healthcare** closer to home before conditions worsen, complementing Hospital Authority clinics. Screening, vaccination, and lifestyle advice are framed as practical ways to **improve public health** within a constrained recurrent expenditure envelope. If prevention takes hold, more people may **enjoy a longer life expectancy** with fewer years spent in avoidable hospital care. On balance, primary-care expansion remains subject to staffing and steady eHealth registration rates.",
       "tasks": [
         {
-          "q": "Sedentary lifestyle 同邊啲 chronic diseases 有關？",
-          "answer": "type 2 diabetes and heart conditions",
+          "q": "文中邊類設施幫助居民 have access to healthcare closer to home？",
+          "answer": "District Health Centres（complementing HA clinics）",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋 access to healthcare 點樣幫到早期介入（1 句）",
-          "answer": "（例）screening and advice, not only emergencies",
+          "q": "用自己一句解釋 sedentary lifestyle 同 chronic diseases 嘅關係（1 句）",
+          "answer": "（例）long hours of sitting raise the chance of conditions such as hypertension",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話 improve public health 只靠醫院急救就夠。",
+          "q": "True / False：Passage 話 prevention 唔使理 staffing 同 eHealth take-up。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -1121,20 +1121,20 @@
           }
         ]
       },
-      "passage": "After a rise in online fraud, ministers plan to **introduce legislation** that forces platforms to verify high-risk sellers more carefully. Passing a bill is only the first step; agencies must also **enforce the law** consistently so loopholes are not ignored. Budgets will **allocate public funds** to digital police units and public education campaigns. Officials argue that visible action helps **maintain social stability** when citizens fear losing savings to scams. Longer term, fairer tax and training policies are needed to **tackle social inequality**, because communities with fewer opportunities are often the most exposed to both crime and misinformation.",
+      "passage": "To curb online investment scams targeting retail investors in Hong Kong, authorities plan to **introduce legislation** that tightens platform duties and disclosure rules. Agencies must still **enforce the law** consistently so that new offences deter repeat operators rather than displace them overseas. The Government continues to **allocate public funds** to public education and reporting channels, recognising that prosecution alone cannot rebuild trust. Clearer consumer protection can help **maintain social stability** when losses cluster in middle-income districts. Over time, better redress and means-tested support may also **tackle social inequality** between victims who can afford legal advice and those who cannot.",
       "tasks": [
         {
-          "q": "新法例主要想平台做咩？",
-          "answer": "verify high-risk sellers more carefully",
+          "q": "新法例主要針對邊種騙案？",
+          "answer": "online investment scams targeting retail investors",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋點解 enforce the law 同 introduce legislation 一樣重要（1 句）",
-          "answer": "（例）laws fail if loopholes are ignored / need consistent enforcement",
+          "q": "用自己一句解釋點解 allocate public funds to education 仍然重要（1 句）",
+          "answer": "（例）prosecution alone cannot rebuild trust; prevention and reporting channels matter",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話 allocate public funds 淨係用喺廣告、唔使執法單位。",
+          "q": "True / False：Passage 話單靠 prosecution 已經足夠 rebuild trust。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -1238,20 +1238,20 @@
           }
         ]
       },
-      "passage": "In a modern society, education **occupies a central place in** personal and national progress. Schools and universities **play a vital role in** preparing young people for work and civic life, from basic literacy to teamwork under pressure. Access to quality learning **is of great importance to** families who hope their children will have better opportunities than the previous generation. Digital skills, in particular, **are essential to** competing in today’s job market, where routine roles shrink and adaptable workers advance. Over the past decade, reforms that expanded scholarships and training schemes **were instrumental in** narrowing the gap between rich and poor districts. Without sustained investment in teaching and facilities, these gains may not last, and inequality in opportunity could widen again.",
+      "passage": "Primary care now **occupies a central place in** Hong Kong’s strategy for an ageing population. District Health Centres **play a vital role in** diverting stable cases away from specialist queues, while eHealth records **are of great importance to** continuity when patients move between clinics. Reliable family-medicine slots **are essential to** catching chronic disease early, and nurse-led follow-up has **been instrumental in** raising vaccination and screening take-up in several districts. On balance, community networks that link social and medical support remain as critical as hospital expansion if the system is to stay sustainable within the fiscal envelope.",
       "tasks": [
         {
-          "q": "文中邊啲改革 were instrumental in narrowing the gap？",
-          "answer": "expanded scholarships and training schemes",
+          "q": "文中邊啲 centres play a vital role in diverting stable cases？",
+          "answer": "District Health Centres",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋點解 digital skills are essential（1 句）",
-          "answer": "（例）routine jobs shrink / adaptable workers advance",
+          "q": "用自己一句解釋 eHealth records 點解 are of great importance（1 句）",
+          "answer": "（例）they support continuity when patients move between clinics",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話只要一次過撥款，教育成果就會永遠維持。",
+          "q": "True / False：Passage 話只靠加醫院床位就夠應付人口老化。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -1355,20 +1355,20 @@
           }
         ]
       },
-      "passage": "In many cities, high living costs **have far-reaching consequences for** ordinary families who already stretch every pay cheque. Rent and transport alone can **take their toll on** household budgets, leaving little room for savings, healthcare, or further study. Job insecurity also **exerts a strong influence on** spending decisions, as people delay major purchases and avoid career risks. When one sector slows down, the downturn often **has a knock-on effect on** related industries such as retail and hospitality, so local shops feel the pressure within weeks. Over time, targeted support and fair wages can **bring about change** in living standards, but progress is usually gradual rather than sudden, and communities need steady policy follow-through.",
+      "passage": "Elevated private rents in Hong Kong’s urban districts **have far-reaching consequences for** household budgets, childcare choices, and even whether dual-career couples delay starting a family. Housing costs also **exert a strong influence on** labour mobility, as workers hesitate to take jobs far from cheap accommodation. Light Public Housing and transitional projects seek to **bring about change** for long-waiting applicants without claiming to reset the whole market overnight. When more households free up subdivided units, the shift can **have a knock-on effect on** neighbourhood retail and school places. Persistent stress over rent, however, continues to **take its toll on** mental well-being among caregivers and young tenants alike.",
       "tasks": [
         {
-          "q": "High living costs 點樣 take their toll on households？",
-          "answer": "little room for savings / healthcare / study（rent and transport）",
+          "q": "文中 housing costs exert a strong influence on 咩？",
+          "answer": "labour mobility（workers hesitate to take distant jobs）",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋 knock-on effect 嘅意思（用文中例子，1 句）",
-          "answer": "（例）one sector slows → retail and hospitality also suffer",
+          "q": "用自己一句解釋 Light Public Housing 點樣 bring about change（1 句）",
+          "answer": "（例）it offers interim homes for long-waiting applicants without resetting the whole market at once",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話 living standards 可以一夜之間大幅改善。",
+          "q": "True / False：Passage 話租金壓力對 mental well-being 冇影響。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -1472,20 +1472,20 @@
           }
         ]
       },
-      "passage": "In several Asian cities, worsening air quality does not simply **arise from** one factory or one busy road. Experts argue that rapid urban growth is often **the root cause of** higher emissions, as more vehicles and construction projects appear each year. The problem is also **largely due to** weak enforcement of environmental rules, which allows polluters to continue harmful practices. Over time, these pressures can **culminate in** dangerous smog episodes that disrupt schools and workplaces. For many residents, breathing difficulties are **a direct consequence of** prolonged exposure to fine particles, so clearer policies and cleaner transport have become urgent priorities.",
+      "passage": "Roadside pollution spikes in Hong Kong’s older urban corridors often **arise from** a mix of freight traffic, canyon-like street design, and weather that traps exhaust. Idling and ageing diesel fleets are frequently **the root cause of** local exceedances even when regional background levels look moderate. Prolonged exposure can **culminate in** higher clinic visits for respiratory complaints among children and elders. Recent improvement in some monitoring stations is **largely due to** tighter vehicle standards and franchised-bus replacement programmes. Extra hospital burden during haze episodes is **a direct consequence of** days when both local emissions and regional factors align—hence the case for phased low-emission zones subject to stakeholder consultation.",
       "tasks": [
         {
-          "q": "文中話 air quality 問題除咗城市擴張，仲 largely due to 咩？",
-          "answer": "weak enforcement of environmental rules",
+          "q": "文中邊啲因素經常係 local exceedances 嘅 root cause？",
+          "answer": "Idling and ageing diesel fleets",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋 culminate in 喺文中指咩結果（1 句）",
-          "answer": "（例）dangerous smog episodes disrupting schools and workplaces",
+          "q": "用自己一句解釋近期部分監測站改善 largely due to 咩（1 句）",
+          "answer": "（例）tighter vehicle standards and franchised-bus replacement programmes",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話呼吸問題同微粒無關。",
+          "q": "True / False：Passage 話 roadside pollution 只係因為區域因素，同本地車隊無關。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -1589,20 +1589,20 @@
           }
         ]
       },
-      "passage": "Many large cities **are plagued by** severe housing shortages, which push rents higher and force young workers to live far from their jobs. Affordable flats **are under threat** as older neighbourhoods are redeveloped into luxury projects that long-term residents cannot afford. Families who rent **are vulnerable to** sudden eviction or sharp rent increases, especially when contracts offer little protection. Policymakers who delay action **run the risk of** deeper inequality, longer commuting times, and weaker social trust. Overall, balancing growth with fair housing access **presents a formidable challenge** for urban planners and local governments, who must weigh developer interests against community stability.",
+      "passage": "Hong Kong **is plagued by** a persistent shortfall of affordable homes relative to household formation, leaving many applicants on long public rental waiting lists. Social cohesion in densely packed districts can **be under threat** when subdivided flats remain the only immediate option for low-income families. Young tenants **run the risk of** delaying marriage or childcare plans if private rents stay high, while elders living alone **are vulnerable to** isolation when lifts and barrier-free access are poor. Closing the gap between applications and completed Light Public Housing units continues to **present a formidable challenge** within a tight construction and labour market. On balance, accelerating supply must still respect eligibility rules and site safety.",
       "tasks": [
         {
-          "q": "文中話 affordable flats 點解 are under threat？",
-          "answer": "redeveloped into luxury projects",
+          "q": "文中邊類住屋問題令城市 is plagued？",
+          "answer": "a persistent shortfall of affordable homes / long PRH waiting lists",
           "type": "open"
         },
         {
-          "q": "用自己說話講 delay action 會 run the risk of 咩（1 句）",
-          "answer": "（例）deeper inequality / longer commutes / weaker trust",
+          "q": "用自己一句解釋 elders 點解 are vulnerable to isolation（1 句）",
+          "answer": "（例）poor lifts and barrier-free access leave them cut off",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話 housing 問題對社會信任冇影響。",
+          "q": "True / False：Passage 話 Light Public Housing 供應同申請之間已經完全冇 gap。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -1706,20 +1706,20 @@
           }
         ]
       },
-      "passage": "Many major cities are *plagued by* traffic congestion, which wastes time and pollutes the air. To **find a viable solution to** this problem, governments need to **take decisive action** rather than simply building more roads. One effective measure is to invest in fast and affordable public transport, which would **alleviate the pressure on** busy streets. In addition, authorities could **provide incentives for** commuters **to** travel outside peak hours, such as cheaper fares in the early morning. Finally, campaigns can **raise public awareness of** the hidden costs of driving, including its impact on health and the environment. Although no single policy can eliminate congestion entirely, a combination of these steps would make urban life considerably more pleasant.",
+      "passage": "Congested corridors into the urban core force transport planners to **take decisive action** rather than rely on short-term traffic police deployments alone. Expanding railway capacity is often framed as a way to **find a viable solution to** peak-hour gridlock, while park-and-ride and feeder buses **alleviate the pressure on** limited road space. Public campaigns **raise public awareness of** walking and cycling for short trips, especially near new Northern Metropolis employment nodes. The Government may also **provide incentives for** drivers **to** switch to public transport or cleaner vehicles, subject to the fiscal envelope and charging infrastructure. On balance, a mix of supply-side upgrades and demand management tends to outperform any single slogan measure.",
       "tasks": [
         {
-          "q": "文中邊啲做法可以 alleviate the pressure on busy streets？",
-          "answer": "fast/affordable public transport（亦有 off-peak incentives）",
+          "q": "文中邊啲措施可以帮助 alleviate the pressure on road space？",
+          "answer": "park-and-ride and feeder buses",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋點解要 take decisive action 而唔係淨係起多啲路（1 句）",
-          "answer": "（例）building more roads alone is not enough / need broader measures",
+          "q": "用自己一句解釋點解要 take decisive action 多過短期警察調配（1 句）",
+          "answer": "（例）short-term deployments do not fix structural peak-hour gridlock",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話單一政策就可以完全消除塞車。",
+          "q": "True / False：Passage 話單一 slogan measure 已經足夠解決塞車。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -1810,20 +1810,20 @@
           }
         ]
       },
-      "passage": "Cycling to work has become increasingly popular in many cities. In one Asian city, the number of commuters who cycled to work **rose steadily** from about 20,000 in 2010 to 45,000 in 2018, as **a growing number of** residents became concerned about their health and traffic. The figure **reached a peak of** 60,000 in 2021, partly because many people avoided crowded public transport during the pandemic. However, when buses and trains returned to normal, there was **a dramatic fall in** cycling, and the number dropped to 40,000 in 2023. Since then, the figure has **levelled off** at around 40,000. Overall, cycling has grown considerably over the period, but further investment in safe cycle lanes may be needed if the city wants this trend to continue.\n\n(Example figures for practice only, not real data.)",
+      "passage": "**A growing number of** public rental blocks now take part in food-waste collection pilots linked to Green@Community and downstream treatment. Participation rates **rose steadily** after estate-level education drives, then appeared to **level off** once early adopters were already enrolled. During the pandemic years the city saw **a dramatic fall in** commercial food waste from restaurants, before volumes recovered with dine-in demand. Monthly diversion briefly **reached a peak** after major awareness campaigns, illustrating how take-up can spike and then soften without ongoing outreach. On balance, scaling smart bins remains worthwhile, yet recurrent expenditure and contamination rates still warrant careful review.",
       "tasks": [
         {
-          "q": "Cycling 數字幾年 **reached a peak**？大概幾多？",
-          "answer": "2021；約 60,000",
+          "q": "文中 participation rates 喺早期教育後有咩變化，之後又點？",
+          "answer": "rose steadily, then appeared to level off",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋疫情後點解有 dramatic fall（1 句）",
-          "answer": "（例）buses/trains returned → fewer people avoided crowded transport",
+          "q": "用自己一句解釋疫情期間 commercial food waste 點解有 dramatic fall（1 句）",
+          "answer": "（例）restaurant dine-in demand dropped, so commercial food waste fell sharply",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話 2023 之後數字繼續急跌、未有 level off。",
+          "q": "True / False：Passage 話 diversion 峰值之後就永遠唔會回落。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -1914,20 +1914,20 @@
           }
         ]
       },
-      "passage": "Many educators **take the stance that** smartphones distract students and should be banned during lessons. They **put forward the argument that** constant notifications damage concentration and lower academic performance. Research on classroom behaviour can **make a compelling case for** phone-free periods, especially in junior forms. However, some parents **remain unconvinced by** a total ban, noting that phones also support learning apps and emergency contact. Policymakers should **weigh up the evidence** from schools that have tried different rules before deciding. A balanced approach—restricting phones in class while allowing supervised educational use—may satisfy both safety and learning goals without pretending the evidence is settled.",
+      "passage": "Many secondary principals **take the stance that** unrestricted smartphone use in class undermines attention, and parent groups often **put forward the argument that** schools should set clearer phone-free periods. Digital-literacy advocates **make a compelling case for** supervised classroom use when tasks genuinely need online research, rather than a blanket ban. Some teachers nonetheless **remain unconvinced by** claims that phones are essential for every subject, citing distraction and cyberbullying risks. Education authorities urge schools to **weigh up the evidence** from pilot rules before city-wide mandates. On balance, phased policies with stakeholder consultation tend to fit Hong Kong’s diverse school cultures better than one absolute rule.",
       "tasks": [
         {
-          "q": "Educators **put forward the argument that** 手機點害學生？",
-          "answer": "notifications damage concentration / lower performance",
+          "q": "文中 digital-literacy advocates make a compelling case for 咩做法？",
+          "answer": "supervised classroom use when tasks need online research（rather than a blanket ban）",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋點解有家長 remain unconvinced by 全面禁止（1 句）",
-          "answer": "（例）phones support learning apps and emergency contact",
+          "q": "用自己一句解釋部分老師點解 remain unconvinced（1 句）",
+          "answer": "（例）they worry about distraction and cyberbullying even when phones are allowed",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 結論係立刻全面永久禁手機、唔使 weigh up evidence。",
+          "q": "True / False：Passage 話一個 absolute city-wide ban 係最佳方案。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -2031,20 +2031,20 @@
           }
         ]
       },
-      "passage": "Many young people feel pressure to **gain admission to** a famous university, yet academic success alone is not enough. Schools that help students **acquire essential skills** — such as communication, problem-solving and teamwork — prepare them better for work and life. At the same time, not every student thrives in a purely academic track. Those who **undertake vocational training** can build practical expertise and still enjoy strong career prospects. The goal should be that every learner can **receive a well-rounded education**, rather than being pushed into a single path that does not fit them. When support is limited, some students **drop out of school** early, which often narrows their options later. Balanced pathways matter more than prestige alone.",
+      "passage": "Not every Hong Kong school-leaver will **gain admission to** a highly selective university programme, so pathways that help students **acquire essential skills** for work matter as much as prestige degrees. Learners who struggle academically may **drop out of school** if support is thin, raising long-term costs for both families and social services. A system that lets teenagers **receive a well-rounded education**—including civic, physical, and arts elements—still leaves room for those who prefer to **undertake vocational training** in aviation, healthcare support, or green skills linked to the Greater Bay Area. On balance, broadening routes can reduce mismatch between youth aspirations and labour demand without dismissing academic excellence.",
       "tasks": [
         {
-          "q": "除咗學術路，文中仲提到邊條路徑（collocation）？",
-          "answer": "undertake vocational training",
+          "q": "文中除咗大學，仲提到邊種訓練路徑？",
+          "answer": "vocational training（aviation, healthcare support, or green skills）",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋點解要 receive a well-rounded education（1 句）",
-          "answer": "（例）not everyone thrives on a purely academic track / skills for work and life",
+          "q": "用自己一句解釋 support 唔夠點解可能令學生 drop out（1 句）",
+          "answer": "（例）thin support leaves struggling learners more likely to leave school early",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話 drop out of school 唔會收窄將來選擇。",
+          "q": "True / False：Passage 話只有 prestige degrees 先算 well-rounded education。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -2148,20 +2148,20 @@
           }
         ]
       },
-      "passage": "Cities around the world are under pressure to **tackle climate change** before the damage becomes irreversible. Factories and vehicles continue to **emit greenhouse gases**, which trap heat in the atmosphere and threaten fragile habitats. Experts argue that households and businesses must **adopt eco-friendly practices**, from recycling to choosing public transport, if they want meaningful progress. At the same time, governments can encourage people to **cut down on energy consumption** through better building standards and clearer labelling on appliances. These steps also help **protect endangered species** whose homes are shrinking as temperatures rise and coastlines change, linking everyday habits to wider ecological survival.",
+      "passage": "Hong Kong’s climate plans require households and firms to help **tackle climate change** rather than treat it as a distant overseas debate. Power generation and transport still **emit greenhouse gases** at scale, so the city is phasing in cleaner electricity and tighter vehicle standards. Estates that **adopt eco-friendly practices**—from food-waste separation to smarter lighting—show how daily habits can **cut down on energy consumption** inside the fiscal envelope of ordinary management fees. Wetland and marine protected areas also help **protect endangered species** such as horseshoe crabs and birds that rely on the Deep Bay ecosystem. On balance, infrastructure such as I·PARK must work alongside behaviour change if net-zero pathways are to remain credible.",
       "tasks": [
         {
-          "q": "邊啲來源繼續 emit greenhouse gases？",
-          "answer": "factories and vehicles",
+          "q": "文中 estates 可以採用邊啲 eco-friendly practices？",
+          "answer": "food-waste separation and smarter lighting",
           "type": "open"
         },
         {
-          "q": "用自己說話講政府可以點幫人 cut down on energy consumption（1 句）",
-          "answer": "（例）better building standards / clearer appliance labelling",
+          "q": "用自己一句解釋點解要同時做 I·PARK 同 behaviour change（1 句）",
+          "answer": "（例）treatment capacity alone is not enough without everyday habit change",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話保護瀕危物種同氣候行動無關。",
+          "q": "True / False：Passage 話氣候問題只係 overseas debate，同香港無關。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -2265,20 +2265,20 @@
           }
         ]
       },
-      "passage": "When firms begin to **harness the power of** artificial intelligence in everyday operations, older workflows that once felt reliable can soon **become obsolete**. That shift is not only about replacing software; managers adopt AI tools specifically to **enhance productivity**, so staff spend less time on paperwork and more on judgement-heavy work. In practice, programmes that **automate routine tasks** such as scheduling, data entry, and basic customer replies create spare capacity across the organisation. Companies that move early often **gain a competitive edge** over slower rivals, yet that same advantage raises the bar for workers, who must keep learning if they are to stay useful in an AI-shaped workplace.",
+      "passage": "Hong Kong public agencies and local firms increasingly **harness the power of** artificial intelligence to triage enquiries and spot anomalies in large datasets. Paper-based workflows that once defined counter services can quickly **become obsolete** when residents expect mobile updates. Used well, automation can **enhance productivity** in back-office teams as staff **automate routine tasks** such as form checking and appointment reminders. Early movers in fintech and smart-city pilots may **gain a competitive edge** in the wider Greater Bay Area market, provided skills training keeps pace. On balance, productivity gains still depend on change management and clear rules on data use—not on tools alone.",
       "tasks": [
         {
-          "q": "文中話邊啲工作正 harness the power of AI？",
-          "answer": "artificial intelligence / AI",
+          "q": "文中邊啲 routine tasks 可以用自動化處理？",
+          "answer": "form checking and appointment reminders",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋點解 automate routine tasks 可以 enhance productivity（1 句）",
-          "answer": "（例）frees staff from repetitive work / speeds up decisions / cuts costs",
+          "q": "用自己一句解釋點解 paper-based workflows 可能 become obsolete（1 句）",
+          "answer": "（例）residents now expect mobile updates, so counter paper processes lag behind",
           "type": "open"
         },
         {
-          "q": "True / False：Passage 話所有舊工具都已經 become obsolete，冇例外。",
+          "q": "True / False：Passage 話只要買工具就一定 enhance productivity，唔使管 change management。",
           "answer": "False",
           "type": "tf",
           "choices": [
@@ -2382,16 +2382,16 @@
           }
         ]
       },
-      "passage": "Many city workers skip breakfast and rely on takeaways, so they struggle to **maintain a balanced diet** across a busy week. Over time, irregular meals and long hours at a desk leave them **prone to** fatigue and minor infections. When symptoms linger, doctors advise staff to **seek medical attention** early rather than wait until they can barely work. During flu season, employers also try to **curb the spread of** viruses by encouraging sick leave and better ventilation. Beyond physical care, progressive companies **promote mental well-being** through flexible hours and counselling, recognising that stress and poor sleep feed into the same cycle of ill health. Together, these steps turn a reactive sick-leave culture into a more preventive one.",
+      "passage": "District Health Centres encourage residents to **maintain a balanced diet** and stay active before lifestyle diseases set in, especially among desk-bound workers who **are prone to** metabolic problems. When fever or chest symptoms persist, nurses advise people to **seek medical attention** through family-medicine slots or Hospital Authority clinics rather than wait until Accident and Emergency is the only option. Seasonal vaccination and clearer sick-leave norms help **curb the spread of** influenza in crowded offices and schools. Parallel programmes **promote mental well-being** via counselling referrals and caregiver support, recognising that stress and poor sleep feed the same cycle of ill health. On balance, prevention works best when eHealth take-up and means-tested fee relief keep primary care accessible.",
       "tasks": [
         {
-          "q": "文中話邊啲做法可以 curb the spread of viruses？",
-          "answer": "sick leave and better ventilation（masks 文中冇直接寫，唔好亂加）",
+          "q": "文中邊啲做法可以帮助 curb the spread of influenza？",
+          "answer": "Seasonal vaccination and clearer sick-leave norms",
           "type": "open"
         },
         {
-          "q": "用自己說話解釋點解要 early seek medical attention（1 句）",
-          "answer": "（例）early treatment stops symptoms getting worse / 早啲睇醫生可以避免惡化",
+          "q": "用自己一句解釋點解要 early seek medical attention（1 句）",
+          "answer": "（例）early care via family-medicine／HA clinics avoids waiting until only A&E is left",
           "type": "open"
         },
         {

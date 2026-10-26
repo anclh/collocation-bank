@@ -48,22 +48,20 @@ review: [a growing number of, rise steadily, a dramatic fall in]
 
 ## Reading passage
 
-Prompt: Some people think schools should ban smartphones. Discuss.
 
-Many educators **take the stance that** smartphones distract students and should be banned during lessons. They **put forward the argument that** constant notifications damage concentration and lower academic performance. Research on classroom behaviour can **make a compelling case for** phone-free periods, especially in junior forms. However, some parents **remain unconvinced by** a total ban, noting that phones also support learning apps and emergency contact. Policymakers should **weigh up the evidence** from schools that have tried different rules before deciding. A balanced approach—restricting phones in class while allowing supervised educational use—may satisfy both safety and learning goals without pretending the evidence is settled.
-
+Many secondary principals **take the stance that** unrestricted smartphone use in class undermines attention, and parent groups often **put forward the argument that** schools should set clearer phone-free periods. Digital-literacy advocates **make a compelling case for** supervised classroom use when tasks genuinely need online research, rather than a blanket ban. Some teachers nonetheless **remain unconvinced by** claims that phones are essential for every subject, citing distraction and cyberbullying risks. Education authorities urge schools to **weigh up the evidence** from pilot rules before city-wide mandates. On balance, phased policies with stakeholder consultation tend to fit Hong Kong’s diverse school cultures better than one absolute rule.
 
 **Passage tasks**
-1. Educators **put forward the argument that** 手機點害學生？
-2. 用自己說話解釋點解有家長 remain unconvinced by 全面禁止（1 句）
-3. True / False：Passage 結論係立刻全面永久禁手機、唔使 weigh up evidence。
+1. 文中 digital-literacy advocates make a compelling case for 咩做法？
+2. 用自己一句解釋部分老師點解 remain unconvinced（1 句）
+3. True / False：Passage 話一個 absolute city-wide ban 係最佳方案。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **notifications damage concentration / lower performance**
-2.（例）phones support learning apps and emergency contact
-3. **False**（weigh up evidence; balanced approach）
+1. **supervised classroom use** when tasks need online research（rather than a blanket ban）
+2. （例）they worry about distraction and cyberbullying even when phones are allowed
+3. **False**（phased policies with consultation better than one absolute rule）
 
 ## Next theme
 Education

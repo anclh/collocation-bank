@@ -49,19 +49,20 @@ Date: 2026-09-17
 
 ## Reading passage
 
-Across East Asia, more school-leavers hope to **pursue higher education**, yet places at top universities remain limited. Successful programmes try to **equip students with** research skills, teamwork, and clear writing rather than memorisation alone. Progressive schools also **place a strong emphasis on** discussion and project work so learners can **foster critical thinking** before they sit public exams. Still, outcomes depend on whether rural teenagers **have access to education** of comparable quality, including reliable broadband and trained teachers. When that gap narrows, universities receive better-prepared applicants and employers gain graduates who can adapt when industries change. Closing the gap therefore supports both fairness and economic resilience.
+
+Hong Kong school-leavers who hope to **pursue higher education** increasingly look beyond a single local pathway, including carefully chosen Greater Bay Area programmes. Curriculum reforms **place a strong emphasis on** STEM and applied learning so that schools can **equip students with** skills aligned to innovation and technology roles. Classroom tasks that **foster critical thinking** matter as much as examination scores if graduates are to adapt when industries shift. At the same time, policymakers stress that every district should **have access to education** pathways that include vocational routes, not only elite degree places. On balance, widening choice may ease mismatch between talent supply and labour demand, subject to quality assurance across the border.
 
 **Passage tasks**
-1. 文中話成功課程想 equip students with 咩？
-2. 用自己說話解釋點解 access to education 喺農村重要（1 句）
-3. True / False：Passage 話 top university 學位已經足夠所有人。
+1. 文中 curriculum reforms place a strong emphasis on 邊啲範疇？
+2. 用自己一句解釋點解都要有 vocational pathways（1 句）
+3. True / False：Passage 話只有 elite degree places 先算 have access to education。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **research skills, teamwork, clear writing**
-2.（例）comparable quality / broadband / teachers narrow the gap
-3. **False**（places remain limited）
+1. **STEM** and **applied learning**
+2. （例）not every student thrives on elite degrees; vocational routes also meet labour demand
+3. **False**（every district should have pathways that include vocational routes）
 
 ## Next theme
 

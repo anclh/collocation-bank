@@ -49,19 +49,20 @@ Date: 2026-09-19
 
 ## Reading passage
 
-Modern workplaces **rely heavily on technology** for meetings, records, and customer service, so outages quickly disrupt entire teams. Employees must **keep pace with technological advances**, updating skills as software and AI tools change each year. At the same time, policymakers try to **bridge the digital divide** between well-connected cities and villages with weak broadband. New tracking apps **raise privacy concerns** when personal data is stored without clear consent. Used wisely, the same innovations can **transform the way we** learn, shop, and access public services, but only if clear rules protect users while still encouraging useful experimentation in schools and workplaces.
+
+Public services in Hong Kong now **rely heavily on technology** for licensing, booking, and benefit applications, so outages quickly disrupt daily life. Bureaux must **keep pace with technological advances** if digital government channels are to remain usable as private-sector apps raise expectations. Targeted support for elders and low-income households is meant to **bridge the digital divide**, yet new data-sharing pilots still **raise privacy concerns** among civil-society groups. On balance, thoughtful design can **transform the way we** access hospital appointments and community services without excluding those offline. Stakeholder consultation and clear opt-outs therefore sit alongside the push for higher take-up.
 
 **Passage tasks**
-1. 文中點解話要 keep pace with technological advances？
-2. 用自己說話解釋 digital divide 係指咩（1 句）
-3. True / False：Passage 話科技轉變必然無隱私問題。
+1. 文中點樣嘗試 bridge the digital divide？
+2. 用自己一句解釋點解 data-sharing pilots raise privacy concerns（1 句）
+3. True / False：Passage 話數碼化可以完全唔理 offline users。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **software and AI tools change each year** / skills need updating
-2.（例）gap between well-connected cities and poorly connected villages
-3. **False**（raise privacy concerns）
+1. **Targeted support for elders and low-income households**
+2. （例）civil-society groups worry about how personal data may be shared in new pilots
+3. **False**（without excluding those offline；要 consultation／opt-outs）
 
 ## Next theme
 

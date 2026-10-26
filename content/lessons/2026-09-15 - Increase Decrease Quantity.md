@@ -49,19 +49,20 @@ Date: 2026-09-15
 
 ## Reading passage
 
-After the pandemic reopening, several Asian cities recorded **a sharp increase in** weekend tourist arrivals, filling hotels that had stood half-empty for months. At the same time, visits to smaller museums began to **decline significantly** as travellers clustered around a few famous landmarks. Tourism officials note that **a substantial proportion of** spending still comes from domestic visitors rather than overseas guests. Some districts **experience a surge in** short-stay bookings whenever a major concert or sports final is held. Overall, lodging and food services now **account for** a larger share of local tax revenue than before 2020, so planners must balance growth with crowd control and neighbourhood noise.
+
+After full reopening of the boundary, Hong Kong recorded **a sharp increase in** short-haul visitor arrivals, filling hotels and cross-boundary transport on peak weekends. Same-day trips from the Greater Bay Area now **account for** a rising share of footfall in core retail districts, while some longer-haul markets still **decline significantly** compared with pre-pandemic peaks. Tourism operators also **experience a surge in** midweek bookings whenever large exhibitions coincide with public holidays. On balance, **a substantial proportion of** the rebound remains concentrated in a few districts, so knock-on effects on quieter neighbourhoods are uneven. Authorities therefore favour diversifying attractions rather than relying on headline arrival totals alone.
 
 **Passage tasks**
-1. 邊類場所嘅參觀數字 decline significantly？
-2. 用自己說話講咩時候會 experience a surge in bookings（1 句）
-3. True / False：Passage 話大部分消費嚟自海外旅客。
+1. 文中邊類 trips account for a rising share of footfall？
+2. 用自己一句解釋點解 rebound 仍然 uneven（1 句）
+3. True / False：Passage 話所有客源市場都已經超越疫情前高峰。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **smaller museums**
-2.（例）during major concerts or sports finals
-3. **False**（substantial proportion from domestic visitors）
+1. **Same-day trips from the Greater Bay Area**
+2. （例）a large share of the rebound is concentrated in a few districts
+3. **False**（some longer-haul markets still decline significantly vs pre-pandemic peaks）
 
 ## Next theme
 

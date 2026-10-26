@@ -49,19 +49,20 @@ Date: 2026-09-18
 
 ## Reading passage
 
-Unregulated mining can **cause irreversible damage to** forests and river systems that communities depend on for food and water. Continuous extraction also tends to **deplete natural resources** faster than ecosystems can recover, leaving scarred landscapes behind. Governments under public pressure have promised to **reduce carbon emissions** from heavy industry while helping factories **switch to renewable energy sources** such as wind and solar. Conservationists add that protecting wetlands and old-growth woodland is essential if societies want to **preserve biodiversity** for future generations. Without coordinated action across ministries and businesses, short-term profits will keep outweighing long-term environmental security for communities downstream.
+
+Leaving municipal waste streams unmanaged can **cause irreversible damage to** coastal waters and country-park habitats that Hong Kong residents rely on for leisure and biodiversity. Over-extraction of materials and weak recycling loops continue to **deplete natural resources** upstream of the city’s consumption. The Government’s green-transition agenda therefore seeks to **reduce carbon emissions** while raising the share of cleaner electricity over the coming decade. Estates that **switch to renewable energy sources** for shared facilities, together with scaled Green@Community and I·PARK treatment capacity, illustrate a phased approach. Marine parks and wetland protection remain necessary if the city is to **preserve biodiversity** alongside growth in the Northern Metropolis.
 
 **Passage tasks**
-1. Mining 點樣 harm 環境（用文中 collocation）？
-2. 用自己說話講政府想 factories 點做嚟減排（1 句）
-3. True / False：Passage 話單靠短期利潤已經足夠保護生態。
+1. 文中邊啲自然環境可能受到 irreversible damage？
+2. 用自己一句解釋 Green@Community／I·PARK 喺 passage 扮演咩角色（1 句）
+3. True / False：Passage 話經濟發展同 preserve biodiversity 完全冇衝突空間。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **cause irreversible damage / deplete natural resources**
-2.（例）switch to renewable energy / reduce carbon emissions
-3. **False**（short-term profits outweigh security without action）
+1. **coastal waters** and **country-park habitats**
+2. （例）they are part of a phased approach to treat waste and support the green transition
+3. **False**（要同時做 marine parks／wetland protection alongside growth）
 
 ## Next theme
 

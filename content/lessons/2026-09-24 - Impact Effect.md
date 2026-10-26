@@ -56,21 +56,20 @@ Date: 2026-09-24
 
 ## Reading passage
 
-**Prompt:** How economic pressure affects ordinary families.
 
-In many cities, high living costs **have far-reaching consequences for** ordinary families who already stretch every pay cheque. Rent and transport alone can **take their toll on** household budgets, leaving little room for savings, healthcare, or further study. Job insecurity also **exerts a strong influence on** spending decisions, as people delay major purchases and avoid career risks. When one sector slows down, the downturn often **has a knock-on effect on** related industries such as retail and hospitality, so local shops feel the pressure within weeks. Over time, targeted support and fair wages can **bring about change** in living standards, but progress is usually gradual rather than sudden, and communities need steady policy follow-through.
+Elevated private rents in Hong Kong’s urban districts **have far-reaching consequences for** household budgets, childcare choices, and even whether dual-career couples delay starting a family. Housing costs also **exert a strong influence on** labour mobility, as workers hesitate to take jobs far from cheap accommodation. Light Public Housing and transitional projects seek to **bring about change** for long-waiting applicants without claiming to reset the whole market overnight. When more households free up subdivided units, the shift can **have a knock-on effect on** neighbourhood retail and school places. Persistent stress over rent, however, continues to **take its toll on** mental well-being among caregivers and young tenants alike.
 
 **Passage tasks**
-1. High living costs 點樣 take their toll on households？
-2. 用自己說話解釋 knock-on effect 嘅意思（用文中例子，1 句）
-3. True / False：Passage 話 living standards 可以一夜之間大幅改善。
+1. 文中 housing costs exert a strong influence on 咩？
+2. 用自己一句解釋 Light Public Housing 點樣 bring about change（1 句）
+3. True / False：Passage 話租金壓力對 mental well-being 冇影響。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **little room for savings / healthcare / study**（rent and transport）
-2.（例）one sector slows → retail and hospitality also suffer
-3. **False**（progress usually gradual）
+1. **labour mobility**（workers hesitate to take distant jobs）
+2. （例）it offers interim homes for long-waiting applicants without resetting the whole market at once
+3. **False**（continues to take its toll on mental well-being）
 
 ## Next theme
 

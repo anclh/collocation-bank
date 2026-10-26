@@ -56,19 +56,20 @@ Date: 2026-09-22
 
 ## Reading passage
 
-In a modern society, education **occupies a central place in** personal and national progress. Schools and universities **play a vital role in** preparing young people for work and civic life, from basic literacy to teamwork under pressure. Access to quality learning **is of great importance to** families who hope their children will have better opportunities than the previous generation. Digital skills, in particular, **are essential to** competing in today’s job market, where routine roles shrink and adaptable workers advance. Over the past decade, reforms that expanded scholarships and training schemes **were instrumental in** narrowing the gap between rich and poor districts. Without sustained investment in teaching and facilities, these gains may not last, and inequality in opportunity could widen again.
+
+Primary care now **occupies a central place in** Hong Kong’s strategy for an ageing population. District Health Centres **play a vital role in** diverting stable cases away from specialist queues, while eHealth records **are of great importance to** continuity when patients move between clinics. Reliable family-medicine slots **are essential to** catching chronic disease early, and nurse-led follow-up has **been instrumental in** raising vaccination and screening take-up in several districts. On balance, community networks that link social and medical support remain as critical as hospital expansion if the system is to stay sustainable within the fiscal envelope.
 
 **Passage tasks**
-1. 文中邊啲改革 were instrumental in narrowing the gap？
-2. 用自己說話解釋點解 digital skills are essential（1 句）
-3. True / False：Passage 話只要一次過撥款，教育成果就會永遠維持。
+1. 文中邊啲 centres play a vital role in diverting stable cases？
+2. 用自己一句解釋 eHealth records 點解 are of great importance（1 句）
+3. True / False：Passage 話只靠加醫院床位就夠應付人口老化。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **expanded scholarships and training schemes**
-2.（例）routine jobs shrink / adaptable workers advance
-3. **False**（needs sustained investment）
+1. **District Health Centres**
+2. （例）they support continuity when patients move between clinics
+3. **False**（community networks … as critical as hospital expansion）
 
 ## Next theme
 

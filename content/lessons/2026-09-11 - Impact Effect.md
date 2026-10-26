@@ -49,19 +49,20 @@ Date: 2026-09-11
 
 ## Reading passage
 
-Digital learning tools now **have a significant impact on** how teenagers revise for exams, yet not every change is helpful. Heavy late-night scrolling can **have a detrimental effect on** sleep and concentration, so schools that push more screen time without guidance risk harming the very students they hope to help. By contrast, well-designed reading programmes in primary years can **have a profound impact on** vocabulary growth and long-term confidence. Small habits such as daily reading and limited notifications can **make a significant difference to** academic results without expensive equipment. Ultimately, balanced use of technology can **contribute to** better learning outcomes when parents and teachers set clear boundaries.
+
+The phased rollout of District Health Centres and wider eHealth take-up now **have a significant impact on** how ordinary households first seek care in Hong Kong. For older residents managing several long-term conditions, earlier community triage can **have a profound impact on** whether a minor complaint escalates into an Accident and Emergency visit. At the same time, poorly designed digital tools may **have a detrimental effect on** take-up among people with limited smartphone skills, widening rather than narrowing the service gap. On balance, clearer booking paths and means-tested fee relief can **make a significant difference to** attendance at family-medicine slots. Together, these steps **contribute to** a more preventive primary-care model, though the fiscal envelope and staffing remain subject to careful review.
 
 **Passage tasks**
-1. 文中邊種做法會對睡眠有 detrimental effect？
-2. 用自己說話解釋點解 small habits 可以 make a significant difference（1 句）
-3. True / False：Passage 話所有螢幕時間都有 beneficial impact。
+1. 文中邊啲措施可以 make a significant difference to attendance？
+2. 用自己一句解釋點解 digital tools 可能有 detrimental effect（1 句）
+3. True / False：Passage 話 eHealth 一定可以完全取代 Accident and Emergency。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **heavy late-night scrolling**
-2.（例）daily reading / limited notifications improve results without costly tools
-3. **False**（有 detrimental effect；要平衡）
+1. **clearer booking paths** and **means-tested fee relief**
+2. （例）older / less digitally skilled users may struggle, so take-up falls and the service gap widens
+3. **False**（講 preventive primary care；仍然要 review fiscal envelope／staffing，冇話取代 A&E）
 
 ## Next theme
 

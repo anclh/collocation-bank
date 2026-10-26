@@ -49,19 +49,20 @@ Date: 2026-09-13
 
 ## Reading passage
 
-Fast fashion **poses a threat to** rivers and soil because cheap dyes and short product cycles create mountains of waste. Campaigners **raise concerns about** microplastics from synthetic clothes entering the food chain, especially in dense cities. Manufacturers **are faced with** rising pressure from regulators and younger consumers who want cleaner supply chains. Ignoring these warnings can **exacerbate the problem**, as discarded garments pile up in landfills and overseas dumps. For many governments, textile pollution has become **a major concern** that links environmental damage with worker welfare, so clearer labelling and longer product life cycles are now on the policy agenda.
+
+Hong Kong’s shrinking landfill capacity continues to **pose a threat to** long-term waste management if diversion rates remain modest. Environmental groups **raise concerns about** food waste from public rental estates and commercial kitchens, arguing that slow uptake of smart bins may **exacerbate the problem**. Housing estates and district councils are **faced with** competing priorities: hygiene, noise from collection, and the recurrent expenditure of expanding Green@Community points. Meeting higher recycling targets is therefore **a major concern** for the Environment and Ecology Bureau, which is phasing in food-waste collection and I·PARK-related treatment capacity. On balance, infrastructure alone will not close the service gap without steadier household participation.
 
 **Passage tasks**
-1. Fast fashion 點樣 pose a threat to 環境？
-2. 用自己說話解釋點解 ignore warnings 會 exacerbate the problem（1 句）
-3. True / False：Passage 話污染淨係關乎環境、同工人福利無關。
+1. 文中邊啲來源嘅 food waste raise concerns？
+2. 用自己一句解釋點解 estates 係 faced with competing priorities（1 句）
+3. True / False：Passage 話只靠基建就可以完全解決 landfill 壓力。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **cheap dyes / short cycles / waste**（microplastics 亦相關）
-2.（例）more landfill waste and overseas dumping
-3. **False**（links environmental damage with worker welfare）
+1. **public rental estates** and **commercial kitchens**
+2. （例）they must balance hygiene, collection noise, and the cost of more Green@Community points
+3. **False**（文尾：infrastructure alone will not close the service gap）
 
 ## Next theme
 

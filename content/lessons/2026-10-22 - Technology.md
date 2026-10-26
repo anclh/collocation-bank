@@ -54,12 +54,13 @@ source: Collocation Tutor
 
 ## Reading passage
 
-When firms begin to **harness the power of** artificial intelligence in everyday operations, older workflows that once felt reliable can soon **become obsolete**. That shift is not only about replacing software; managers adopt AI tools specifically to **enhance productivity**, so staff spend less time on paperwork and more on judgement-heavy work. In practice, programmes that **automate routine tasks** such as scheduling, data entry, and basic customer replies create spare capacity across the organisation. Companies that move early often **gain a competitive edge** over slower rivals, yet that same advantage raises the bar for workers, who must keep learning if they are to stay useful in an AI-shaped workplace.
+
+Hong Kong public agencies and local firms increasingly **harness the power of** artificial intelligence to triage enquiries and spot anomalies in large datasets. Paper-based workflows that once defined counter services can quickly **become obsolete** when residents expect mobile updates. Used well, automation can **enhance productivity** in back-office teams as staff **automate routine tasks** such as form checking and appointment reminders. Early movers in fintech and smart-city pilots may **gain a competitive edge** in the wider Greater Bay Area market, provided skills training keeps pace. On balance, productivity gains still depend on change management and clear rules on data use—not on tools alone.
 
 **Passage tasks**
-1. 文中話邊啲工作正 harness the power of AI？
-2. 用自己說話解釋點解 automate routine tasks 可以 enhance productivity（1 句）
-3. True / False：Passage 話所有舊工具都已經 become obsolete，冇例外。
+1. 文中邊啲 routine tasks 可以用自動化處理？
+2. 用自己一句解釋點解 paper-based workflows 可能 become obsolete（1 句）
+3. True / False：Passage 話只要買工具就一定 enhance productivity，唔使管 change management。
 
 ## ANSWER KEY
 
@@ -69,9 +70,9 @@ When firms begin to **harness the power of** artificial intelligence in everyday
 - C: **automate** / **routine tasks**
 
 ### Passage tasks
-1. **artificial intelligence / AI**
-2.（例）frees staff from repetitive work / speeds up decisions / cuts costs
-3. **False**
+1. **form checking** and **appointment reminders**
+2. （例）residents now expect mobile updates, so counter paper processes lag behind
+3. **False**（gains still depend on change management and data-use rules）
 
 ## Next theme
 

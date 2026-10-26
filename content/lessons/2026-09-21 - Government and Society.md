@@ -49,19 +49,20 @@ Date: 2026-09-21
 
 ## Reading passage
 
-After a rise in online fraud, ministers plan to **introduce legislation** that forces platforms to verify high-risk sellers more carefully. Passing a bill is only the first step; agencies must also **enforce the law** consistently so loopholes are not ignored. Budgets will **allocate public funds** to digital police units and public education campaigns. Officials argue that visible action helps **maintain social stability** when citizens fear losing savings to scams. Longer term, fairer tax and training policies are needed to **tackle social inequality**, because communities with fewer opportunities are often the most exposed to both crime and misinformation.
+
+To curb online investment scams targeting retail investors in Hong Kong, authorities plan to **introduce legislation** that tightens platform duties and disclosure rules. Agencies must still **enforce the law** consistently so that new offences deter repeat operators rather than displace them overseas. The Government continues to **allocate public funds** to public education and reporting channels, recognising that prosecution alone cannot rebuild trust. Clearer consumer protection can help **maintain social stability** when losses cluster in middle-income districts. Over time, better redress and means-tested support may also **tackle social inequality** between victims who can afford legal advice and those who cannot.
 
 **Passage tasks**
-1. 新法例主要想平台做咩？
-2. 用自己說話解釋點解 enforce the law 同 introduce legislation 一樣重要（1 句）
-3. True / False：Passage 話 allocate public funds 淨係用喺廣告、唔使執法單位。
+1. 新法例主要針對邊種騙案？
+2. 用自己一句解釋點解 allocate public funds to education 仍然重要（1 句）
+3. True / False：Passage 話單靠 prosecution 已經足夠 rebuild trust。
 
 ## ANSWER KEY
 
 ### Passage tasks
-1. **verify high-risk sellers more carefully**
-2.（例）laws fail if loopholes are ignored / need consistent enforcement
-3. **False**（funds for digital police units and education）
+1. **online investment scams** targeting retail investors
+2. （例）prosecution alone cannot rebuild trust; prevention and reporting channels matter
+3. **False**（prosecution alone cannot rebuild trust）
 
 ## Next theme
 
