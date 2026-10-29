@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-26T14:06:59Z",
-  "count": 22,
+  "generated": "2026-10-29T02:31:58Z",
+  "count": 23,
   "lessons": [
     {
       "id": "2026-09-11-impact-effect",
@@ -2406,6 +2406,114 @@
       ],
       "nextTheme": "Government and Society（政府與社會）",
       "sourceFile": "2026-10-26 - Health.md"
+    },
+    {
+      "id": "2026-10-29-government-society",
+      "lesson": 23,
+      "date": "2026-10-29",
+      "theme": "Government Society",
+      "title": "Government Society",
+      "review": [
+        {
+          "phrase": "maintain a balanced diet",
+          "yue": "保持均衡飲食"
+        },
+        {
+          "phrase": "be prone to",
+          "yue": "容易患上／傾向於"
+        },
+        {
+          "phrase": "seek medical attention",
+          "yue": "求醫／尋求醫療協助"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "foster social cohesion",
+          "weak": "make people get along / bring people together",
+          "yue": "促進社會凝聚力（令唔同背景嘅人更有歸屬感）",
+          "frame": "foster social cohesion (through / among / in + community)",
+          "model": "District Care Teams help foster social cohesion by linking elderly residents with neighbours and local services.",
+          "mistake": "foster the social cohesive（要用 social cohesion；通常唔加 the）"
+        },
+        {
+          "phrase": "uphold the rule of law",
+          "weak": "follow the law carefully / respect the law",
+          "yue": "維護法治（人人平等、依法辦事）",
+          "frame": "uphold the rule of law; be committed to upholding the rule of law",
+          "model": "Clear enforcement and fair procedures are needed to uphold the rule of law in everyday disputes.",
+          "mistake": "uphold the rule of the law（固定係 the rule of law，law 前面唔再加 the）"
+        },
+        {
+          "phrase": "enhance social mobility",
+          "weak": "help poor people move up / give people a better chance",
+          "yue": "提升社會流動性（畀基層有機會向上流動）",
+          "frame": "enhance / improve / promote social mobility",
+          "model": "Skills training and targeted scholarships can enhance social mobility for young people from less affluent families.",
+          "mistake": "enhance the social mobile（要用 social mobility）"
+        },
+        {
+          "phrase": "restore public confidence",
+          "weak": "make people trust again / win back trust",
+          "yue": "重建公眾信心",
+          "frame": "restore public confidence (in + institution / service)",
+          "model": "Timely updates on waiting lists help restore public confidence in housing delivery.",
+          "mistake": "restore the public's confidences（confidence 通常唔加複數；public confidence 係固定搭配）"
+        },
+        {
+          "phrase": "conduct public consultation",
+          "weak": "ask the public for opinions / collect views",
+          "yue": "進行公眾諮詢（收集市民同持份者意見）",
+          "frame": "conduct public consultation (on + policy / proposal); after conducting public consultation",
+          "model": "Before expanding district services, bureaux typically conduct public consultation to map service gaps.",
+          "mistake": "conduct a public consult（要用 public consultation）"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "填空（今日 5 個搭配）：Youth hostels and vocational pathways are designed to ________ ________ ________.",
+            "type": "fill",
+            "answer": "enhance social mobility",
+            "choices": []
+          },
+          {
+            "id": "B",
+            "prompt": "選較好一句：(a) The bureau asked people opinions. / (b) The bureau conducted public consultation on the proposal.",
+            "type": "choose",
+            "answer": "(b) The bureau conducted public consultation on the proposal.",
+            "choices": []
+          },
+          {
+            "id": "C",
+            "prompt": "改錯：Fair courts uphold the rule of the law.",
+            "type": "rewrite",
+            "answer": "uphold the rule of law（唔好寫 the rule of the law）",
+            "choices": []
+          }
+        ]
+      },
+      "passage": "Hong Kong's district-based Care Teams were expanded to bring support closer to households that face a clear **service gap**. When frontline workers connect isolated elderly residents with meals, home visits, and nearby clinics, they also help **foster social cohesion** between neighbours who rarely meet. At the same time, skills programmes and means-tested study support try to **enhance social mobility** so that background does not lock young people out of better jobs. Because trust is fragile after long waits for public housing and other services, bureaux now publish phased roll-out timelines to **restore public confidence**. Before new district measures go city-wide, officials usually **conduct public consultation** so stakeholder concerns shape the final design. Taken together, these steps show how calm, rules-based delivery can **uphold the rule of law** while still answering everyday social needs.",
+      "tasks": [
+        {
+          "q": "List the five taught collocations used in the passage.",
+          "answer": "foster social cohesion; enhance social mobility; restore public confidence; conduct public consultation; uphold the rule of law",
+          "type": "open"
+        },
+        {
+          "q": "In one sentence, what problem does publishing roll-out timelines try to fix?",
+          "answer": "（例）to restore public confidence after long waits / rebuild trust in service delivery",
+          "type": "open"
+        },
+        {
+          "q": "Match: Care Teams → ? ; skills / study support → ? ; consultation → ?（選：social mobility / cohesion / policy design）",
+          "answer": "Care Teams → cohesion; skills / study support → social mobility; consultation → policy design",
+          "type": "choose"
+        }
+      ],
+      "nextTheme": "Importance / role（重要性／角色；cycle restart）",
+      "sourceFile": "2026-10-29 - Government Society.md"
     }
   ]
 }
