@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T02:31:58Z",
-  "count": 23,
+  "generated": "2026-11-02T02:33:54Z",
+  "count": 24,
   "lessons": [
     {
       "id": "2026-09-11-impact-effect",
@@ -2514,6 +2514,114 @@
       ],
       "nextTheme": "Importance / role（重要性／角色；cycle restart）",
       "sourceFile": "2026-10-29 - Government Society.md"
+    },
+    {
+      "id": "2026-11-02-importance-role",
+      "lesson": 24,
+      "date": "2026-11-02",
+      "theme": "Importance Role",
+      "title": "Importance Role",
+      "review": [
+        {
+          "phrase": "foster social cohesion",
+          "yue": "促進社會凝聚力"
+        },
+        {
+          "phrase": "uphold the rule of law",
+          "yue": "維護法治"
+        },
+        {
+          "phrase": "enhance social mobility",
+          "yue": "提升社會流動性"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "play a pivotal role in",
+          "weak": "be very important in / be the main part of",
+          "yue": "喺……入面發揮關鍵／樞紐作用",
+          "frame": "play a pivotal role in + noun / -ing",
+          "model": "District Health Centres play a pivotal role in shifting routine care away from crowded hospital wards.",
+          "mistake": "play a pivotal role on（介詞用 in，唔係 on）"
+        },
+        {
+          "phrase": "be of paramount importance",
+          "weak": "be the most important / be extremely important",
+          "yue": "極為重要；至關重要",
+          "frame": "be of paramount importance (to / for + noun); It is of paramount importance that…",
+          "model": "Reliable waiting-time data is of paramount importance when families choose a clinic or specialist pathway.",
+          "mistake": "be of paramount important（要用名詞 importance，唔係 important）"
+        },
+        {
+          "phrase": "serve as a cornerstone of",
+          "weak": "be the basic support of / be the foundation of",
+          "yue": "作為……嘅基石／支柱",
+          "frame": "serve as a cornerstone of + system / strategy / policy",
+          "model": "Community nursing now serves as a cornerstone of Hong Kong's primary healthcare strategy.",
+          "mistake": "serve as a corner stone for（寫成一個字 cornerstone；後面多用 of）"
+        },
+        {
+          "phrase": "lie at the heart of",
+          "weak": "be the central idea of / be the core of",
+          "yue": "處於……嘅核心；係……最關鍵嘅部分",
+          "frame": "lie at the heart of + plan / debate / reform",
+          "model": "Prevention and early detection lie at the heart of the Hospital Authority's chronic-disease programmes.",
+          "mistake": "lie in the heart of（固定係 at the heart of）"
+        },
+        {
+          "phrase": "be indispensable to",
+          "weak": "be needed a lot by / cannot work without",
+          "yue": "對……不可或缺",
+          "frame": "be indispensable to + noun / -ing; an indispensable part of",
+          "model": "Cross-bureau coordination is indispensable to reducing avoidable accident-and-emergency attendances.",
+          "mistake": "be indispensable for to（介詞用 to；或者改寫 indispensable for + noun，唔好兩個一齊用）"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "填空（今日 5 個搭配）：Prevention and early detection ________ ________ ________ ________ the chronic-disease programmes.",
+            "type": "fill",
+            "answer": "lie at the heart of",
+            "choices": []
+          },
+          {
+            "id": "B",
+            "prompt": "選較好一句：(a) eHealth records are of paramount important. / (b) eHealth records are of paramount importance.",
+            "type": "choose",
+            "answer": "(b) eHealth records are of paramount importance.",
+            "choices": []
+          },
+          {
+            "id": "C",
+            "prompt": "改錯：District clinics play a pivotal role on primary care.",
+            "type": "rewrite",
+            "answer": "play a pivotal role in（介詞用 in，唔係 on）",
+            "choices": []
+          }
+        ]
+      },
+      "passage": "Hong Kong's primary healthcare reform puts neighbourhood clinics closer to where people live and work. District Health Centres now **play a pivotal role in** catching hypertension and diabetes early, before patients need a hospital bed. For that shift to work, shared eHealth records **are of paramount importance**: without them, family doctors and specialists cannot see the same test history. Community nursing **serves as a cornerstone of** follow-up care after discharge, cutting repeat visits that strain the fiscal envelope. In practice, prevention and lifestyle advice **lie at the heart of** these programmes, not only medicine after a crisis. Smooth data-sharing across the Hospital Authority and private providers **is indispensable to** closing the remaining service gap and easing pressure on accident-and-emergency departments.",
+      "tasks": [
+        {
+          "q": "List the five taught collocations used in the passage.",
+          "answer": "play a pivotal role in; be of paramount importance; serve as a cornerstone of; lie at the heart of; be indispensable to",
+          "type": "open"
+        },
+        {
+          "q": "In one sentence, why are shared eHealth records described as so important?",
+          "answer": "（例）so family doctors and specialists can see the same test history / care cannot shift without shared records",
+          "type": "open"
+        },
+        {
+          "q": "Match: District Health Centres → ? ; community nursing → ? ; prevention advice → ?（選：pivotal role / cornerstone / heart of the programmes）",
+          "answer": "District Health Centres → pivotal role; community nursing → cornerstone; prevention advice → heart of the programmes",
+          "type": "choose"
+        }
+      ],
+      "nextTheme": "Impact / effect（影響／效果）",
+      "sourceFile": "2026-11-02 - Importance Role.md"
     }
   ]
 }
