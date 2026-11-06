@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-02T02:33:54Z",
-  "count": 24,
+  "generated": "2026-11-06T00:00:00Z",
+  "count": 25,
   "lessons": [
     {
       "id": "2026-09-11-impact-effect",
@@ -2622,6 +2622,127 @@
       ],
       "nextTheme": "Impact / effect（影響／效果）",
       "sourceFile": "2026-11-02 - Importance Role.md"
+    },
+    {
+      "id": "2026-11-05-impact-effect",
+      "lesson": 25,
+      "date": "2026-11-05",
+      "theme": "Impact & Effect",
+      "title": "Impact & Effect",
+      "review": [
+        {
+          "phrase": "play a pivotal role in",
+          "yue": "喺……入面發揮關鍵作用"
+        },
+        {
+          "phrase": "be of paramount importance",
+          "yue": "極為重要"
+        },
+        {
+          "phrase": "serve as a cornerstone of",
+          "yue": "作為……嘅基石"
+        },
+        {
+          "phrase": "lie at the heart of",
+          "yue": "處於……嘅核心"
+        },
+        {
+          "phrase": "be indispensable to",
+          "yue": "對……不可或缺"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "have far-reaching consequences for",
+          "weak": "affect many things",
+          "yue": "對……造成深遠影響",
+          "frame": "have far-reaching consequences for + person / group / issue",
+          "model": "A major change to the transport network can have far-reaching consequences for neighbourhood businesses.",
+          "mistake": "consequences to local shops → consequences for local shops"
+        },
+        {
+          "phrase": "have a knock-on effect on",
+          "weak": "cause another effect on",
+          "yue": "對……產生連鎖影響",
+          "frame": "have a knock-on effect on + noun",
+          "model": "Longer travel times can have a knock-on effect on workers’ childcare arrangements.",
+          "mistake": "a knock-on effect to housing → a knock-on effect on housing"
+        },
+        {
+          "phrase": "make a significant difference to",
+          "weak": "help a lot",
+          "yue": "對……帶來顯著改變",
+          "frame": "make a significant difference to + noun",
+          "model": "Step-free access can make a significant difference to passengers with mobility needs.",
+          "mistake": "make a significant difference for access → make a significant difference to access"
+        },
+        {
+          "phrase": "exert a positive influence on",
+          "weak": "encourage",
+          "yue": "對……發揮正面影響",
+          "frame": "exert a positive influence on + behaviour / choice / outcome",
+          "model": "Reliable train services can exert a positive influence on commuters’ travel choices.",
+          "mistake": "influence to travel choices → influence on travel choices"
+        },
+        {
+          "phrase": "take a toll on",
+          "weak": "harm / make life harder for",
+          "yue": "對……造成損害／帶來負面影響",
+          "frame": "take a toll on + person / health / daily life",
+          "model": "Frequent delays can take a toll on commuters’ well-being.",
+          "mistake": "take a toll to commuters → take a toll on commuters"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "Fill in: A new rail line can ______ neighbourhood businesses.（對……造成深遠影響）",
+            "type": "fill",
+            "answer": "have far-reaching consequences for",
+            "choices": [],
+            "accept": "have far-reaching consequences for"
+          },
+          {
+            "id": "B",
+            "prompt": "選正確：Delays can take a toll (on / to) commuters.",
+            "type": "choose",
+            "answer": "on",
+            "choices": [
+              "on",
+              "to"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "Fix: Better bus connections have a knock-on effect to housing demand.",
+            "type": "rewrite",
+            "answer": "Better bus connections have a knock-on effect on housing demand.",
+            "choices": [],
+            "accept": "knock-on effect on"
+          }
+        ]
+      },
+      "passage": "Hong Kong’s new rail links could **have far-reaching consequences for** the communities they connect. Shorter journeys may bring more customers to local shops, while rising housing demand could **have a knock-on effect on** rents. For older residents and passengers with mobility needs, lifts and step-free routes can **make a significant difference to** everyday travel. Frequent, reliable services can also **exert a positive influence on** people’s choices by making public transport easier to use. By contrast, delays and overcrowding may **take a toll on** commuters’ well-being.",
+      "tasks": [
+        {
+          "q": "List the five taught collocations used in the passage.",
+          "answer": "have far-reaching consequences for; have a knock-on effect on; make a significant difference to; exert a positive influence on; take a toll on",
+          "type": "open"
+        },
+        {
+          "q": "In one sentence, name one possible effect of new rail links on local shops or housing.",
+          "answer": "Shorter journeys may bring more customers to local shops / rising housing demand could affect rents.",
+          "type": "open"
+        },
+        {
+          "q": "Match: lifts and step-free routes → ? ; reliable services → ? ; delays and overcrowding → ?（選：exert a positive influence on travel choices / make a significant difference to everyday travel / take a toll on commuters’ well-being）",
+          "answer": "Lifts and step-free routes → make a significant difference to everyday travel; reliable services → exert a positive influence on travel choices; delays and overcrowding → take a toll on commuters’ well-being",
+          "type": "open"
+        }
+      ],
+      "nextTheme": "Challenges / Difficulty",
+      "sourceFile": "2026-11-05 - Impact Effect.md"
     }
   ]
 }
