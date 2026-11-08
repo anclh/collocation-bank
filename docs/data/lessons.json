@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-02T02:33:54Z",
-  "count": 24,
+  "generated": "2026-11-08T04:03:32Z",
+  "count": 26,
   "lessons": [
     {
       "id": "2026-09-11-impact-effect",
@@ -2622,6 +2622,233 @@
       ],
       "nextTheme": "Impact / effect（影響／效果）",
       "sourceFile": "2026-11-02 - Importance Role.md"
+    },
+    {
+      "id": "2026-11-05-impact-effect",
+      "lesson": 25,
+      "date": "2026-11-05",
+      "theme": "Impact & Effect",
+      "title": "Impact & Effect",
+      "review": [
+        {
+          "phrase": "play a pivotal role in",
+          "yue": "喺……入面發揮關鍵作用"
+        },
+        {
+          "phrase": "be of paramount importance",
+          "yue": "極為重要"
+        },
+        {
+          "phrase": "serve as a cornerstone of",
+          "yue": "作為……嘅基石"
+        },
+        {
+          "phrase": "lie at the heart of",
+          "yue": "處於……嘅核心"
+        },
+        {
+          "phrase": "be indispensable to",
+          "yue": "對……不可或缺"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "have far-reaching consequences for",
+          "weak": "affect many things",
+          "yue": "對……造成深遠影響",
+          "frame": "have far-reaching consequences for + person / group / issue",
+          "model": "A major change to the transport network can have far-reaching consequences for neighbourhood businesses.",
+          "mistake": "consequences to local shops → consequences for local shops"
+        },
+        {
+          "phrase": "have a knock-on effect on",
+          "weak": "cause another effect on",
+          "yue": "對……產生連鎖影響",
+          "frame": "have a knock-on effect on + noun",
+          "model": "Longer travel times can have a knock-on effect on workers' childcare arrangements.",
+          "mistake": "a knock-on effect to housing → a knock-on effect on housing"
+        },
+        {
+          "phrase": "make a significant difference to",
+          "weak": "help a lot",
+          "yue": "對……帶來顯著改變",
+          "frame": "make a significant difference to + noun",
+          "model": "Step-free access can make a significant difference to passengers with mobility needs.",
+          "mistake": "make a significant difference for access → make a significant difference to access"
+        },
+        {
+          "phrase": "exert a positive influence on",
+          "weak": "encourage",
+          "yue": "對……發揮正面影響",
+          "frame": "exert a positive influence on + behaviour / choice / outcome",
+          "model": "Reliable train services can exert a positive influence on commuters' travel choices.",
+          "mistake": "influence to travel choices → influence on travel choices"
+        },
+        {
+          "phrase": "take a toll on",
+          "weak": "harm / make life harder for",
+          "yue": "對……造成損害／帶來負面影響",
+          "frame": "take a toll on + person / health / daily life",
+          "model": "Frequent delays can take a toll on commuters' well-being.",
+          "mistake": "take a toll to commuters → take a toll on commuters"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "填空：A new rail line can ________ ________ ________ ________ neighbourhood businesses.",
+            "type": "fill",
+            "answer": "have far-reaching consequences for",
+            "choices": []
+          },
+          {
+            "id": "B",
+            "prompt": "選正確介詞：Delays can take a toll (on / to) commuters.",
+            "type": "choose",
+            "answer": "on",
+            "choices": [
+              "on",
+              "to"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "改錯：Better bus connections have a knock-on effect to housing demand.",
+            "type": "rewrite",
+            "answer": "Better bus connections have a knock-on effect on housing demand.",
+            "choices": []
+          }
+        ]
+      },
+      "passage": "Hong Kong's new rail links could **have far-reaching consequences for** the communities they connect. Shorter journeys may bring more customers to local shops, while rising housing demand could **have a knock-on effect on** rents. For older residents and passengers with mobility needs, lifts and step-free routes can **make a significant difference to** everyday travel. Frequent, reliable services can also **exert a positive influence on** people's choices by making public transport easier to use. By contrast, delays and overcrowding may **take a toll on** commuters' well-being.",
+      "tasks": [
+        {
+          "q": "List the five taught collocations used in the passage.",
+          "answer": "have far-reaching consequences for; have a knock-on effect on; make a significant difference to; exert a positive influence on; take a toll on",
+          "type": "open"
+        },
+        {
+          "q": "In one sentence, name one possible effect of new rail links on local shops or housing.",
+          "answer": "Shorter journeys may bring more customers to local shops / rising housing demand could affect rents.",
+          "type": "open"
+        },
+        {
+          "q": "Match: lifts and step-free routes → ? ; reliable services → ? ; delays and overcrowding → ?（選：positive influence on travel choices / difference to everyday travel / toll on commuters' well-being）",
+          "answer": "Lifts and step-free routes → difference to everyday travel; reliable services → positive influence on travel choices; delays and overcrowding → toll on commuters' well-being",
+          "type": "choose"
+        }
+      ],
+      "nextTheme": "Cause and result",
+      "sourceFile": "2026-11-05 - Impact Effect.md"
+    },
+    {
+      "id": "2026-11-08-cause-and-result",
+      "lesson": 26,
+      "date": "2026-11-08",
+      "theme": "Cause and Result",
+      "title": "Cause and Result",
+      "review": [
+        {
+          "phrase": "have far-reaching consequences for",
+          "yue": "對……造成深遠影響"
+        },
+        {
+          "phrase": "have a knock-on effect on",
+          "yue": "對……產生連鎖影響"
+        },
+        {
+          "phrase": "make a significant difference to",
+          "yue": "對……帶來顯著改變"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "stem from",
+          "weak": "come from / be because of",
+          "yue": "源自……；由……引起",
+          "frame": "stem from + a cause / problem / decision",
+          "model": "Unequal access to career advice may stem from differences in school resources.",
+          "mistake": "stem from of（from 已經係介詞，後面直接接名詞）"
+        },
+        {
+          "phrase": "contribute to",
+          "weak": "help cause",
+          "yue": "促成／導致（某個結果，未必係唯一原因）",
+          "frame": "contribute to + noun / -ing",
+          "model": "Practical work placements can contribute to a smoother transition from school to employment.",
+          "mistake": "contribute for（表示「促成」時用 to）"
+        },
+        {
+          "phrase": "set off a chain reaction",
+          "weak": "cause many connected changes",
+          "yue": "引發一連串互相關連嘅變化",
+          "frame": "set off a chain reaction of + noun",
+          "model": "A well-matched internship can set off a chain reaction of new skills, contacts and job opportunities.",
+          "mistake": "set out a chain reaction（固定搭配係 set off，即「引發」）"
+        },
+        {
+          "phrase": "pave the way for",
+          "weak": "make it possible for",
+          "yue": "為……鋪路；創造條件令……更容易發生",
+          "frame": "pave the way for + noun / someone to + verb",
+          "model": "Early exposure to different industries can pave the way for better-informed career choices.",
+          "mistake": "pave the way to young people（後面接名詞用 for；接地方先用 to）"
+        },
+        {
+          "phrase": "culminate in",
+          "weak": "end with / finally lead to",
+          "yue": "最終以……告終／發展成……",
+          "frame": "culminate in + noun / -ing",
+          "model": "Years of training and workplace experience may culminate in a stable career.",
+          "mistake": "culminate to（結果前面用 in）"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "填空：A skills gap may ________ ________ differences in access to training.",
+            "type": "fill",
+            "answer": "stem from",
+            "choices": []
+          },
+          {
+            "id": "B",
+            "prompt": "選正確介詞：(a) contribute for a stronger workforce / (b) contribute to a stronger workforce",
+            "type": "choose",
+            "answer": "(b) contribute to a stronger workforce",
+            "choices": []
+          },
+          {
+            "id": "C",
+            "prompt": "改錯：The programme culminated to a series of paid placements.",
+            "type": "rewrite",
+            "answer": "The programme culminated in a series of paid placements.",
+            "choices": []
+          }
+        ]
+      },
+      "passage": "At the Youth Development Summit on 7 November, Hong Kong's Chief Secretary said the Youth Development Blueprint had implemented nearly 300 initiatives in four years. This work **stems from** policy efforts to link young people's development with the city's economic needs. The latest Policy Address also prioritises youth development and expands internships and training in areas such as finance, aerospace technology, research and AI. By gaining practical experience, participants can **contribute to** a smoother school-to-work transition; successful placements may then **set off a chain reaction of** new skills, employer contacts and further opportunities. Fair access and clear guidance can **pave the way for** more young people to benefit. With regular evaluation, these connected measures may **culminate in** stronger career prospects and a more adaptable workforce.",
+      "tasks": [
+        {
+          "q": "What is one reason given for connecting youth development with economic needs?",
+          "answer": "To link young people's development with the city's economic needs.",
+          "type": "open"
+        },
+        {
+          "q": "According to the passage, name two possible links in the chain reaction after a successful placement.",
+          "answer": "New skills, employer contacts or further opportunities (any two).",
+          "type": "open"
+        },
+        {
+          "q": "What two conditions could help more young people benefit from the measures?",
+          "answer": "Fair access and clear guidance.",
+          "type": "open"
+        }
+      ],
+      "nextTheme": "Problems and threats（問題與威脅）",
+      "sourceFile": "2026-11-08 - Cause and Result.md"
     }
   ]
 }
