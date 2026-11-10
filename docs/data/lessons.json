@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T04:03:32Z",
-  "count": 26,
+  "generated": "2026-11-10T05:12:31Z",
+  "count": 27,
   "lessons": [
     {
       "id": "2026-09-11-impact-effect",
@@ -2849,6 +2849,121 @@
       ],
       "nextTheme": "Problems and threats（問題與威脅）",
       "sourceFile": "2026-11-08 - Cause and Result.md"
+    },
+    {
+      "id": "2026-11-10-problems-and-threats",
+      "lesson": 27,
+      "date": "2026-11-10",
+      "theme": "Problems and Threats",
+      "title": "Problems and Threats",
+      "review": [
+        {
+          "phrase": "stem from",
+          "yue": "源自……；由……引起"
+        },
+        {
+          "phrase": "set off a chain reaction",
+          "yue": "引發一連串互相關連嘅變化"
+        },
+        {
+          "phrase": "pave the way for",
+          "yue": "為……鋪路；創造條件令……更容易發生"
+        }
+      ],
+      "collocations": [
+        {
+          "phrase": "pose a threat to",
+          "weak": "be dangerous for / can harm",
+          "yue": "對……構成威脅",
+          "frame": "pose a (serious / growing) threat to + noun",
+          "model": "Impersonation websites pose a serious threat to consumer confidence in digital banking.",
+          "mistake": "pose a threat for public safety（後面接對象時用介詞 to，唔係 for）"
+        },
+        {
+          "phrase": "be vulnerable to",
+          "weak": "be easily hurt by / be easily tricked by",
+          "yue": "容易受到……傷害／影響（較弱勢或防範不足）",
+          "frame": "be (particularly) vulnerable to + noun / -ing",
+          "model": "Elderly residents living alone are particularly vulnerable to telephone and online deception.",
+          "mistake": "be vulnerable of scams（固定搭配係 vulnerable to）"
+        },
+        {
+          "phrase": "fall victim to",
+          "weak": "get tricked by / suffer because of",
+          "yue": "成為……嘅受害者；不幸中招／受騙",
+          "frame": "fall victim to + crime / fraud / problem",
+          "model": "Even cautious shoppers can fall victim to phishing links that imitate real payment pages.",
+          "mistake": "fall a victim of（固定動詞片語係 fall victim to，唔加 a，介詞用 to；若用名詞結構先寫 become a victim of）"
+        },
+        {
+          "phrase": "run the risk of",
+          "weak": "might have / have a chance of suffering",
+          "yue": "冒住……嘅風險（後果通常係負面）",
+          "frame": "run the risk of + -ing / noun",
+          "model": "Users who enter one-time passwords on unverified pages run the risk of losing their savings.",
+          "mistake": "run the risk to lose money（of 後面一定要接名詞或 -ing，唔接 to + verb）"
+        },
+        {
+          "phrase": "compound the problem",
+          "weak": "make the problem even worse",
+          "yue": "令問題雪上加霜；進一步加劇原有問題",
+          "frame": "compound the problem (of + noun) / be compounded by + noun",
+          "model": "Counterfeit department logos compound the problem by making fake notices look official.",
+          "mistake": "compound to the problem（compound 係及物動詞，直接接 the problem，唔使加 to）"
+        }
+      ],
+      "drill": {
+        "items": [
+          {
+            "id": "A",
+            "prompt": "填空：Users who disclose one-time passwords ________ ________ ________ ________ immediate financial loss.",
+            "type": "fill",
+            "answer": "run the risk of",
+            "choices": []
+          },
+          {
+            "id": "B",
+            "prompt": "選正確介詞：Even cautious citizens may fall victim (to / of) sophisticated phishing websites.",
+            "type": "choose",
+            "answer": "to",
+            "choices": [
+              "to",
+              "of"
+            ]
+          },
+          {
+            "id": "C",
+            "prompt": "改錯：Fake government logos compound to the problem of online fraud.",
+            "type": "rewrite",
+            "answer": "Fake government logos compound the problem of online fraud.（compound 直接接賓語，唔加 to）",
+            "choices": []
+          }
+        ]
+      },
+      "passage": "On 9 November, separate alerts from the Hong Kong Monetary Authority (HKMA), Hong Kong Interbank Clearing Limited (HKICL) and the Environmental Protection Department (EPD) highlighted how impersonation scams continue to **pose a threat to** digital payments and public trust. Fraudsters have created bogus bank login screens, a fake Faster Payment System (FPS) \"Buyer Online Protection\" website, and posters for a fabricated \"Renewable Resource Recovery Incentive Scheme\". Because these schemes mimic everyday banking and recycling services, residents **are vulnerable to** misleading claims and may **fall victim to** phishing. Anyone who enters banking credentials or one-time passwords **runs the risk of** immediate financial loss. Counterfeit department logos and fake customer-service agents **compound the problem** by making scams harder to detect, prompting authorities to remind citizens never to share sensitive information via unknown links.",
+      "tasks": [
+        {
+          "q": "Which three Hong Kong public bodies issued scam alerts on 9 November, and what fake schemes or websites were involved?",
+          "answer": "The HKMA (bogus bank login screens / apps), HKICL (a fake FPS \"Buyer Online Protection\" website), and the EPD (posters for a fabricated \"Renewable Resource Recovery Incentive Scheme\").",
+          "type": "open"
+        },
+        {
+          "q": "According to the passage, why do counterfeit logos and fake customer-service agents compound the problem?",
+          "answer": "Because they make the scams look official and harder for the public to detect.",
+          "type": "open"
+        },
+        {
+          "q": "True / False：The HKMA and the EPD sometimes ask citizens to submit banking credentials or one-time passwords through embedded SMS links.",
+          "answer": "False",
+          "type": "tf",
+          "choices": [
+            "True",
+            "False"
+          ]
+        }
+      ],
+      "nextTheme": "Solutions and measures（解決方案與措施）",
+      "sourceFile": "2026-11-10 - Problems and Threats.md"
     }
   ]
 }
