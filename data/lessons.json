@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T05:12:31Z",
+  "generated": "2026-11-10T05:50:25Z",
   "count": 27,
   "lessons": [
     {
@@ -2872,20 +2872,20 @@
       ],
       "collocations": [
         {
-          "phrase": "pose a threat to",
-          "weak": "be dangerous for / can harm",
-          "yue": "對……構成威脅",
-          "frame": "pose a (serious / growing) threat to + noun",
-          "model": "Impersonation websites pose a serious threat to consumer confidence in digital banking.",
-          "mistake": "pose a threat for public safety（後面接對象時用介詞 to，唔係 for）"
+          "phrase": "be fraught with danger",
+          "weak": "be full of danger / have many risks",
+          "yue": "充滿危險／危機四伏（亦常見 `be fraught with risks / difficulties`）",
+          "frame": "be fraught with + danger / risks / difficulties",
+          "model": "Clicking on unverified payment links is fraught with danger for online shoppers.",
+          "mistake": "be fraught of danger（固定搭配介詞係 with，唔係 of）"
         },
         {
-          "phrase": "be vulnerable to",
-          "weak": "be easily hurt by / be easily tricked by",
-          "yue": "容易受到……傷害／影響（較弱勢或防範不足）",
-          "frame": "be (particularly) vulnerable to + noun / -ing",
-          "model": "Elderly residents living alone are particularly vulnerable to telephone and online deception.",
-          "mistake": "be vulnerable of scams（固定搭配係 vulnerable to）"
+          "phrase": "expose someone to the risk of",
+          "weak": "put someone in danger of",
+          "yue": "令某人暴露於……嘅風險之中",
+          "frame": "expose + person / group + to the risk of + noun / -ing",
+          "model": "Sharing one-time passwords exposes customers to the risk of unauthorized bank transfers.",
+          "mistake": "expose customers with the risk（固定結構係 expose sb to sth，介詞用 to）"
         },
         {
           "phrase": "fall victim to",
@@ -2896,39 +2896,39 @@
           "mistake": "fall a victim of（固定動詞片語係 fall victim to，唔加 a，介詞用 to；若用名詞結構先寫 become a victim of）"
         },
         {
-          "phrase": "run the risk of",
-          "weak": "might have / have a chance of suffering",
-          "yue": "冒住……嘅風險（後果通常係負面）",
-          "frame": "run the risk of + -ing / noun",
-          "model": "Users who enter one-time passwords on unverified pages run the risk of losing their savings.",
-          "mistake": "run the risk to lose money（of 後面一定要接名詞或 -ing，唔接 to + verb）"
-        },
-        {
           "phrase": "compound the problem",
           "weak": "make the problem even worse",
           "yue": "令問題雪上加霜；進一步加劇原有問題",
           "frame": "compound the problem (of + noun) / be compounded by + noun",
           "model": "Counterfeit department logos compound the problem by making fake notices look official.",
           "mistake": "compound to the problem（compound 係及物動詞，直接接 the problem，唔使加 to）"
+        },
+        {
+          "phrase": "undermine public trust in",
+          "weak": "make people trust ... less",
+          "yue": "削弱／動搖公眾對……嘅信任",
+          "frame": "undermine (public) trust / confidence in + institution / system",
+          "model": "Rampant impersonation scams can undermine public trust in digital payment platforms and government notices.",
+          "mistake": "undermine public trust on（trust 或 confidence 後面接對象時用介詞 in，唔係 on）"
         }
       ],
       "drill": {
         "items": [
           {
             "id": "A",
-            "prompt": "填空：Users who disclose one-time passwords ________ ________ ________ ________ immediate financial loss.",
+            "prompt": "填空：Clicking on unverified SMS hyperlinks ________ ________ ________ ________ for banking customers.",
             "type": "fill",
-            "answer": "run the risk of",
+            "answer": "is fraught with danger",
             "choices": []
           },
           {
             "id": "B",
-            "prompt": "選正確介詞：Even cautious citizens may fall victim (to / of) sophisticated phishing websites.",
+            "prompt": "選正確介詞：Rampant impersonation scams can undermine public trust (in / on) digital payment systems.",
             "type": "choose",
-            "answer": "to",
+            "answer": "in",
             "choices": [
-              "to",
-              "of"
+              "in",
+              "on"
             ]
           },
           {
@@ -2940,7 +2940,7 @@
           }
         ]
       },
-      "passage": "On 9 November, separate alerts from the Hong Kong Monetary Authority (HKMA), Hong Kong Interbank Clearing Limited (HKICL) and the Environmental Protection Department (EPD) highlighted how impersonation scams continue to **pose a threat to** digital payments and public trust. Fraudsters have created bogus bank login screens, a fake Faster Payment System (FPS) \"Buyer Online Protection\" website, and posters for a fabricated \"Renewable Resource Recovery Incentive Scheme\". Because these schemes mimic everyday banking and recycling services, residents **are vulnerable to** misleading claims and may **fall victim to** phishing. Anyone who enters banking credentials or one-time passwords **runs the risk of** immediate financial loss. Counterfeit department logos and fake customer-service agents **compound the problem** by making scams harder to detect, prompting authorities to remind citizens never to share sensitive information via unknown links.",
+      "passage": "On 9 November, separate alerts from the Hong Kong Monetary Authority (HKMA), Hong Kong Interbank Clearing Limited (HKICL) and the Environmental Protection Department (EPD) highlighted how responding to unverified online links **is fraught with danger**. Fraudsters have created bogus bank login screens, a fake Faster Payment System (FPS) \"Buyer Online Protection\" website, and posters for a fabricated \"Renewable Resource Recovery Incentive Scheme\". Because these schemes mimic everyday banking and recycling services, even attentive residents may **fall victim to** phishing. Disclosing login credentials or one-time passwords **exposes users to the risk of** immediate financial loss. Counterfeit department logos and fake customer-service agents **compound the problem** by making scams harder to detect, while repeated impersonation of public bodies can **undermine public trust in** genuine digital services and green subsidies.",
       "tasks": [
         {
           "q": "Which three Hong Kong public bodies issued scam alerts on 9 November, and what fake schemes or websites were involved?",
