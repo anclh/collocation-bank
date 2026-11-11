@@ -97,26 +97,49 @@
     const totalCards = lessons.reduce((n, L) => n + (L.collocations || []).length, 0);
 
     root.innerHTML = `
-      <header class="hero">
-        <span class="eyebrow">Anson's Collocations · IELTS Writing</span>
-        <h1>Collocation Trainer</h1>
-        <p class="meta">Quizlet-style flashcards · Mon / Thu lessons</p>
-        <div class="stats-row">
-          <span class="stat-pill">完成 <strong>${done}</strong> / ${lessons.length}</span>
-          <span class="stat-pill">進度 <strong>${pct}%</strong></span>
-          <span class="stat-pill">卡牌 <strong>${totalCards}</strong></span>
-        </div>
-        <div class="progress-wrap" aria-hidden="true"><div class="progress-bar" style="width:${pct}%"></div></div>
-        <div class="hub-ctas">
-          <a class="btn btn-primary hub-cta" href="study.html?scope=all">🃏 Flashcards · Study all</a>
-          <a class="btn btn-ghost hub-cta" href="#lessons">📚 Browse decks</a>
-        </div>
-      </header>
-      <section id="lessons">
-        <h2><span class="num">🃏</span> Decks</h2>
-        <p class="hint">撳一堂開 <strong>Cards</strong>；有 passage 嘅堂可以睇 <strong>Passage</strong>。進度存喺呢部電話（localStorage）。</p>
-        <ul class="lesson-list" id="lesson-list"></ul>
-      </section>
+      <div class="app-shell hub-shell">
+        <header class="app-topbar">
+          <a class="wordmark" href="index.html" aria-label="Collocation Trainer home">Collocation Trainer</a>
+          <nav class="app-nav" aria-label="Main navigation">
+            <a href="#lessons">Browse decks</a>
+            <a class="nav-action" href="study.html?scope=all">Study all</a>
+          </nav>
+        </header>
+        <main>
+          <section class="hub-overview" aria-labelledby="hub-title">
+            <div class="hub-heading">
+              <div class="hub-title-group">
+                <p class="brand-line"><span>Anson’s Collocations</span><span>IELTS Writing</span></p>
+                <h1 id="hub-title">Collocation Trainer</h1>
+                <p class="hub-intro">Quizlet-style flashcards for Monday and Thursday lessons.</p>
+              </div>
+              <a class="btn btn-primary hub-cta" href="study.html?scope=all">Study all</a>
+            </div>
+            <div class="progress-panel">
+              <div class="progress-heading">
+                <span>Study progress</span>
+                <strong>${done} / ${lessons.length} lessons</strong>
+              </div>
+              <div class="progress-wrap" aria-hidden="true"><div class="progress-bar" style="transform:scaleX(${pct / 100})"></div></div>
+              <div class="stats-row">
+                <span class="stat-pill">完成 <strong>${done}</strong> / ${lessons.length}</span>
+                <span class="stat-pill">進度 <strong>${pct}%</strong></span>
+                <span class="stat-pill">卡牌 <strong>${totalCards}</strong></span>
+              </div>
+            </div>
+          </section>
+          <section class="lesson-section" id="lessons" aria-labelledby="lessons-title">
+            <div class="section-heading">
+              <div>
+                <h2 id="lessons-title">Lessons</h2>
+                <p class="hint">撳一堂開 <strong>Cards</strong>；有 passage 嘅堂可以睇 <strong>Passage</strong>。進度存喺呢部電話（localStorage）。</p>
+              </div>
+            </div>
+            <ul class="lesson-list" id="lesson-list"></ul>
+          </section>
+        </main>
+        <footer class="app-footer"><span>Collocation Trainer</span><span>IELTS writing practice</span></footer>
+      </div>
     `;
 
     const list = $("#lesson-list");
@@ -133,14 +156,19 @@
         : "";
       li.innerHTML = `
         <a class="lesson-row-main lesson-row-link" href="${href}">
-          <span class="lesson-num">${L.lesson}</span>
+          <span class="lesson-num" aria-label="Lesson ${L.lesson}">${L.lesson}</span>
           <span class="lesson-body">
             <p class="lesson-title">${escapeHtml(L.title || L.theme)}</p>
-            <p class="lesson-meta">${escapeHtml(L.date)} · ${escapeHtml(L.theme)} · ${L.collocations.length} cards${hasPassage(L) ? " · passage" : ""}</p>
+            <p class="lesson-meta">
+              <span>${escapeHtml(L.date)}</span>
+              <span>${escapeHtml(L.theme)}</span>
+              <span>${L.collocations.length} cards</span>
+              ${hasPassage(L) ? "<span>passage</span>" : ""}
+            </p>
           </span>
           <span class="lesson-flags">
             ${isDone ? '<span class="flag done">Done</span>' : ""}
-            ${isLast ? '<span class="flag last">Last</span>' : ""}
+            ${isLast ? '<span class="flag last">Last opened</span>' : ""}
           </span>
         </a>
         <div class="lesson-row-actions">
@@ -273,9 +301,12 @@
       root.innerHTML = `
         <div class="study-shell">
           <header class="study-top">
-            <a class="study-back" href="index.html">← Hub</a>
-            <div class="study-title">Flashcards</div>
-            <div class="study-count">0 / 0</div>
+            <a class="study-back" href="index.html">Back to hub</a>
+            <div class="study-heading">
+              <span class="study-label">Flashcards</span>
+              <h1 class="study-title">Flashcards</h1>
+            </div>
+            <span class="study-count">0 / 0</span>
           </header>
           <div class="error">呢個範圍冇卡牌。</div>
           <div class="footer-actions">
@@ -300,7 +331,7 @@
     const metaBits = [];
     if (study.scope === "all") metaBits.push(`L${card.lessonNum}`);
     if (card.kind === "review") metaBits.push("review");
-    if (starred) metaBits.push("★ still learning");
+    if (starred) metaBits.push("still learning");
     const meta = metaBits.length
       ? `<div class="qz-meta">${metaBits.map(escapeHtml).join(" · ")}</div>`
       : "";
@@ -308,20 +339,24 @@
     root.innerHTML = `
       <div class="study-shell">
         <header class="study-top">
-          <a class="study-back" href="index.html">← Hub</a>
-          <div class="study-title">${escapeHtml(study.title)}</div>
-          <div class="study-count" id="study-count">${pos} / ${total}</div>
+          <a class="study-back" href="index.html">Back to hub</a>
+          <div class="study-heading">
+            <span class="study-label">Flashcards</span>
+            <h1 class="study-title">${escapeHtml(study.title)}</h1>
+          </div>
+          <div class="study-count" id="study-count"><strong>${pos}</strong><span> / ${total}</span></div>
         </header>
-        <div class="study-progress" aria-hidden="true">
-          <div class="progress-bar" id="study-bar" style="width:${pct}%"></div>
+        <div class="study-progress" aria-hidden="true" role="presentation">
+          <div class="progress-bar" id="study-bar" style="transform:scaleX(${pct / 100})"></div>
         </div>
-        <div class="qz-stage" id="qz-stage">
-          <div class="qz-card${study.flipped ? " is-flipped" : ""}" id="qz-card" tabindex="0" role="button" aria-label="Flip flashcard">
+        <main class="study-main">
+          <div class="qz-stage" id="qz-stage">
+            <div class="qz-card${study.flipped ? " is-flipped" : ""}" id="qz-card" tabindex="0" role="button" aria-label="Flip flashcard">
             <div class="qz-inner">
               <div class="qz-face qz-front">
                 ${meta}
-                <div class="qz-phrase">${escapeHtml(card.phrase)}</div>
-                <div class="qz-tap">Tap to flip</div>
+                <h2 class="qz-phrase">${escapeHtml(card.phrase)}</h2>
+                <div class="qz-tap">Tap or press space to reveal</div>
               </div>
               <div class="qz-face qz-back">
                 ${meta}
@@ -329,18 +364,16 @@
                 <div class="qz-yue">${escapeHtml(card.yue || "（未有粵語 gloss）")}</div>
                 ${weakLine}
                 ${modelLine}
-                <div class="qz-tap">Tap to flip back</div>
+                <div class="qz-tap">Tap or press space to flip back</div>
               </div>
             </div>
           </div>
         </div>
         <div class="qz-actions">
-          <button type="button" class="btn btn-warn qz-btn" id="btn-learning" aria-label="Still learning">
-            <span class="qz-btn-icon">↺</span>
+          <button type="button" class="btn btn-ghost qz-btn" id="btn-learning" aria-label="Still learning">
             Still learning
           </button>
           <button type="button" class="btn btn-primary qz-btn" id="btn-know" aria-label="Know">
-            <span class="qz-btn-icon">✓</span>
             Know
           </button>
         </div>
@@ -348,7 +381,9 @@
           <button type="button" class="btn btn-ghost btn-sm" id="btn-shuffle">Shuffle</button>
           <button type="button" class="btn btn-ghost btn-sm" id="btn-restart">Restart</button>
         </div>
-        <p class="qz-swipe-hint">Swipe ← Still learning · Swipe → Know · Space = flip</p>
+        <p class="qz-swipe-hint">Swipe left: still learning. Swipe right: know. Press space to flip.</p>
+        </main>
+        <footer class="study-footer"><a href="index.html">Back to lesson list</a></footer>
       </div>
     `;
 
@@ -372,12 +407,14 @@
     root.innerHTML = `
       <div class="study-shell study-end">
         <header class="study-top">
-          <a class="study-back" href="index.html">← Hub</a>
-          <div class="study-title">${escapeHtml(study.title)}</div>
+          <a class="study-back" href="index.html">Back to hub</a>
+          <div class="study-heading">
+            <span class="study-label">Flashcards</span>
+            <h1 class="study-title">${escapeHtml(study.title)}</h1>
+          </div>
           <div class="study-count">Done</div>
         </header>
         <div class="qz-end-card">
-          <div class="qz-end-emoji">🎉</div>
           <h2>Session complete</h2>
           <p class="meta">你完成咗呢輪 flashcards。${study.lessonId ? " 呢堂已標 Done。" : ""}</p>
           <div class="qz-end-stats">
@@ -390,7 +427,7 @@
             <a class="btn btn-ghost" href="${againHref}">${againLabel}</a>
             ${
               study.lessonId && study.lesson && hasPassage(study.lesson)
-                ? `<a class="btn btn-ghost" href="study.html?id=${encodeURIComponent(study.lessonId)}&view=passage">📖 Read passage</a>`
+                ? `<a class="btn btn-ghost" href="study.html?id=${encodeURIComponent(study.lessonId)}&view=passage">Read passage</a>`
                 : ""
             }
             <a class="btn btn-ghost" href="index.html">Back to hub</a>
@@ -551,25 +588,35 @@
     root.innerHTML = `
       <div class="study-shell passage-shell">
         <header class="study-top">
-          <a class="study-back" href="index.html">← Hub</a>
-          <div class="study-title">L${L.lesson} · Passage</div>
-          <div class="study-count">📖</div>
+          <a class="study-back" href="index.html">Back to hub</a>
+          <div class="study-heading">
+            <span class="study-label">Lesson ${L.lesson}</span>
+            <h1 class="study-title">${escapeHtml(L.title || L.theme)}</h1>
+          </div>
+          <div class="study-count">Passage</div>
         </header>
-        <div class="passage-card">
-          <p class="passage-kicker">${escapeHtml(L.date)} · ${escapeHtml(L.theme)}</p>
-          <h2 class="passage-heading">Reading passage</h2>
-          <p class="passage-body">${formatPassageHtml(L.passage)}</p>
-          ${chips ? `<div class="passage-chips" aria-label="Today's collocations">${chips}</div>` : ""}
-        </div>
-        <section class="passage-tasks-sec">
-          <h3><span class="num">✏️</span> Passage tasks</h3>
-          <p class="hint">撳開睇答案（練完先睇）。</p>
-          ${tasksHtml}
-        </section>
+        <main class="passage-main">
+          <article class="passage-card">
+            <div class="passage-meta"><time datetime="${escapeHtml(L.date)}">${escapeHtml(L.date)}</time><span>${escapeHtml(L.theme)}</span></div>
+            <h2 class="passage-heading">Reading passage</h2>
+            <p class="passage-body">${formatPassageHtml(L.passage)}</p>
+            ${chips ? `<div class="passage-chips" aria-label="Today's collocations">${chips}</div>` : ""}
+          </article>
+          <section class="passage-tasks-sec" aria-labelledby="passage-tasks-title">
+            <div class="section-heading">
+              <div>
+                <h2 id="passage-tasks-title">Passage tasks</h2>
+                <p class="hint">撳開睇答案（練完先睇）。</p>
+              </div>
+            </div>
+            ${tasksHtml}
+          </section>
+        </main>
         <div class="footer-actions passage-footer">
-          <a class="btn btn-primary" href="${cardsHref}">🃏 Study cards</a>
+          <a class="btn btn-primary" href="${cardsHref}">Study cards</a>
           <a class="btn btn-ghost" href="index.html">Back to hub</a>
         </div>
+        <footer class="study-footer"><a href="index.html">Back to lesson list</a></footer>
       </div>
     `;
   }
